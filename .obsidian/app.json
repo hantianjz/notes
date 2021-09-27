@@ -1,4 +1,19 @@
 {
   "promptDelete": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "./_attachments",
+  "fileSortOrder": "byModifiedTime",
+  "autoPairBrackets": false,
+  "showLineNumber": true,
+  "useTab": false,
+  "vimMode": true,
+  "trashOption": "local",
+  "foldHeading": true,
+  "foldIndent": false,
+  "strictLineBreaks": true,
+  "smartIndentList": true
 }

@@ -1,0 +1,10 @@
+[Unit]
+Description=Wifi Sniffer service
+
+
+[Service]
+ExecStartPre=/home/hjz/setup_sniffer.sh
+ExecStart=/home/hjz/start_sniffer.sh
+
+[Install]
+WantedBy=default.target

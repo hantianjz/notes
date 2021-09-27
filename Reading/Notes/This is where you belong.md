@@ -1,0 +1,41 @@
+#non-fiction #Warnick #Belonging
+
+** This is where you belong: Finding home wherever you are **
+
+> A place belongs forever to whoever claims it hardest, remembers it
+> most obsessively, wrenches it from itself, shapes it, renders it, loves
+> it so radically that he remakes it in his own image.
+> -Joan Didion
+
+The belief in the healing power of geography, that will change who we are and give us the opportunity to reinvent ourselves.
+
+- American on average move 11.7 time per life time 
+- a new city: the thrill of possibility 
+- The idea that a place can make us happy is a fantasy.
+- 3 types of people: 
+    - Mobile: move at first opportunity 
+    - Stuck: lack resources to move
+    - Rooted: actually stay because they are content where they are
+- place attachments, it is better for us long term in every way of life
+- Peak at 3 to 5 years, or can be speed up by taking action 
+
+1. Walk more.
+2. Buy local.
+3. Get to know my neighbors.
+4. Do fun stuff.
+5. Explore nature.
+6. Volunteer.
+7. Eat local.
+8. Become more political.
+9. Create something new.
+10. Stay loyal through hard times.
+
+> One’s destination is never a place, but rather a new way of looking at things.
+
+To 1 mile solution, do my errands within 1 mile of my home.
+
+Buy local to invest back into local
+
+Saying hi to your neighbor to build those weak connections 
+
+11. Experience joy as long as you are here.
