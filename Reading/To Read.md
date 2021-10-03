@@ -1,9 +1,5 @@
 - A Beautifully Foolish Endeavor
 	- Fiction, sequel to "An absolutely remarkable thing"
-- This is where you belong
-	- How to be a good neighbor...
-- The rise and fall of D.O.D.O
-	- Fiction by Neal Stephenson
 - Structures
 	- Non-Fiction, the physics of buildings
 - Quantum Man

@@ -1,0 +1,16 @@
+### Eero
+- Gab office of the CTO? Really what does that mean and how does it differ from main engineering team
+- How is the engineering team organized, software/hardware. Which org does firmware report to.
+- Overlap with Amazon
+- Role is: software engineer, smart home, low power network, open thread, 
+- Level difference for Eero interview, the role is opened for SDE 2, but I should be SDE 3. Should be interviewed at that level maybe
+- Zigbee hub solution
+- Phone screen for L6 09/23
+- Matthew Richards:
+    - got drilled in with PR conflict resolution not sure what he was asking for 
+    - He was on the phone during some part of the interview 
+    - Very hard to get an answer from him
+    - Phone screen: 
+        - What is your option on Eero's tech debt? If you were given unlimited resource what would you tackle?
+        - What do you think about the senior leadership at Eero and it's relationship to Amazon?
+        - 

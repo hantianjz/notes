@@ -1,7 +1,8 @@
+http://h14s.p5r.org/2012/09/0x5f3759df.html
+
 ```c
 #include <stdio.h>
 
-http://h14s.p5r.org/2012/09/0x5f3759df.html
 float FastInvSqrt(float x) {
   float xhalf = 0.5f * x;
   int i = *(int*)&x;         // evil floating point bit level hacking

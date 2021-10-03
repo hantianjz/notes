@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SBNotes/Vim.md",
+            "file": "Misc/2021 Interviews/Formlabs.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#WHD",
+                "query": "\"Sidewalk labs\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SBNotes/Vim.md",
+                "file": "Misc/2021 Interviews/Formlabs.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "c0c8041a5f134d15",
   "lastOpenFiles": [
-    "SB Notes/Untitled.md",
-    "SB Notes/HOWTO/Sniffer Setup/README.md",
-    "SB Notes/HOWTO/Secureboot/SteveS' notes/Untitled.md",
-    "SB Notes/HOWTO/Secureboot/Untitled.md",
-    "SB Notes/HOWTO/Untitled.md",
-    "Tech/Untitled.md",
-    "Tech/RF/WIFI - IEEE802.11/Untitled.md",
-    "Tech/Algorithm/Untitled.md",
-    "Tech/ISA/IA-32/3 Basic Execution Environment.md",
-    "Tech/ISA/IA-32/4 Data Types.md"
+    "Misc/2021 Interviews/Formlabs.md",
+    "Diary/Fr-01-Oct-2021.md",
+    "Diary/Sa-02-Oct-2021.md",
+    "Misc/2021 Interviews/Latch.md",
+    "Misc/2021 Interviews/2021 Job seeking.md",
+    "Diary/Th-30-Sep-2021.md",
+    "Notes Intro.md",
+    "Me/Untitled.md",
+    "Garden Notes/BUS/USB.md",
+    "Misc/2021 Interviews/Eero_Matthew_09_23.md"
   ]
 }

@@ -15,5 +15,6 @@
   "foldHeading": true,
   "foldIndent": false,
   "strictLineBreaks": true,
-  "smartIndentList": true
+  "smartIndentList": true,
+  "showFrontmatter": false
 }

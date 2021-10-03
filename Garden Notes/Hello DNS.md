@@ -1,4 +1,3 @@
-# DNS Basics
 https://powerdns.org/hello-dns/basic.md.html
 
 - RFC 882 & 883, similar not current DNS
@@ -71,9 +70,9 @@ DNS Names: Hierarchical order of DNS name is from right to left. The implication
 ## Start of Authority
 - Zone start with Start of Authority (SoA) record
 - Root zone "." always exist on all server/internet
-"""
+```
 .   86400   IN   SOA   a.root-servers.net. nstld.verisign-grs.com. 2018032802 1800 900 604800 86400
-"""
+```
 
 Final number of 86400, indicate if name or RRSET does not exist, will continue to not exist for 1 day.
 

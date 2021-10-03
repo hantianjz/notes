@@ -1,6 +1,8 @@
+[[Eero]] phone screen with Matthew
+#interview #techinical_Interview #python
+
 ```python
 
- #  # Your previous Plain Text content is preserved below: # 
 # Welcome, James!
 # 
 # Parse a file with profiling events formatted as [ $timestamp_in_seconds ] event $event_name (START|STOP) and output stats (max and average) for each event type.

@@ -1,0 +1,22 @@
+### Sidewalk labs
+- 2015 founded, Dan.
+- Early days operate as thinktank
+- 2018 bid on Toronto waterfront properly developer
+- 2020 effected the Toronto project, not ready for city scale development
+- Doing sustainable development, learned from this exchange
+- Become a product company, to over product to builder and developers to build better
+- Mesa
+- Pebble
+- Delve
+Senior embedded engineer:
+- TL: scope and explore, and implement
+- Estimating workload and risk
+- Overall company: Topco, centralize corp services
+    - Typical 
+    - Centralized design team
+    - Incubation
+    - Consulting service
+    - Policy maker
+- Sub operating company
+    - Product development
+    - Lean teams, 20-30 employee, senior director of product

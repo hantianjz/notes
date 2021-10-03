@@ -1,5 +1,3 @@
-# IEEE Standard 754 Floating Point Numbers
-
 ## What are floating numbers?
 
 Real number can be represented via:
@@ -15,15 +13,15 @@ Fixed-point has fixed window of representation, limits very large or very small 
 
 3 components:
 - sign
-- expoent
+- exponent
 - mantissa
 
 Mantissa include *fraction* and implicit leading digit. Exponent base is 2, and is implicit.
 
- |  Sign | Exponent | Fraction
--|-------|----------|---------
-Single Precision | 31 (1) | 30-23 (8) | 22-00 (23)
-Double precision | 63 (1) | 62-52 (11) | 51-00 (52)
+|                 |  Sign  | Exponent   | Fraction  |
+|-----------------|--------|------------|-----------|
+|Single Precision | 31 (1) | 30-23 (8)  | 22-00 (23)|
+|Double precision | 63 (1) | 62-52 (11) | 51-00 (52)|
 
 ## The Sign bit
 
@@ -31,7 +29,7 @@ Single bit; 0 denote positive, 1 negative.
 
 ## The Exponent
 
-Represent both positive and negative exponents, by adding a bias to the actual expoent.
+Represent both positive and negative exponents, by adding a bias to the actual exponent.
 
 The bias is calculated by dividing the max possible value of sign by 2.
 
