@@ -13,17 +13,18 @@ Reporting: Manager
 email: [charles.nicholson@gmail.com](mailto:charles.nicholson@gmail.com)
 mobile: [14154487238](tel:+14154487238) 
 
+# Jobs
 - [[Formlabs]]: #interview_on_going 
     - Getting double interviewed
 
-- Boston Dynamic:
+- [[Boston Dynamic]]:
     - Chat with recruiter 10/4
 
 - [[Sidewalk labs]]: *Krishana House* #interview_on_going 
     - Onsite Scheduled Oct 4-5
 
 - Superpestrian:
-    -   Chat with recruiter 09/30
+    -   Chat with recruiter 09/30, missed the call and the recruiter didn't get back to me
 
 - [[WHOOP]]: #interview_on_going 
     - Called with Eng manager 09/29

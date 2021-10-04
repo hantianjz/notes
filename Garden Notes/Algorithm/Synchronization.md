@@ -1,0 +1,1 @@
+The best book for learning and reviewing synchronization is [[The little book of Semaphores]]

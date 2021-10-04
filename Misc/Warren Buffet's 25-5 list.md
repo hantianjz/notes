@@ -21,3 +21,4 @@ Learn x86 assembly
 Play RISC-V system
 Learn Physics + Quantum computing
 Design circuits and fab hardware
+fussing with tablet hardware (Just get started with some hardware can make it work)

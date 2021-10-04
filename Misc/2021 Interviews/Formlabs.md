@@ -1,4 +1,4 @@
-### Formlabs
+# Formlabs
  - Recruiter: Kerrie Juels
  - Initial chat 09/21
  - Very structured call from recuiter
@@ -15,9 +15,9 @@
  - Ugh....this was a bad chat, could have done better
  - And the code challenge was kind of rushed, wasted too much time on the first question, was thinking too much.
  - My application is moved on, but will have to wait until next week to continue the process
- - Formlabs also have a separate robotics software engineer, what is the difference between that and firm
+ - Formlabs also have a separate robotics software engineer, what is the difference between that and embedded engineer?
 
-# Screening
+## Screening
 #Formlabs Screening?
 ```
 // James here...

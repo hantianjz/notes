@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c0c8041a5f134d15",
+        "id": "86dde69fb865d587",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Misc/2021 Interviews/Formlabs.md",
+            "file": "Misc/Warren Buffet's 25-5 list.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Sidewalk labs\"",
+                "query": "tag:#Gaiman",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237
+    "width": 310
   },
   "right": {
     "id": "0a78e593f2059fd1",
@@ -68,35 +68,58 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/2021 Interviews/Formlabs.md",
+                "file": "Misc/Warren Buffet's 25-5 list.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "248a0a42f8f311fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f59d6621b6b9e989",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Misc/Warren Buffet's 25-5 list.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 276,
-    "collapsed": true
+    "width": 276
   },
-  "active": "c0c8041a5f134d15",
+  "active": "86dde69fb865d587",
   "lastOpenFiles": [
-    "Misc/2021 Interviews/Formlabs.md",
-    "Diary/Fr-01-Oct-2021.md",
-    "Diary/Sa-02-Oct-2021.md",
-    "Misc/2021 Interviews/Latch.md",
-    "Misc/2021 Interviews/2021 Job seeking.md",
-    "Diary/Th-30-Sep-2021.md",
-    "Notes Intro.md",
-    "Me/Untitled.md",
-    "Garden Notes/BUS/USB.md",
-    "Misc/2021 Interviews/Eero_Matthew_09_23.md"
+    "Misc/Warren Buffet's 25-5 list.md",
+    "Reading/Currently.md",
+    "Reading/To Read.md",
+    "Reading/Completed.md",
+    "Reading/Notes/American Gods.md",
+    "Reading/Notes/Every tool is a hammer.md",
+    "Reading/Notes/Being Mortal.md",
+    "Reading/Notes/Gut.md",
+    "Reading/Notes/This is where you belong.md",
+    "Reading/Notes/Power of habit.md"
   ]
 }
