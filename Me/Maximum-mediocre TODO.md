@@ -1,3 +1,5 @@
-- install rustc
+- #dot_desktop_apps `/usr/share/applications`
+- install rustc + cargo
 - setup xresource
 - Do pulseaudio mixer
+- Install mons + i3 config

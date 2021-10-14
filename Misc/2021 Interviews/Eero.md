@@ -1,4 +1,3 @@
-# Eero notes
 - Gab
 - office of the CTO? Really what does that mean and how does it differ from main engineering team
 - How is the engineering team organized, software/hardware. Which org does firmware report to.

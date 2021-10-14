@@ -7,7 +7,7 @@
   "newLinkFormat": "shortest",
   "attachmentFolderPath": "_attachments",
   "fileSortOrder": "byModifiedTime",
-  "autoPairBrackets": true,
+  "autoPairBrackets": false,
   "showLineNumber": true,
   "useTab": true,
   "vimMode": true,
@@ -16,11 +16,12 @@
   "foldIndent": false,
   "strictLineBreaks": true,
   "smartIndentList": true,
-  "showFrontmatter": false,
+  "showFrontmatter": true,
   "spellcheckDictionary": [
     "behaviours",
     "Cpp"
   ],
   "mobilePullAction": "switcher:open",
-  "communityPluginSortOrder": "download"
+  "communityPluginSortOrder": "download",
+  "autoPairMarkdown": false
 }

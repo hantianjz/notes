@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diary/We-13-Oct-2021.md",
+            "file": "Misc/2021 Interviews/Latch.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229
+    "width": 229,
+    "collapsed": true
   },
   "right": {
     "id": "0a78e593f2059fd1",
@@ -69,6 +70,18 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "73821907fa954ae8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Misc/2021 Interviews/Latch.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       },
@@ -82,14 +95,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/We-13-Oct-2021.md",
+                "file": "Misc/2021 Interviews/Latch.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -97,19 +110,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276
+    "width": 276,
+    "collapsed": true
   },
   "active": "6d5d3e12ab600c04",
   "lastOpenFiles": [
-    "Diary/We-13-Oct-2021.md",
-    "Diary/Sa-25-Sep-2021.md",
-    "Me/Happiness.md",
-    "Reading/Maximum-mediocre TODO.md",
-    "Reading/Study material TODO.md",
-    "Diary/Blogging ideas.md",
-    "Reading/Favor Qoutes/Doctor Who.md",
-    "Diary/Tu-12-Oct-2021.md",
-    "Diary/We-06-Oct-2021.md",
-    "Diary/Su-10-Oct-2021.md"
+    "Misc/2021 Interviews/Latch.md",
+    "Misc/2021 Interviews/2021 Job seeking.md",
+    "Misc/2021 Interviews/JOBS.md",
+    "Misc/2021 Interviews/Starry.md",
+    "Misc/2021 Interviews/Superpedestrian.md",
+    "Misc/2021 Interviews/Formlabs.md",
+    "Misc/2021 Interviews/WHOOP.md",
+    "Misc/2021 Interviews/Sidewalk labs.md",
+    "Diary/Th-14-Oct-2021.md",
+    "Me/Maximum-mediocre TODO.md"
   ]
 }
