@@ -1,0 +1,6 @@
+- Linux internals https://youtu.be/5osOHhBWKOQ
+- Reverse Engineering https://youtu.be/d4Pgi5XML8E
+- Element of programming styles https://youtu.be/8SUkrR7ZfTAhttps://youtu.be/8SUkrR7ZfTA
+- Rust the Linux Kernel https://paulmck.livejournal.com/62436.html
+- ARM fault https://interrupt.memfault.com/blog/cortex-m-fault-debug
+- https://twitter.com/blakeaburge/status/1447544901210554374?s=21

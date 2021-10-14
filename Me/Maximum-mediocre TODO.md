@@ -1,0 +1,3 @@
+- install rustc
+- setup xresource
+- Do pulseaudio mixer

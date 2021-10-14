@@ -57,3 +57,29 @@ bool anagram(char *stra, char*strb){
 A lot of tech debt from lack of process and small team. I wonder how strong is the senior teams.
 It’s a small team for sure and probably pretty disorganized 
 What is the plan for the leadership team?
+
+# On-site Interview
+Here is the itinerary for your visit:  
+  
+1:30pm-2:15pm EDT  
+Interviewer:  
+[Ed Tekeian](https://www.linkedin.com/in/edtekeian/), Engineering Lead, Software  
+  
+2:15pm-3:00pm EDT  
+Interviewers:  
+Andrew Eckel, Software Engineer  
+Evan Matteson, Embedded Software Engineer  
+  
+3:00pm-3:45pm EDT  
+Interviewers:  
+[Amanda Lau](https://www.linkedin.com/in/amanda-h-lau/), Embedded Software Engineer  
+[Moritz Walter](https://www.linkedin.com/in/moritzwalter/), Software Engineer  
+  
+You will be meeting at our 35 Medford St. location - let me know if you'd like me to send along directions and/or parking details again, a parking permit is attached to this email. Please text me when you arrive, 617-898-0530.
+
+# Notes
+- The office was really cool, and very packed?
+- The team is meh....Andrew and Evan's interview process is distant, is that really the team we are working with?
+- Ed is great and seems very qualified director, but feels like Moritz is the only capable senior member of the team
+- The work seems interesting, but....there is so much tech debt, just what they have mentioned seems like a pile of disorganized 
+- the interview process is messy, so I don't know what they are doing with, overall meh...

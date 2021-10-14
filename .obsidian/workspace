@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "86dde69fb865d587",
+        "id": "6d5d3e12ab600c04",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Misc/Warren Buffet's 25-5 list.md",
+            "file": "Diary/We-13-Oct-2021.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Gaiman",
+                "query": "tag:#management",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,12 +52,26 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310
+    "width": 229
   },
   "right": {
     "id": "0a78e593f2059fd1",
     "type": "split",
     "children": [
+      {
+        "id": "e6af6b4718763f4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93d418b644a88041",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
       {
         "id": "bc4d7f136866670c",
         "type": "tabs",
@@ -68,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Warren Buffet's 25-5 list.md",
+                "file": "Diary/We-13-Oct-2021.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -78,48 +92,24 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "248a0a42f8f311fd",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "f59d6621b6b9e989",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Misc/Warren Buffet's 25-5 list.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 276
   },
-  "active": "86dde69fb865d587",
+  "active": "6d5d3e12ab600c04",
   "lastOpenFiles": [
-    "Misc/Warren Buffet's 25-5 list.md",
-    "Reading/Currently.md",
-    "Reading/To Read.md",
-    "Reading/Completed.md",
-    "Reading/Notes/American Gods.md",
-    "Reading/Notes/Every tool is a hammer.md",
-    "Reading/Notes/Being Mortal.md",
-    "Reading/Notes/Gut.md",
-    "Reading/Notes/This is where you belong.md",
-    "Reading/Notes/Power of habit.md"
+    "Diary/We-13-Oct-2021.md",
+    "Diary/Sa-25-Sep-2021.md",
+    "Me/Happiness.md",
+    "Reading/Maximum-mediocre TODO.md",
+    "Reading/Study material TODO.md",
+    "Diary/Blogging ideas.md",
+    "Reading/Favor Qoutes/Doctor Who.md",
+    "Diary/Tu-12-Oct-2021.md",
+    "Diary/We-06-Oct-2021.md",
+    "Diary/Su-10-Oct-2021.md"
   ]
 }

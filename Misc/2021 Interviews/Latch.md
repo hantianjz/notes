@@ -1,4 +1,8 @@
-# Latch
+# Offer
+- 287K total; senior FW, new team smart access unit, 5 engineer
+- 170K, 10% bonus, RSU 100K
+
+# Notes
 - Latch product, software ecosystem of building, 8 product.
 - Property management assistance
 - 3rdparty app integration with home automation integration

@@ -5,16 +5,22 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "newLinkFormat": "shortest",
-  "attachmentFolderPath": "./_attachments",
+  "attachmentFolderPath": "_attachments",
   "fileSortOrder": "byModifiedTime",
   "autoPairBrackets": true,
   "showLineNumber": true,
-  "useTab": false,
+  "useTab": true,
   "vimMode": true,
   "trashOption": "local",
   "foldHeading": true,
   "foldIndent": false,
   "strictLineBreaks": true,
   "smartIndentList": true,
-  "showFrontmatter": false
+  "showFrontmatter": false,
+  "spellcheckDictionary": [
+    "behaviours",
+    "Cpp"
+  ],
+  "mobilePullAction": "switcher:open",
+  "communityPluginSortOrder": "download"
 }

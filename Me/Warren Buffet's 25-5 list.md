@@ -2,6 +2,7 @@
 Date: 09-25-2021
 #### Form clear options about systems (programming language, system arch)
 - Read more about different programming language features and group similar feature
+- Master [[synchronization]] and implementation and behaviours
 #### Master modern Cpp
 - Write problems, Use it professionally
 #### Run professional blog

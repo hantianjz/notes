@@ -7,10 +7,9 @@
   "daily-notes": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
-      "key": "T"
+      "key": "Y"
     }
   ]
 }

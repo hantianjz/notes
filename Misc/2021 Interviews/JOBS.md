@@ -1,5 +1,3 @@
-#interview #Career
-
 # Ref
 Jerry Ryle
 Company: Verily
@@ -18,16 +16,16 @@ mobile: [14154487238](tel:+14154487238)
     - Getting double interviewed
 
 - [[Boston Dynamic]]:
-    - Chat with recruiter 10/4
+    - After chatting with Eng Manager, it feels like an interesting role.
 
 - [[Sidewalk labs]]: *Krishana House* #interview_on_going 
-    - Onsite Scheduled Oct 4-5
+    - Interview done, waiting on result, debriefing is next week
 
 - Superpestrian:
-    -   Chat with recruiter 09/30, missed the call and the recruiter didn't get back to me
+    - Going to get back to me after chatting with Eng manager this Thursday
 
 - [[WHOOP]]: #interview_on_going 
-    - Called with Eng manager 09/29
+    - Interview tomorrow
 
 - [[Eero]]: #interview_on_going 
     - Waiting to schedule onsite interview
