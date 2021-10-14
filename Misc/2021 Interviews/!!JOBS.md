@@ -1,4 +1,3 @@
-#interview #Career
 
 # Ref
 **Jerry Ryle**

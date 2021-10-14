@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Misc/2021 Interviews/Latch.md",
+            "file": "Misc/2021 Interviews/!!JOBS.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229,
-    "collapsed": true
+    "width": 229
   },
   "right": {
     "id": "0a78e593f2059fd1",
@@ -77,7 +76,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/2021 Interviews/Latch.md",
+                "file": "Misc/2021 Interviews/!!JOBS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/2021 Interviews/Latch.md",
+                "file": "Misc/2021 Interviews/!!JOBS.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,15 +114,15 @@
   },
   "active": "6d5d3e12ab600c04",
   "lastOpenFiles": [
-    "Misc/2021 Interviews/Latch.md",
     "Misc/2021 Interviews/2021 Job seeking.md",
-    "Misc/2021 Interviews/JOBS.md",
+    "Misc/2021 Interviews/Pigweed.md",
+    "Misc/2021 Interviews/Chrome OS.md",
+    "Misc/2021 Interviews/Sonos.md",
+    "Misc/2021 Interviews/Boston Dynamic.md",
     "Misc/2021 Interviews/Starry.md",
     "Misc/2021 Interviews/Superpedestrian.md",
     "Misc/2021 Interviews/Formlabs.md",
     "Misc/2021 Interviews/WHOOP.md",
-    "Misc/2021 Interviews/Sidewalk labs.md",
-    "Diary/Th-14-Oct-2021.md",
-    "Me/Maximum-mediocre TODO.md"
+    "Misc/2021 Interviews/Latch.md"
   ]
 }
