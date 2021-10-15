@@ -31,7 +31,7 @@ email: robbie.shade@gmail.com
 
 # Company
 |Company          | Base Pay       | Bonus    | Equity      | TOTAL |
-|-------------    |----------------|----------|------------ |-------|
+|-----------------|----------------|----------|-------------|-------|
 |[[Formlabs]]     | ?              | ?        | ?           |       |
 |[[Sidewalk labs]]| ?              | ?        | ?           |       |
 |[[WHOOP]]        | $145K          | 0        | 40K Option  | $178k |

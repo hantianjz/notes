@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Misc/2021 Interviews/!!JOBS.md",
+            "file": "Me/Blogging ideas.md",
             "mode": "source"
           }
         }
@@ -63,23 +63,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "93d418b644a88041",
+            "id": "5d6410947179c07e",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
-            }
-          },
-          {
-            "id": "73821907fa954ae8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Misc/2021 Interviews/!!JOBS.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
             }
           }
         ]
@@ -94,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/2021 Interviews/!!JOBS.md",
+                "file": "Me/Blogging ideas.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,25 +92,37 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "73821907fa954ae8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Me/Blogging ideas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 276,
-    "collapsed": true
+    "width": 276
   },
   "active": "6d5d3e12ab600c04",
   "lastOpenFiles": [
-    "Misc/2021 Interviews/2021 Job seeking.md",
-    "Misc/2021 Interviews/Pigweed.md",
-    "Misc/2021 Interviews/Chrome OS.md",
-    "Misc/2021 Interviews/Sonos.md",
-    "Misc/2021 Interviews/Boston Dynamic.md",
+    "Me/Blogging ideas.md",
+    "Me/Warren Buffet's 25-5 list.md",
+    "Me/Study material TODO.md",
+    "Me/Maximum-mediocre TODO.md",
     "Misc/2021 Interviews/Starry.md",
-    "Misc/2021 Interviews/Superpedestrian.md",
-    "Misc/2021 Interviews/Formlabs.md",
-    "Misc/2021 Interviews/WHOOP.md",
-    "Misc/2021 Interviews/Latch.md"
+    "Misc/2021 Interviews/Boston Dynamic.md",
+    "Garden Notes/HOWTO/Setup Network bridge.md",
+    "Garden Notes/HOWTO/QEMU.md",
+    "Garden Notes/HOWTO/Oneplus Root.md",
+    "Garden Notes/ISA/IA-32 - Vol 1/3 Basic Execution Environment.md"
   ]
 }
