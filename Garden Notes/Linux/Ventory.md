@@ -1,1 +1,0 @@
-[Ventoy](https://www.ventoy.net/en/doc_news.html)

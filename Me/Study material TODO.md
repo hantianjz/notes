@@ -1,6 +1,12 @@
+- Password-store generator with XKCD password generator
 - Linux internals https://youtu.be/5osOHhBWKOQ
 - Reverse Engineering https://youtu.be/d4Pgi5XML8E
 - Element of programming styles https://youtu.be/8SUkrR7ZfTAhttps://youtu.be/8SUkrR7ZfTA
 - Rust the Linux Kernel https://paulmck.livejournal.com/62436.html
 - ARM fault https://interrupt.memfault.com/blog/cortex-m-fault-debug
 - https://twitter.com/blakeaburge/status/1447544901210554374?s=21
+- How To Write Shared Libraries - $ Books/Technical/dsohowto.pdf
+- Fast Inverse Square Root http://h14s.p5r.org/2012/09/0x5f3759df.html
+- CAN bus https://en.wikipedia.org/wiki/CAN_bus
+- https://stevelosh.com/blog/2012/10/a-modern-space-cadet/
+- Hash in C https://www.andreinc.net/2021/10/02/implementing-hash-tables-in-c-part-1

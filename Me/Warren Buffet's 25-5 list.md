@@ -2,7 +2,7 @@
 Date: 09-25-2021
 #### Form clear options about systems (programming language, system arch)
 - Read more about different programming language features and group similar feature
-- Master [[synchronization]] and implementation and behaviours
+- Master [[Concurrency]] and implementation and behaviours
 #### Master modern Cpp
 - Write problems, Use it professionally
 #### Run professional blog
@@ -10,7 +10,7 @@ Date: 09-25-2021
 - Write 10 minutes every day
 #### Fluent in Rust
 - Do problem sets
-#### Master HW standards (USB, WiFi, Bluetooth/LE)
+#### Master HW standards ([[USB Protocol]], WiFi, Bluetooth/LE)
 - Read standards and take notes
 - Proof concept HW
 - HW analyzer on real HW

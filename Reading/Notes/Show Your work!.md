@@ -28,7 +28,7 @@
 - Learn to talk about yourself, how to self yourself
 ### 6. Teach what you know.
 - When you teach others and share, it also become education opportunity for yourself
-### 7. Don't turn into [[human]] spam.
+### 7. Don't turn into [[Human]] spam.
 - Becoming a more interesting person: to be curious and attentive, and to practice "the continual projection of interest."
 - "Being good at things is the only thing that earns you clout or connections."
 - The #Vampire_Test a simple way to know how you should let in and out of your life.

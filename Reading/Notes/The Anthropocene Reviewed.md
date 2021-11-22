@@ -1,0 +1,1 @@
+> "For anyone trying to discern what to do w/ their life: PAY #ATTENTION TO WHAT YOU PAY ATTENTION TO. That's pretty much all the info y need."
