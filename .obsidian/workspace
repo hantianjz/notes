@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "6d5d3e12ab600c04",
+        "id": "a36eeb095f96e174",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "中文笔记/笔记简介.md",
-            "mode": "preview"
+            "file": "Diary/We-08-Dec-2021.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#management",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229
+    "width": 216
   },
   "right": {
     "id": "0a78e593f2059fd1",
@@ -69,8 +69,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "8ce830b58ffeaf28",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "bc4d7f136866670c",
@@ -82,14 +91,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中文笔记/笔记简介.md",
+                "file": "Diary/We-08-Dec-2021.md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -99,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中文笔记/笔记简介.md",
+                "file": "Diary/We-08-Dec-2021.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,19 +119,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276
+    "width": 203.5,
+    "collapsed": true
   },
-  "active": "6d5d3e12ab600c04",
+  "active": "a36eeb095f96e174",
   "lastOpenFiles": [
-    "中文笔记/笔记简介.md",
-    "Garden Notes/RF/LTE/LTE Physical Layer Overview.md",
-    "Garden Notes/How to learn?.md",
-    "Diary/Mo-22-Nov-2021.md",
-    "Diary/Fr-14-May-2021.md",
-    "Me/Blogging ideas.md",
-    "Me/Warren Buffet's 25-5 list.md",
-    "Me/Study material TODO.md",
-    "Me/Maximum-mediocre TODO.md",
-    "Misc/2021 Interviews/Starry.md"
+    "Diary/We-08-Dec-2021.md",
+    "Misc/Vaccine Cards.md",
+    "Garden Notes/Adafruit playground express.md",
+    "Garden Notes/SAMD21/NVMCTRL Bootprot.md",
+    "Garden Notes/STM32L5/STM32L5_52_62_xx.md",
+    "Garden Notes/STM32L5/_attachments/stm32_sys_arch.png",
+    "Garden Notes/STM32L5/STM32L5 (52_62_xx).md",
+    "Garden Notes/S.md",
+    "Garden Notes/Segger Jtag connector pin maps.md",
+    "Garden Notes/What is strong and weak team.md"
   ]
 }

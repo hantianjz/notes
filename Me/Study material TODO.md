@@ -10,3 +10,4 @@
 - CAN bus https://en.wikipedia.org/wiki/CAN_bus
 - https://stevelosh.com/blog/2012/10/a-modern-space-cadet/
 - Hash in C https://www.andreinc.net/2021/10/02/implementing-hash-tables-in-c-part-1
+- Double free exploit https://github.com/stong/how-to-exploit-a-double-free?utm_source=tldrnewsletter
