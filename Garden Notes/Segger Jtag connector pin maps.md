@@ -1,3 +1,5 @@
+#swd #jtag #embedded 
+
 # 19 pins JTAG
 ![[JTAG_Port.png]]
 

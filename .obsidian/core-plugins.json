@@ -9,6 +9,8 @@
   "daily-notes",
   "note-composer",
   "command-palette",
+  "slash-command",
+  "editor-status",
   "word-count",
   "file-recovery",
   "publish",

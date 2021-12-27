@@ -1,0 +1,2 @@
+- Desktop speaker https://www.amazon.com/Kanto-YU2-Powered-Desktop-Speakers/dp/B00GMPDAHM?th=1
+- Computer monitor dell u2415 24

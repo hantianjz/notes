@@ -1,3 +1,5 @@
+#arm #embedded #arduino
+
 # Overall
 ![[circuit_playground_express-labeled.jpg]]
 
@@ -56,3 +58,6 @@ ERROR: Erase returned with error code -5.
 
 Seems like the bootloader is 8KB, with [[NVMCTRL Bootprot]] bits  `BOOTPROT == 0x2`
 
+# Delay don't really work
+After loading the Arduino Core and FW into our own GN build template
+It turns out the SysTick_DefaultHandler that is part of the Arduino core is really important to time keeping.

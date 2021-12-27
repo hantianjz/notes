@@ -1,9 +1,9 @@
 {
-  "promptDelete": false,
+  "promptDelete": true,
   "showUnsupportedFiles": true,
   "spellcheck": true,
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "newLinkFormat": "shortest",
   "attachmentFolderPath": "./_attachments",
   "fileSortOrder": "byModifiedTime",
@@ -14,14 +14,24 @@
   "trashOption": "local",
   "foldHeading": true,
   "foldIndent": false,
-  "strictLineBreaks": true,
+  "strictLineBreaks": false,
   "smartIndentList": true,
   "showFrontmatter": true,
   "spellcheckDictionary": [
     "behaviours",
-    "Cpp"
+    "Cpp",
+    "donut"
   ],
   "mobilePullAction": "switcher:open",
   "communityPluginSortOrder": "download",
-  "autoPairMarkdown": false
+  "autoPairMarkdown": false,
+  "legacyEditor": false,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "spellcheckLanguages": [
+    "en-US",
+    "en-CA"
+  ],
+  "newFileFolderPath": "Garden Notes",
+  "tabSize": 2
 }

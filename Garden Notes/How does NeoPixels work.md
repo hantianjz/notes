@@ -1,3 +1,4 @@
+#embedded #peripheral_hardware
 [WS2812](https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf) integrated light source.
 NeoPixels are also based off WS2811 and SK6812 LED drivers
 
