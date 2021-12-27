@@ -4,15 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "84226febfd96eafb",
+        "id": "a32e53361c8959da",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Diary/Mo-27-Dec-2021.md",
+            "file": "Garden Notes/Programming Language/Effective Modern Cpp/%TOC.md",
             "mode": "source",
             "backlinks": false,
             "source": false
+          }
+        }
+      },
+      {
+        "id": "d52f2519867cc8b9",
+        "type": "leaf",
+        "state": {
+          "type": "pdf-annotator",
+          "state": {
+            "file": "Garden Notes/Programming Language/Effective Modern Cpp/%ANNOTATION.md"
+          }
+        }
+      },
+      {
+        "id": "744810bb018b20fa",
+        "type": "leaf",
+        "state": {
+          "type": "pdf-annotator",
+          "state": {
+            "file": "Garden Notes/SAMD21/SAM-D21D Manual.md"
           }
         }
       }
@@ -92,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Mo-27-Dec-2021.md",
+                "file": "Garden Notes/Programming Language/Effective Modern Cpp/%TOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/Mo-27-Dec-2021.md",
+                "file": "Garden Notes/Programming Language/Effective Modern Cpp/%TOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,17 +141,17 @@
     "direction": "horizontal",
     "width": 233.5
   },
-  "active": "84226febfd96eafb",
+  "active": "a32e53361c8959da",
   "lastOpenFiles": [
-    "Diary/Mo-27-Dec-2021.md",
-    "Garden Notes/RF/LTE/LTE Physical Layer Overview.md",
-    "Garden Notes/RF/LTE/_attachments/lte_ofdm.png",
-    "Garden Notes/Programming Language/Effective Modern Cpp/Intro.md",
-    "Garden Notes/Programming Language/Effective Modern Cpp/Cpp.md",
-    "Garden Notes/ARM-NONE-EABI toolchain.md",
-    "Garden Notes/What is Web3.md",
-    "Diary/We-22-Dec-2021.md",
-    "Garden Notes/Gall's Law.md",
-    "Garden Notes/How to build&install Polybar.md"
+    "Garden Notes/Programming Language/Effective Modern Cpp/%TOC.md",
+    "Garden Notes/Programming Language/Effective Modern Cpp/%ANNOTATION.md",
+    "Garden Notes/Programming Language/Effective Modern Cpp/_attachments/Effective_Modern_C__.pdf",
+    "Garden Notes/Programming Language/Effective Modern Cpp/Auto.md",
+    "Garden Notes/SAMD21/NVMCTRL Bootprot.md",
+    "Garden Notes/STM32L5/STM32L5_52_62_xx.md",
+    "Garden Notes/SAMD21/SAM-D21D Manual.md",
+    "Garden Notes/Building conviction.md",
+    "Garden Notes/Untitled.md",
+    "Garden Notes/SAMD21/_attachments/SAM-D21DA1-Family-Data-Sheet-DS40001882G.pdf"
   ]
 }

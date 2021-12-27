@@ -1,3 +1,0 @@
-[Rebuilding the spellchecker, pt.2: Just look in the dictionary, they said!](https://www.notion.so/Rebuilding-the-spellchecker-pt-2-Just-look-in-the-dictionary-they-said-9bee1469bb284ae291c2e72c5cb3561b)
-
-[17 (ever so slightly) weird facts about the most popular dictionary format](https://www.notion.so/17-ever-so-slightly-weird-facts-about-the-most-popular-dictionary-format-bec3e41ec4fd465fbff0e7f2ebc9da8f)

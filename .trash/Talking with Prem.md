@@ -1,4 +1,0 @@
-- My current transition plan change?
-- Timeline of the detail company transition?
-- How will the team be organized?
-- Equity? Level?

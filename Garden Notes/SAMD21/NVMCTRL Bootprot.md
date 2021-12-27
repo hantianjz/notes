@@ -1,8 +1,9 @@
-## Sec 10.3.1
-- The NVM User Row can be read at address `0x804000`
+
+## [[SAM-D21D Manual#^3zh8ncnjsj3|Sec 10.3.1]]
+- The NVM User Row can be read at [[SAM-D21D Manual#^m1ne33ge1lf|address]] `0x804000`
 - **Bit 2:0** Bootprot specify protected bootloader size:
 
-## Sec 22.6.5
+## [[SAM-D21D Manual#^jndr2npth7|Sec 22.6.5]]
 Table 22-2. Boot Loader Size
 
 | BOOTPROT [2:0] | Rows Protected | Boot Loader Size |
