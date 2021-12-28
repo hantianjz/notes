@@ -1,1 +1,150 @@
-{}
+{
+  "workspaces": {
+    "Effective Cpp": {
+      "main": {
+        "id": "3604fa8839ca6812",
+        "type": "split",
+        "children": [
+          {
+            "id": "a273e5521cb4cd8f",
+            "type": "split",
+            "children": [
+              {
+                "id": "57d5156402a57b06",
+                "type": "leaf",
+                "dimension": 34.05940594059406,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Programming Language/Effective Modern Cpp/Smart Pointers.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a4907e161bff6f31",
+                "type": "leaf",
+                "dimension": 65.94059405940594,
+                "state": {
+                  "type": "pdf-annotator",
+                  "state": {
+                    "file": "Programming Language/Effective Modern Cpp/%ANNOTATION.md"
+                  }
+                }
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e2781038b2f5506b",
+        "type": "split",
+        "children": [
+          {
+            "id": "4e4f0986d41a481f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ca0f4c28ad160c72",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "161aa3a5ee603566",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 266
+      },
+      "right": {
+        "id": "0a78e593f2059fd1",
+        "type": "split",
+        "children": [
+          {
+            "id": "e6af6b4718763f4e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5d6410947179c07e",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8ce830b58ffeaf28",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "bc4d7f136866670c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a4484202fef0c9b6",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Programming Language/Effective Modern Cpp/Smart Pointers.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "73821907fa954ae8",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Programming Language/Effective Modern Cpp/Smart Pointers.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 233.5,
+        "collapsed": true
+      },
+      "active": "57d5156402a57b06"
+    }
+  },
+  "active": "Effective Cpp"
+}

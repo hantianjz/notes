@@ -16,7 +16,7 @@
   "foldIndent": false,
   "strictLineBreaks": false,
   "smartIndentList": true,
-  "showFrontmatter": true,
+  "showFrontmatter": false,
   "spellcheckDictionary": [
     "behaviours",
     "Cpp",

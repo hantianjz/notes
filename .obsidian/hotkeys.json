@@ -3,14 +3,7 @@
   "editor:delete-paragraph": [],
   "workspace:edit-file-title": [],
   "editor:insert-tag": [],
-  "daily-notes": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "T"
-    }
-  ],
+  "daily-notes": [],
   "table-editor-obsidian:table-control-bar": [],
   "file-explorer:open": [
     {

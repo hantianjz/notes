@@ -4,37 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "a32e53361c8959da",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Garden Notes/Programming Language/Effective Modern Cpp/%TOC.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
+        "id": "a273e5521cb4cd8f",
+        "type": "split",
+        "children": [
+          {
+            "id": "57d5156402a57b06",
+            "type": "leaf",
+            "dimension": 34.05940594059406,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Language/Effective Modern Cpp/Smart Pointers.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4907e161bff6f31",
+            "type": "leaf",
+            "dimension": 65.94059405940594,
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "Programming Language/Effective Modern Cpp/%ANNOTATION.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "d52f2519867cc8b9",
-        "type": "leaf",
-        "state": {
-          "type": "pdf-annotator",
-          "state": {
-            "file": "Garden Notes/Programming Language/Effective Modern Cpp/%ANNOTATION.md"
-          }
-        }
-      },
-      {
-        "id": "744810bb018b20fa",
-        "type": "leaf",
-        "state": {
-          "type": "pdf-annotator",
-          "state": {
-            "file": "Garden Notes/SAMD21/SAM-D21D Manual.md"
-          }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden Notes/Programming Language/Effective Modern Cpp/%TOC.md",
+                "file": "Programming Language/Effective Modern Cpp/Smart Pointers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Garden Notes/Programming Language/Effective Modern Cpp/%TOC.md",
+                "file": "Programming Language/Effective Modern Cpp/Smart Pointers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,19 +138,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
-  "active": "a32e53361c8959da",
+  "active": "57d5156402a57b06",
   "lastOpenFiles": [
-    "Garden Notes/Programming Language/Effective Modern Cpp/%TOC.md",
-    "Garden Notes/Programming Language/Effective Modern Cpp/%ANNOTATION.md",
-    "Garden Notes/Programming Language/Effective Modern Cpp/_attachments/Effective_Modern_C__.pdf",
-    "Garden Notes/Programming Language/Effective Modern Cpp/Auto.md",
-    "Garden Notes/SAMD21/NVMCTRL Bootprot.md",
-    "Garden Notes/STM32L5/STM32L5_52_62_xx.md",
-    "Garden Notes/SAMD21/SAM-D21D Manual.md",
-    "Garden Notes/Building conviction.md",
-    "Garden Notes/Untitled.md",
-    "Garden Notes/SAMD21/_attachments/SAM-D21DA1-Family-Data-Sheet-DS40001882G.pdf"
+    "Programming Language/Effective Modern Cpp/Smart Pointers.md",
+    "Programming Language/Effective Modern Cpp/%ANNOTATION.md",
+    "Adafruit playground express.md",
+    "ARM-NONE-EABI toolchain.md",
+    "_attachments/9-PinConnector_Port.png",
+    "_templates/dairy_template.md",
+    "_Public/Notes Intro.md",
+    "_Private/Diary/Tu-28-Dec-2021.md",
+    "_Public/Programming Language/Effective Modern Cpp/%ANNOTATION.md",
+    "_Public/Programming Language/Effective Modern Cpp/Smart Pointers.md"
   ]
 }

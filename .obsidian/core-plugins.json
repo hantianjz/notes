@@ -6,12 +6,11 @@
   "backlink",
   "outgoing-link",
   "page-preview",
-  "daily-notes",
   "note-composer",
   "command-palette",
-  "slash-command",
   "editor-status",
   "word-count",
+  "workspaces",
   "file-recovery",
   "publish",
   "sync"
