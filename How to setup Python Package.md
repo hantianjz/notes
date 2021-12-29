@@ -1,8 +1,8 @@
-#Python #Packaging 
-Reference:
-- Current state of python package: https://bernat.tech/posts/pep-517-and-python-packaging/
-- #Pep517 #Pep518 for dummy: https://bernat.tech/posts/pep-517-518/
-- Offical setuptools manual:  https://setuptools.pypa.io/en/latest/index.html
+2021-12-29-We
+Type: #idea
+Tags: [[Python]], [[Packaging]]
+
+# How to setup Python Package
 
 ## Current state of Python packaging
 - `sys.path` show list of possible directory package get imported from.
@@ -160,3 +160,9 @@ Best to use the [ResourceManager API](https://setuptools.pypa.io/en/latest/pkg_r
 > Then, two functions provided by the program, `build_wheel(directory: str)` and `build_sdist(directory: str)` create the distribution bundle at the specified `directory`. The program is free to use its own configuration script or extend the `.toml` file.
 >
 > Lastly, `pip install *.whl` or `pip install *.tar.gz` does the actual installation. If `*.whl` is available, `pip` will go ahead and copy the files into `site-packages` directory. If not, `pip` will look at `pyproject.toml` and decide what program to use to ‘build from source’ (the default is `setuptools`)
+
+---
+# References
+- Current state of python package: https://bernat.tech/posts/pep-517-and-python-packaging/
+- #Pep517 #Pep518 for dummy: https://bernat.tech/posts/pep-517-518/
+- Offical setuptools manual:  https://setuptools.pypa.io/en/latest/index.html

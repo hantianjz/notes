@@ -1,4 +1,9 @@
-https://github.com/hantianjz/Code-Graph
+2021-12-29-We
+Type: #idea
+Tags: [[projects]], [[code tagging]], [[visualization]]
+
+# Code Graph
+
 # Overview
 This project is heavily inspired by the Obsidian [Graph view](https://help.obsidian.md/Plugins/Graph+view) tool. To visualize one's knowledge/notes. And I thought it be fun to do the same for source codes.
 
@@ -7,9 +12,9 @@ I personally have always tried to maintain a mental image of the source code of 
 The code graph is an attempt at aiding tool to visualize overall dependency and relationships between different source files.
 
 # Implementation details
-There are plenty of [[Tools]] currently exist for analyzing any code base. I wanted to start small, started with [[ctags]] first. So it turns out that [[ctags]] files only generate symbol definition/declarations not references. This is not as useful for code graph since it will still require me to go through the source file. So next natural candidate was [[gtags]] with is much more rich and very easy to parse.
+There are plenty of [[Some Linux Tools]] currently exist for analyzing any code base. I wanted to start small, started with [[What and How is ctags|ctags]] first. So it turns out that [[What and How is ctags|ctags]] files only generate symbol definition/declarations not references. This is not as useful for code graph since it will still require me to go through the source file. So next natural candidate was [[what and how is gtags]] with is much more rich and very easy to parse.
 
-With [[gtags]] providing a very detailed tag define and reference mapping it was trivial to build a network graph from that with [[Tools#Pyvis https pyvis readthedocs io en latest index html|Pyvis]].
+With [[what and how is gtags]] providing a very detailed tag define and reference mapping it was trivial to build a network graph from that with [[Some Linux Tools#Pyvis https pyvis readthedocs io en latest index html|Pyvis]].
 
 # Current status
 ### v0.0
@@ -37,3 +42,7 @@ With [[gtags]] providing a very detailed tag define and reference mapping it was
 - How to make it extensible?
 - Graph traversing almost like a function call
 - Represent IPC somehow and define them
+
+---
+# References
+https://github.com/hantianjz/Code-Graph

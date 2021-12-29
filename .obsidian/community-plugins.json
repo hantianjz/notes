@@ -1,7 +1,7 @@
 [
-  "calendar",
   "table-editor-obsidian",
   "cm-editor-syntax-highlight-obsidian",
   "url-into-selection",
-  "obsidian-annotator"
+  "obsidian-annotator",
+  "obsidian-admonition"
 ]

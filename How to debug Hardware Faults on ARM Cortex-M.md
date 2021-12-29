@@ -1,4 +1,8 @@
-[Reference](https://interrupt.memfault.com/blog/cortex-m-fault-debug) #interrupt_memfault 
+2021-12-29-We
+Type: #idea
+Tags: [[arm]], [[hardfaults]], [[Cortex-M]]
+
+# How to debug Hardware Faults on ARM Cortex-M
 
 # Hardware Faults
 The [[What is ARM Vector Table|Vector table]] is a table of function address for fault handler or interrupt handler to call.
@@ -20,3 +24,7 @@ Comprised of three different status registers – UsageFault, BusFault & MemMana
 
 ## HardFault Status Register (HFSR) - 0xE000ED2C
 ![[hfsr.png]]
+
+---
+# References
+[Reference](https://interrupt.memfault.com/blog/cortex-m-fault-debug) #interrupt_memfault 

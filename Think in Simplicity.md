@@ -1,5 +1,11 @@
+2021-12-29-We
+Type: #idea
+Tags: [[simplicity]]
+
+# Think in Simplicity
+
 # Effective people think simply
-Kathleen #Eisenhardt
+[[Kathleen Eisenhardt]]
 
 A company with complex product development process make building the wrong thing very efficiently.
 A company without any rule, nothing get done but people have a good time.
@@ -16,6 +22,9 @@ Make decisions faster?
 Often possibly better decision.
 Easier to remember.
 
-Start simple, finding something simple that works, similar to [[Gall's Law]]
+Start simple, finding something simple that works, similar to [[What is Gall's Law]]
 
 Starting small, allows the trade offs to work themselves out over time.
+
+---
+# References

@@ -1,3 +1,9 @@
+Last Updated: 2021-12-29
+Type: #documentation 
+Tags: [[bootloader]], [[security]], [[linux]]
+
+# Steve's note on FEDORA
+
 # FC26
 
 Okay, here we go. these are the condensed install steps for getting an

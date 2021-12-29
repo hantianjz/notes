@@ -1,3 +1,9 @@
+2021-12-29-We
+Type: #idea
+Tags: [[C]], [[3D rendering]], [[math]], [[matrices]]
+
+# How does Donut 3D rendering work
+
 # Projection
 We are viewing the object being projected onto a screen.
 
@@ -107,3 +113,7 @@ in(B),t=c*h*g-f*        e;int x=40+30*D*
          .,~~;;;========;;;:~-.
              ..,--------,*/
 ```
+
+---
+# References
+https://www.a1k0n.net/2011/07/20/donut-math.html

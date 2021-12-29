@@ -1,4 +1,9 @@
-Related: [[ARM-NONE-EABI toolchain| ARM GCC Toolchain]], [[How to debug Hardware Faults on ARM Cortex-M|Cortex-M Hardfault]]
+2021-12-29-We
+Type: #idea
+Tags: [[arm]], [[vector table]], [[Cortex-M]], [[ARMv7]]
+
+# What is ARM Vector Table
+
 ARM boot/Reset vector table ARMv7-M7
 
 Table contains:
@@ -9,3 +14,6 @@ Table contains:
 SW can relocate VT using VTOR reg (B3-716)'
 
 Handler entry address bit[0] == 1 indicate load into EPSR.T (B1-625)
+
+---
+# References

@@ -1,3 +1,9 @@
+Last Updated: 2021-12-29
+Type: #documentation 
+Tags: [[android]], [[jail break]], [[root]], [[bootloader]]
+
+# Oneplus Root
+
 Install TWRP
 - adb reboot bootloader
 - fastboot oem unlock
@@ -14,5 +20,3 @@ Install SuperSu
 
 Clean Stock Apk
 - "Remeber to remove the supersu zip"
-
-#TODO: Learn to backup via TWRP

@@ -1,3 +1,9 @@
+2021-12-29-We
+Type: #idea
+Tags: [[blockchain]], [[crypto]], [[web3]]
+
+# What is Web3
+
 > It is just current distributed system sprinkled with some cryptocurrency or blockchain.
 
 https://www.usenix.org/publications/loginonline/web3-fraud
@@ -9,3 +15,7 @@ https://www.usenix.org/publications/loginonline/web3-fraud
 > So why this hype?  Because the cryptocurrency space, at heart, is simply a giant [[ponzi scheme]] where the only way early participants make money is if there are further suckers entering the space.
 
 > The measure of the amount of compute is called “gas”, with various instructions and operations costing a different amount of gas to process.  The total cost of a transaction is the amount of gas consumed times the gas price.
+
+---
+# References
+https://www.usenix.org/publications/loginonline/web3-fraud

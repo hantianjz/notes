@@ -1,3 +1,9 @@
+2021-12-29-We
+Type: #idea
+Tags: [[floats]], [[data structure]], [[numbers]]
+
+# Floating Number
+
 ## What are floating numbers?
 
 Real number can be represented via:
@@ -41,3 +47,6 @@ In single-precision a exponent value of 73 is converted to **200** (73 + 127)
 ## The mantissa
 
 AKA significand. Composed of implicit leading bit (left of the radix point) (represented in base 2), and fraction bits (to the right of radix point)
+
+---
+# References

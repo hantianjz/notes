@@ -1,4 +1,8 @@
-https://pleasestopnamingvulnerabilities.com/integers.html
+2021-12-29-We
+Type: #idea
+Tags: [[C]], [[integers]], [[data structure]]
+
+# Intergers in C
 
 # A Quiz About Integers in C
 
@@ -208,3 +212,7 @@ Does evaluating the expression INT_MIN % -1 invoke undefined behavior?
 **Question 20 Explanation:**
 
 A bug in the quiz software prevented me from creating two correct answers for this question. But here's the explanation: This construct is widely treated as undefined by real C compilers because making it well-defined would reduce performance of generated code. My reading of the C99 standard is that it is not undefined. YMMV.
+
+---
+# References
+https://pleasestopnamingvulnerabilities.com/integers.html

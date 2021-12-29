@@ -1,4 +1,9 @@
-http://h14s.p5r.org/2012/09/0x5f3759df.html
+2021-12-29-We
+Source: http://h14s.p5r.org/2012/09/0x5f3759df.html
+Type: #notes
+Tags: [[C]], [[math]]
+
+# Fast Invert Sqrt
 
 ```c
 #include <stdio.h>

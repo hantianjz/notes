@@ -1,4 +1,10 @@
-> Two cannibals are eating a clown. One says to the other, dow this taste funny to you?
+2021-12-29-We
+Type: #idea
+Tags: [[jokes]]
+
+# Dad Jokes
+
+> Two cannibals are eating a clown. One says to the other, do this taste funny to you?
 
 > My friend said to me what rhymes with orange, and I said, no it doesn't
 
@@ -55,3 +61,8 @@
 > What do you call a cheese without any friends? A prov-alone.
 
 > Why did the father spider tell his son to go outside and play? Because he was spending too much time on the web.
+
+---
+# References
+https://youtu.be/32q5DZ8a56A
+https://youtu.be/QbAzV1FkMl4

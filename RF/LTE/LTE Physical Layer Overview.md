@@ -1,3 +1,12 @@
+2021-12-29-We
+Author: Keysight
+Date published: ?
+Type: #notes
+Tags: [[LTE]], [[Network Protocol]], [[Phy Protocol]]
+Link: https://rfmw.em.keysight.com/wireless/helpfiles/89600b/webhelp/subsystems/lte/content/lte_overview.htm
+
+# LTE Physical Layer Overview
+
 ![[lte_frame.png]]
 
 The 89600 VSA LTE demodulator currently only supports resource blocks that are 12 subcarriers wide.

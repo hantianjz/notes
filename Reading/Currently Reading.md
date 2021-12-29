@@ -1,5 +1,5 @@
 # Non-Fiction
-- [[The little book of Semaphores]]
+- [[000 The little book of Semaphores]]
 
 # Fiction
-- [[A beautifully foolish endeavor]]
+- [[Notes on A beautifully foolish endeavor]]

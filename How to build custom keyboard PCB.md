@@ -1,3 +1,9 @@
+2021-12-29-We
+Type: #idea
+Tags: [[MK]], [[PCB]]
+
+# How to build custom keyboard PCB
+
 # 21/12/01:
 - After wasting most part of yesterday and today trying to fix the mitosis layout to the way I wanted, it still does not work.
 - But at least I got some ideas of how I want my keyboard to look with the same 42 keys. ![[Mitosis-modify.svg]]
@@ -13,3 +19,6 @@
 Okay this is stupid I am just going to go with Lily58 pro	 
 
 And now there is also this [Nice!Nano](https://docs.nicekeyboards.com/#/nice!nano/) thing that I can eventually replace for wireless connection.
+
+---
+# References

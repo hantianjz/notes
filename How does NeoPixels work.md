@@ -1,5 +1,9 @@
-#embedded #peripheral_hardware
-[WS2812](https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf) integrated light source.
+2021-12-29-We
+Type: #idea
+Tags: [[embedded]], [[peripheral hardware]]
+
+# How does NeoPixels work
+
 NeoPixels are also based off WS2811 and SK6812 LED drivers
 
 Use single NZR communication mode:
@@ -19,3 +23,7 @@ Note: Follow the order of GRB to sent data and the high bit sent at first.
 
 With pixels chained in series, first pixel consumes first 24 bits, then pass down later bits, until reset signal.
 ![[neopixel_chained_data_flow.png]]
+
+---
+# References
+[WS2812](https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf) integrated light source.

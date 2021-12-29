@@ -1,4 +1,8 @@
-Referenced from [thottingal's Digital Garden](https://docs.thottingal.in/self/coding)  on "Why I love coding".
+2021-12-29-We
+Type: #idea
+Tags: [[firmware]], [[embedded]], [[passion]]
+
+# Why I love firmware(embedded)
 
 Follow the reference to https://henrikwarne.com/2012/06/02/why-i-love-coding/
 > 1. _The sheer joy of making things._ Programming is fundamentally about creating  solutions to problems. At the end of the day, you have created something that didn’t exist that morning, and that is in and of itself satisfying.
@@ -13,6 +17,10 @@ Follow the reference to https://henrikwarne.com/2012/06/02/why-i-love-coding/
 
 [Mythical Man-Month, The: Essays on Software Engineering](https://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959) by Fred Brooks of [[Brooks's Law]]
 
-I agree with most points above except for #5 where The idea of `Pure thought-stuff...castles in the air...`  just doesn't resonate with me. I think this is because it sounds like more abstractions, and reminded me too much of [[Over Abstraction in Software]] I have personally experienced. Modern day software are almost always based on top of lots of layers. It have become almost impossible to fully understand the whole system on any detailed level.
+I agree with most points above except for #5 where The idea of `Pure thought-stuff...castles in the air...`  just doesn't resonate with me. I think this is because it sounds like more abstractions, and reminded me too much of [[On Abstraction in Software]] I have personally experienced. Modern day software are almost always based on top of lots of layers. It have become almost impossible to fully understand the whole system on any detailed level.
 
 To me this unknown scares me. I always get the feeling that everything is just limping along, where everything barely works. This is most likely the case given the constant high profile security exploit that is surfaced.
+
+---
+# References
+Referenced from [thottingal's Digital Garden](https://docs.thottingal.in/self/coding)  on "Why I love coding".

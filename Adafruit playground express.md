@@ -1,6 +1,9 @@
-#arm #embedded #arduino
+2021-12-29-We
+Type: #idea
+Tags: [[arm]],[[embedded]],[[arduino]]
 
-# Overall
+# Adafruit playground express
+
 ![[circuit_playground_express-labeled.jpg]]
 
 # Schematic
@@ -56,8 +59,14 @@ J-Link: Flash download: Total time needed: 0.158s (Prepare: 0.128s, Compare: 0.0
 ERROR: Erase returned with error code -5.
 ```
 
-Seems like the bootloader is 8KB, with [[NVMCTRL Bootprot]] bits  `BOOTPROT == 0x2`
+Seems like the bootloader is 8KB, with [[SAMD21 NVMCTRL Bootprot]] bits  `BOOTPROT == 0x2`
 
 # Delay don't really work
 After loading the Arduino Core and FW into our own GN build template
 It turns out the SysTick_DefaultHandler that is part of the Arduino core is really important to time keeping.
+
+---
+# References
+Product page: https://learn.adafruit.com/adafruit-circuit-playground-express
+Schematic: https://learn.adafruit.com/assets/49671
+Pin Map: https://cdn-learn.adafruit.com/assets/assets/000/049/780/original/Adafruit_Circuit_Playground_Express_Pinout.pdf

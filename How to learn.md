@@ -1,5 +1,8 @@
-[What to learn?](https://danluu.com/learn-what/)  
-[Stop treading water: Learning to learn](https://www.youtube.com/watch?v=Z8KcCU-p8QA)
+2021-12-29-We
+Type: #idea
+Tags: [[danluu]], [[learning]]
+
+# How to learn
 
 Feynman's algorithm. Can't be taught
 
@@ -40,3 +43,8 @@ Walk away when it stop being productive, but not when it is hard or you are dist
 -   Be careful with jargon; use terminology for precision, not exclusion.
 -   Don't be afraid to walk away from unproductive path
 -   Don't just walk away because something is hard.
+
+---
+# References
+[What to learn?](https://danluu.com/learn-what/)  
+[Stop treading water: Learning to learn](https://www.youtube.com/watch?v=Z8KcCU-p8QA)

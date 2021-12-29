@@ -1,3 +1,9 @@
+Last Updated: 2021-12-29
+Type: #documentation 
+Tags: [[Network Protocol]], [[DNS]], [[DHCP]]
+
+# Setup Network bridge
+
 # dnsmasq.conf
 ```conf
 listen-address=169.254.0.1

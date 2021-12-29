@@ -1,4 +1,11 @@
-Four common archetypes of staff-plus roles, this is my personal notes of this [post](https://staffeng.com/guides/staff-archetypes) from staffeng.com
+2021-12-29-We
+Author: [[Will Larson]]
+Originally published:  ?
+Type: #notes
+Tags: [[teams]], [[organizational culture]], [[leadership]]
+Source: https://staffeng.com/guides/staff-archetypes
+
+# What is the Staff Engineer archtetypes
 
 ### Tech lead
 ![[TechLeadCalendar.png]]

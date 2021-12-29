@@ -1,8 +1,12 @@
-Ref: https://interrupt.memfault.com/blog/noinit-memory
+2021-12-29-We
+Type: #idea
+Tags: [[arm]], [[link script]], [[hardfaults]], [[gcc]]
+
+# How to implement and use .noinit RAM
 
 MCU often need to go through a soft reset for various reasons, I.E. Hardfault, Assertion, scheduled reboot. And often there are data that needs to be persisted across the reboot. One can store these data onto persistent memory, but that is often slow and expensive. And one needs to worry about wear leveling for more frequent data writes.
 
-Create dedicated memory region via the [[Linker Script|link script]].
+Create dedicated memory region via the [[How to write Linker Script|link script]].
 ```c
 MEMORY
 {
@@ -33,7 +37,7 @@ __attribute__((section(".noinit")) volatile int my_non_initialized_integer;
 __no_init volatile int my_non_initialized_integer @ ".noinit";
 ```
 
-Generate `.map` file during linking to verify symbol is placed correctly, use [[ARM-NONE-EABI toolchain|gcc options]] during linking stage `-Wl,-Map=app.map`.
+Generate `.map` file during linking to verify symbol is placed correctly, use [[GCC ARM-NONE-EABI toolchain|gcc options]] during linking stage `-Wl,-Map=app.map`.
 
 `.map` file look something like:
 ```
@@ -44,3 +48,7 @@ Generate `.map` file during linking to verify symbol is placed correctly, use [[
 ```
 
 PS: If the system uses a bootloader, the bootloader needs to also have the same mapping for `.noinit` region.
+
+---
+# References
+Ref: https://interrupt.memfault.com/blog/noinit-memory

@@ -1,3 +1,9 @@
+Last Updated: 2021-12-29
+Type: #documentation 
+Tags: [[USB]], [[Phy Protocol]]
+
+# USB Protocol
+
 # Chapter 8: Protocol Layer (USB2)
 **Byte/Bit Ordering**: Little-endian order. LSB first then MSB
 

@@ -1,12 +1,12 @@
-Rodsboots.com: http://www.rodsbooks.com/efi-bootloaders/index.html
-Archlinux wiki page: https://wiki.archlinux.org/index.php/Unified_Extensible_Firmware_Interface
+2021-12-29-We
+Type: #idea
+Tags: [[bootloader]], [[security]], [[linux]]
+
+# rodsboots
 
 # EFI high level principles
 - /boot/efi where EFI System Partition (ESP) is normally mounted
 - boot loader vs boot manager
--
--
--
 
 # Installation
 - Obtain bootloader binary
@@ -70,3 +70,8 @@ Archlinux wiki page: https://wiki.archlinux.org/index.php/Unified_Extensible_Fir
 	- Video and other driver problems: should not be an issue more of time, but if do should be able to workaround by disabling grub options
 ## Manage CSM
 	- Linux with systemd, use _systemctl reboot --firmware-setup_
+  
+---
+# References
+Rodsboots.com: http://www.rodsbooks.com/efi-bootloaders/index.html
+Archlinux wiki page: https://wiki.archlinux.org/index.php/Unified_Extensible_Firmware_Interface

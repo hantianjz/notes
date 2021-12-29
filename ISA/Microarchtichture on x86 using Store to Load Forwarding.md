@@ -1,6 +1,11 @@
-Related: [[What is ARM Vector Table|ARM VT]]
+2021-12-29-We
+Author: [[Henry Wong]]
+Date published: JANUARY 9TH, 2014
+Type: #notes
+Tags: [[x86]], [[asm]]
+Link: https://blog.stuffedcow.net/2014/01/x86-memory-disambiguation/
 
-Ref [link](https://blog.stuffedcow.net/2014/01/x86-memory-disambiguation/)
+# Microarchtichture on x86 using Store to Load Forwarding
 
 In pipelined processors, instruction are fetched, decoded, and executed speculatively, and are not permitted to modify system state until instruction commit. For instructions that modify registers, this is often achieved using register renaming. For stores to memory, speculative stores write into a store queue at execution time and only write into cache after the store instructions have committed.
 

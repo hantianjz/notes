@@ -1,4 +1,8 @@
-REF: https://justine.lol/ape.html
+2021-12-29-We
+Type: #idea
+Tags: [[ABI]], [[executable]], [[OS]], [[C]], [[gcc]]
+
+# How APE(Actually Portable Executable) work
 
 TLDR: Build OS independent executable with external static lib and linker script to ensure the executable binary is almost polymorphic.
 
@@ -27,3 +31,7 @@ ape.o # https://justine.lol/cosmopolitan/ape.o
 cosmopolitan.a # https://justine.lol/cosmopolitan/cosmopolitan.a
 ```
 It requires a minor ABI change, where C preprocessor macros relating to system interfaces need to be symbolic. This is barely an issue, except in cases like `switch(errno){case EINVAL:...}`. If we feel comfortable bending the rules, then the GNU Linker can easily be configured to generate at linktime all the PE/Darwin data structures we need, without any special toolchains.
+
+---
+# References
+https://justine.lol/ape.html

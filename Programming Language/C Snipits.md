@@ -1,5 +1,11 @@
-# Main
+2021-12-29-We
+Source: ?
+Type: #notes
+Tags: [[C]], [[main function]]
 
+# C Snipits
+
+# Main
 
 # Asserts
 
