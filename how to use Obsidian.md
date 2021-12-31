@@ -4,7 +4,7 @@ Tags: [[PKM]], [[Obsidian]]
 
 # Suggestion on how to Obsidian
 
-- Personal knowledge management #PKM
+- Personal knowledge management
 
 - People can be different and think and operation differently, but the way we interact with the world tend to be similar.
 	-	The limits to our brain, the amount of information we can store and put down on paper

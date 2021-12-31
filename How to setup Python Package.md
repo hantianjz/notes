@@ -150,7 +150,7 @@ Accessing data files directly using `__file__` can be unreliable.
 Best to use the [ResourceManager API](https://setuptools.pypa.io/en/latest/pkg_resources.html#resourcemanager-api) `pkg_resources`
 
 ## [Development Mode](https://setuptools.pypa.io/en/latest/userguide/development_mode.html)
-#Need_to_reread
+#TODO 
 
 ---
 - Setuptools no longer serve as default build tool. User provide a `pyproject.toml` to opt into use setuptools library.
@@ -164,5 +164,5 @@ Best to use the [ResourceManager API](https://setuptools.pypa.io/en/latest/pkg_r
 ---
 # References
 - Current state of python package: https://bernat.tech/posts/pep-517-and-python-packaging/
-- #Pep517 #Pep518 for dummy: https://bernat.tech/posts/pep-517-518/
+- Pep517 Pep518 for dummy: https://bernat.tech/posts/pep-517-518/
 - Offical setuptools manual:  https://setuptools.pypa.io/en/latest/index.html

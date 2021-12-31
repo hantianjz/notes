@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ISA/IA-32 - Vol 1/3 Basic Execution Environment.md",
+            "file": "GCC ARM-NONE-EABI toolchain.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ISA/IA-32 - Vol 1/3 Basic Execution Environment.md",
+                "file": "GCC ARM-NONE-EABI toolchain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ISA/IA-32 - Vol 1/3 Basic Execution Environment.md",
+                "file": "GCC ARM-NONE-EABI toolchain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,15 +101,15 @@
   },
   "active": "2dc0165bc6c5ec19",
   "lastOpenFiles": [
-    "ISA/IA-32 - Vol 1/3 Basic Execution Environment.md",
-    "ISA/IA-32 - Vol 1/6 Procedure calls, Interrupts, and Exceptions.md",
-    "ISA/What is ARM Vector Table.md",
-    "ISA/Microarchtichture on x86 using Store to Load Forwarding.md",
-    "ISA/IA-32 - Vol 1/5 Instruction Set Summary.md",
+    "GCC ARM-NONE-EABI toolchain.md",
+    "Reading/Notes/Notes on A beautifully foolish endeavor.md",
+    "Reading/Favor Quotes/Qoutes from This is Water.md",
+    "Reading/Favor Quotes/Qoutes for What is it to be Human.md",
+    "Reading/Favor Quotes/Qoutes from Doctor Who.md",
+    "Reading/Favor Quotes/Qoutes from Sense 8.md",
+    "Reading/Favor Quotes/Qoutes from Theodore Roosevelt.md",
     "0 Notes Intro.md",
-    "HOWTO/Linux Secureboot/Steve's note on FEDORA.md",
-    "HOWTO/Linux Secureboot/rodsboots.md",
-    "HOWTO/Wifi Sniffer setup.md",
-    "HOWTO/Setup Network bridge.md"
+    "ISA/IA-32 - Vol 1/3 Basic Execution Environment.md",
+    "ISA/IA-32 - Vol 1/6 Procedure calls, Interrupts, and Exceptions.md"
   ]
 }

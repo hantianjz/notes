@@ -27,4 +27,4 @@ Comprised of three different status registers – UsageFault, BusFault & MemMana
 
 ---
 # References
-[Reference](https://interrupt.memfault.com/blog/cortex-m-fault-debug) #interrupt_memfault 
+[Reference](https://interrupt.memfault.com/blog/cortex-m-fault-debug)

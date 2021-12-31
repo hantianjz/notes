@@ -12,7 +12,7 @@ Data is stored as Little Endian.
 
 Words, doublewords, and quadwords does **NOT NEED** to be aligned. Natural boundaries are addresses evenly divisible by 2, 4, and 8, respectively. How ever boundaries aligned data improve performance of program.
 
-Some instruction require double quadwords to be aligned, else generate general-protection exception #GP. Natural boundaries of double quadword is address divisible by 16.
+Some instruction require double quadwords to be aligned, else generate general-protection exception GP. Natural boundaries of double quadword is address divisible by 16.
 
 ## 4.2 Numeric Data Types
 

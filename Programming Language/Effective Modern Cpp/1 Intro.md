@@ -2,11 +2,10 @@
 Author: ?
 Originally published: ?
 Type: #notes
-Tags:  [[Cpp]], [[Cpp11]], [[Cpp14]], [[Cpp17]]
+Tags:  [[Cpp]], [[Cpp11]], [[Cpp14]], [[Cpp17]], [[template]]
 
 ## Effective Cpp Intro
 
-#template
 #### Item 1: Understand template type deduction
 ```cpp
 template<typename T>

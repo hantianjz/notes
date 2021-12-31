@@ -2,7 +2,7 @@
 Author: [[Adam Savage]]
 Originally published: May 2019
 Type: #notes
-Tags: [[non fiction]], [[productivity]], [[biography]]
+Tags: [[non fiction]], [[productivity]], [[biography]], [[habit]]
 
 # Every Tool's a Hammer: Life Is What You Make It 
 
@@ -146,4 +146,4 @@ Sweeping is a good time for reflection, like meditation.
 
 "Any maker space is a place wherein the maker can safely experience the vicissitudes of life."
 
-Build small daily #habit
+Build small daily habit

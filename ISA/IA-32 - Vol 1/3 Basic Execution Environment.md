@@ -148,7 +148,7 @@ TODO: re-read this part.
 
 #### 3.3.7.1 Canonical Addressing
 
-Intel 64 arch defines 64-bit linear address space, but implementation can support less. If an address from bit 63 to the implemented MSB is either all 1s or 0s, it is canonical. If memory address reference is not in canonical form, the implementation should generate an exception. A general-protection exception is generated #GP, or #SS for stack fault.
+Intel 64 arch defines 64-bit linear address space, but implementation can support less. If an address from bit 63 to the implemented MSB is either all 1s or 0s, it is canonical. If memory address reference is not in canonical form, the implementation should generate an exception. A general-protection exception is generated \#GP, or \#SS for stack fault.
 
 ## 3.4 Basic program execution registers
 

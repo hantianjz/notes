@@ -32,7 +32,7 @@ A user cannot transmit both PUCCH and PUSCH data in the same slot.
 
 The different sections of the illustration above are explained in the following sections.
 
-The #LTE demodulator provides traces that show IQ or error vector data vs. subcarrier or symbol. The content of these traces comes from the selected layer. However, layers do not exist in the context of resource blocks. How can these traces show layer data in the context of resource elements and symbols?
+The LTE demodulator provides traces that show IQ or error vector data vs. subcarrier or symbol. The content of these traces comes from the selected layer. However, layers do not exist in the context of resource blocks. How can these traces show layer data in the context of resource elements and symbols?
 
 The answer is that the demodulator undoes the precoding to recover the original modulation symbols in the layers for each physical channel and then remaps those modulation symbols back onto the physical channel allocations in the frame. The values shown on the layer traces do not have a direct physical correspondence to the subcarrier that they are mapped to. However, there is still an indirect correspondence between modulation symbols and the actual subcarriers. For instance, if you corrupt one of the subcarriers in physical channel's allocation by adding a sine wave at that particular frequency, you will see that the EVM of more than one modulation symbol on the physical channel's layer trace will be affected.
 
