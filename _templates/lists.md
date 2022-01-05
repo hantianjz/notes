@@ -1,5 +1,5 @@
 Last Updated: {{date:YYYY-MM-DD}}
-Type: #documentation 
+Type: #list 
 Tags:
 
 # {{title}}

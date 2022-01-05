@@ -6,17 +6,17 @@
         "type": "split",
         "children": [
           {
-            "id": "a273e5521cb4cd8f",
+            "id": "0f1704c7b5c0a8d3",
             "type": "split",
             "children": [
               {
-                "id": "57d5156402a57b06",
+                "id": "a4907e161bff6f31",
                 "type": "leaf",
-                "dimension": 34.05940594059406,
+                "dimension": 26.204379562043794,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Programming Language/Effective Modern Cpp/Smart Pointers.md",
+                    "file": "Programming Language/Effective Modern Cpp/4 Smart Pointers.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -24,13 +24,13 @@
                 }
               },
               {
-                "id": "a4907e161bff6f31",
+                "id": "dfb900cee026c6ad",
                 "type": "leaf",
-                "dimension": 65.94059405940594,
+                "dimension": 73.7956204379562,
                 "state": {
                   "type": "pdf-annotator",
                   "state": {
-                    "file": "Programming Language/Effective Modern Cpp/%ANNOTATION.md"
+                    "file": "Programming Language/Effective Modern Cpp/% Effective Mordern Cpp Annotation.md"
                   }
                 }
               }
@@ -113,7 +113,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Programming Language/Effective Modern Cpp/Smart Pointers.md",
+                    "file": "Programming Language/Effective Modern Cpp/4 Smart Pointers.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Programming Language/Effective Modern Cpp/Smart Pointers.md",
+                    "file": "Programming Language/Effective Modern Cpp/4 Smart Pointers.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -143,7 +143,7 @@
         "width": 233.5,
         "collapsed": true
       },
-      "active": "57d5156402a57b06"
+      "active": "a4907e161bff6f31"
     }
   },
   "active": "Effective Cpp"

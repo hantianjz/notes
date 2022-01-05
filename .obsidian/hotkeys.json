@@ -131,5 +131,15 @@
       ],
       "key": "T"
     }
-  ]
+  ],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
+  "darlal-switcher-plus:switcher-plus:open": [],
+  "darlal-switcher-plus:switcher-plus:open-symbols": []
 }

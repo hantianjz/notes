@@ -1,3 +1,8 @@
+2021-12-31-Fr
+Link: [[253665-sdm-vol-1.pdf]]
+Type: #notes
+Tags: [[x86]]
+
 # 6 Procedure calls, Interrupts, and Exceptions
 
 This chapter describes the facilities in the Intel 64 and IA-32 architectures for executing calls to procedures or subroutines. It also describes how interrupts and exceptions are handled from the perspective of an application

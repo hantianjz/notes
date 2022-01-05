@@ -1,3 +1,9 @@
+
+2021-12-31-Fr
+Link: [[253665-sdm-vol-1.pdf]]
+Type: #notes
+Tags: [[x86]]
+
 # 4 Data Types
 
 ## 4.1 Fundamental Data Types

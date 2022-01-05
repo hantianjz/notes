@@ -1,3 +1,9 @@
+Last Updated: 2021-12-31
+Type: #documentation 
+Tags: [[rpi]], [[HOWTO]], [[Ubuntu]]
+
+# Raspberry Pi - Setup rpi ubuntu
+
 1.  Update password, forced by system
     
 2.  Add ssh pub key

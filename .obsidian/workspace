@@ -4,17 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "2dc0165bc6c5ec19",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "GCC ARM-NONE-EABI toolchain.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
+        "id": "0f1704c7b5c0a8d3",
+        "type": "split",
+        "children": [
+          {
+            "id": "a4907e161bff6f31",
+            "type": "leaf",
+            "dimension": 26.204379562043794,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Language/Effective Modern Cpp/4 Smart Pointers.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfb900cee026c6ad",
+            "type": "leaf",
+            "dimension": 73.7956204379562,
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "Programming Language/Effective Modern Cpp/% Effective Mordern Cpp Annotation.md"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -61,6 +80,28 @@
     "type": "split",
     "children": [
       {
+        "id": "e6af6b4718763f4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d6410947179c07e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8ce830b58ffeaf28",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "bc4d7f136866670c",
         "type": "tabs",
         "children": [
@@ -70,14 +111,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GCC ARM-NONE-EABI toolchain.md",
+                "file": "Programming Language/Effective Modern Cpp/4 Smart Pointers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -87,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GCC ARM-NONE-EABI toolchain.md",
+                "file": "Programming Language/Effective Modern Cpp/4 Smart Pointers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -97,19 +138,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
-  "active": "2dc0165bc6c5ec19",
+  "active": "a4907e161bff6f31",
   "lastOpenFiles": [
-    "GCC ARM-NONE-EABI toolchain.md",
-    "Reading/Notes/Notes on A beautifully foolish endeavor.md",
-    "Reading/Favor Quotes/Qoutes from This is Water.md",
-    "Reading/Favor Quotes/Qoutes for What is it to be Human.md",
-    "Reading/Favor Quotes/Qoutes from Doctor Who.md",
-    "Reading/Favor Quotes/Qoutes from Sense 8.md",
-    "Reading/Favor Quotes/Qoutes from Theodore Roosevelt.md",
-    "0 Notes Intro.md",
-    "ISA/IA-32 - Vol 1/3 Basic Execution Environment.md",
-    "ISA/IA-32 - Vol 1/6 Procedure calls, Interrupts, and Exceptions.md"
+    "Programming Language/Effective Modern Cpp/4 Smart Pointers.md",
+    "Programming Language/Effective Modern Cpp/% Effective Mordern Cpp Annotation.md",
+    "Semaphores/041 Produce-consumer problem.md",
+    "Semaphores/000 The little book of Semaphores.md",
+    "What is strong and weak team.md",
+    "Notes on Bullshit jobs.md",
+    "Adafruit playground express.md",
+    "What is Kaprekar's constant - 6174.md",
+    "What is Microsoft Makecode.md",
+    "What is the Staff Engineer archtetypes.md"
   ]
 }

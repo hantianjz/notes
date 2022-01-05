@@ -18,16 +18,16 @@
       "query": "file:\"0 Notes Intro\"",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 16711680
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.836734693877551,
   "repelStrength": 15.6122448979592,
   "linkStrength": 1,

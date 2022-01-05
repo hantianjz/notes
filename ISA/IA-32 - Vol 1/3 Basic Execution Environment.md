@@ -1,3 +1,8 @@
+2021-12-31-Fr
+Link: [[253665-sdm-vol-1.pdf]]
+Type: #notes
+Tags: [[x86]]
+
 # 3 Basic Execution Environment
 
 ## 3.1 Modes of Operation

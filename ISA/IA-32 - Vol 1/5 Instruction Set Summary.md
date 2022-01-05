@@ -1,3 +1,8 @@
+2021-12-31-Fr
+Link: [[253665-sdm-vol-1.pdf]]
+Type: #notes
+Tags: [[x86]]
+
 # 5 Instruction Set Summary
 
 ## 5.1 General-Purpose Instructions

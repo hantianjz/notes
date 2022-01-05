@@ -1,6 +1,6 @@
 2021-12-29-We
 Type: #idea
-Tags: [[arm]], [[linux]], [[qemu]], [[simulation]]
+Tags: [[arm]], [[linux]], [[qemu]], [[simulation]], [[rpi]]
 
 # QEMU
 
