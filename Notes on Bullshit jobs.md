@@ -121,9 +121,43 @@ Bullshit jobs require certain level of emotional labor, similar to those require
 
 > ... much of our sense of being a self, a being discrete from its surrounding environment. This is true for infants and remains true throughout life. 
 
-The very meaninglessness of bullshit employment tends to exacerbate the sadomasochistic dynamic. The lack of feeling of a common purpose, any reason to believe one's collective action in any way make life better for those outside the office, or have any significant effect on anyone outside the office, will tend to magnify the minor indignities, distempers, resentments, and cruelties of office life, since ultimately, office politics is all that's really going on.
+The very meaninglessness of bullshit employment tends to exacerbate the sadomasochistic dynamic. The lack of feeling of a common purpose, any reason to believe one's collective action in any way make life better for those outside the office, or have any significant effect on anyone outside the office, will tend to magnify the minor indignities, dis-tempers, resentments, and cruelties of office life, since ultimately, office politics is all that's really going on.
 
 ```ad-quote
-Bull jshit jobs regularly induce feelings of hopelessness, depression, and self jloathing. They are forms of spiritual violence directed atthe essence of what it means to be a human being.
+Bull-shit jobs regularly induce feelings of hopelessness, depression, and self-loathing. They are forms of spiritual violence directed atthe essence of what it means to be a human being.
 ```
+# Chapter 5
+```ad-quote
+In the Scilly Islands...the natives of that group are popularly said to have eked out a prcarious livelihood by taking in each other's washing.
+                                        - obscure-nineteenth-century joke
 
+A bourgeois paradise will supervene, in which everyone will be free to exploit-but therewill be no one to exploit. On the whole, one must suppose that the typoe of it would be that town that I have heard of, whose inhabitants lived by taking in each other's washing.
+                                        - William Morris, 1887
+```
+```ad-quote
+The joke under Societ Union was "We pretend to work; they pretend to pay us."
+```
+```ad-quote
+In a way, one could argue that the whole financial sector is a scam of sorts, since it represents itself as largely about directing investments toward profitable opportunities in commerce and industry, where, in fact, it does very little of that. The overwhelming bulk of its profits comes from colluding with government to create, and then to trade and manipulate, varrious formsof debt.
+```
+```ad-quote
+The problem of levels of causality:
+1. Individual level of cause to the problem.
+2. Structure level of cause to the problem.
+3. Social or culture or political level of cause to the problem.
+```
+```ad-quote
+In any political-economic system based on appropriation and distribution of goos, rather than on actually making, moving, or maintaining them, and therefore, where a su;bstantial portion of the population is engaged in funnelingresourcesup and down the system, that portion of the population will tend to organize itself into an elabrattely ranked hierarchy of multiple tiers (Atleastthree,and sometimes ten...).
+```
+```ad-quote
+Managerial feudalism ensures that thousands of hours of creative effort will literally come to nothing.
+```
+```ad-quote
+This set off a vicious cycle whereby workers, who no longer felt any loyalty to corporations that felt none toward them, had t obe increasingly monitored, managed, and surveilled.
+```
+```ad-quote
+If the existence of bullshit jobs seems to defy the logic of capitalism, one possible reason for their proliferation might be that the existing system _isn't_ capitalism-or at least, isn't any sort of capitalism that would be recognizable from the works of Adam Smith, Karl Marx, or, for that matter, Ludwig von Mises or Milton Friedman.
+It is increasingly a system of rent extraction where the internal logic are profoundly differnt from capitalism, since economic and political imperatives have come to largely merge.
+In manyways, it resembles classic medieval feudalism, displaying the same tendency to create endliess hierarchies of lords, vassals, and retainers.
+```
+ 

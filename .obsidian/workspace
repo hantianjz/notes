@@ -4,36 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0f1704c7b5c0a8d3",
-        "type": "split",
-        "children": [
-          {
-            "id": "a4907e161bff6f31",
-            "type": "leaf",
-            "dimension": 26.204379562043794,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Language/Effective Modern Cpp/4 Smart Pointers.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfb900cee026c6ad",
-            "type": "leaf",
-            "dimension": 73.7956204379562,
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "Programming Language/Effective Modern Cpp/% Effective Mordern Cpp Annotation.md"
-              }
-            }
+        "id": "aa7a722b2594997a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes on Web3 apps and NFT.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -111,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Language/Effective Modern Cpp/4 Smart Pointers.md",
+                "file": "Notes on Web3 apps and NFT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Language/Effective Modern Cpp/4 Smart Pointers.md",
+                "file": "Notes on Web3 apps and NFT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,17 +122,17 @@
     "width": 233.5,
     "collapsed": true
   },
-  "active": "a4907e161bff6f31",
+  "active": "aa7a722b2594997a",
   "lastOpenFiles": [
-    "Programming Language/Effective Modern Cpp/4 Smart Pointers.md",
-    "Programming Language/Effective Modern Cpp/% Effective Mordern Cpp Annotation.md",
-    "Semaphores/041 Produce-consumer problem.md",
+    "Notes on Web3 apps and NFT.md",
+    "Treks I want to go on.md",
+    "Untitled.md",
+    "What is Web3.md",
     "Semaphores/000 The little book of Semaphores.md",
-    "What is strong and weak team.md",
     "Notes on Bullshit jobs.md",
-    "Adafruit playground express.md",
-    "What is Kaprekar's constant - 6174.md",
-    "What is Microsoft Makecode.md",
-    "What is the Staff Engineer archtetypes.md"
+    "Programming Language/Effective Modern Cpp/% Effective Mordern Cpp Annotation.md",
+    "Programming Language/Effective Modern Cpp/4 Smart Pointers.md",
+    "Semaphores/041 Produce-consumer problem.md",
+    "What is strong and weak team.md"
   ]
 }
