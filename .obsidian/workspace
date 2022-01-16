@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes on Web3 apps and NFT.md",
+            "file": "ARM Cortex-M ISA Overview.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "aap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes on Web3 apps and NFT.md",
+                "file": "ARM Cortex-M ISA Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes on Web3 apps and NFT.md",
+                "file": "ARM Cortex-M ISA Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,15 +124,15 @@
   },
   "active": "aa7a722b2594997a",
   "lastOpenFiles": [
-    "Notes on Web3 apps and NFT.md",
-    "Treks I want to go on.md",
-    "Untitled.md",
-    "What is Web3.md",
-    "Semaphores/000 The little book of Semaphores.md",
+    "ARM Cortex-M ISA Overview.md",
     "Notes on Bullshit jobs.md",
-    "Programming Language/Effective Modern Cpp/% Effective Mordern Cpp Annotation.md",
+    "Adafruit playground express.md",
+    "How to compiler flags.md",
     "Programming Language/Effective Modern Cpp/4 Smart Pointers.md",
-    "Semaphores/041 Produce-consumer problem.md",
-    "What is strong and weak team.md"
+    "Programming Language/Effective Modern Cpp/3 Moving to mordern Cpp.md",
+    "Programming Language/Effective Modern Cpp/% Effective Mordern Cpp Annotation.md",
+    "Programming Language/Effective Modern Cpp/0  Effective Mordern Cpp - MOC.md",
+    "Programming Language/Effective Modern Cpp/1 Intro.md",
+    "Algorithm/Fast Invert Sqrt.md"
   ]
 }

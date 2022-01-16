@@ -160,4 +160,20 @@ If the existence of bullshit jobs seems to defy the logic of capitalism, one pos
 It is increasingly a system of rent extraction where the internal logic are profoundly differnt from capitalism, since economic and political imperatives have come to largely merge.
 In manyways, it resembles classic medieval feudalism, displaying the same tendency to create endliess hierarchies of lords, vassals, and retainers.
 ```
+>Many economic concepts trace back directly to religious ideas. As a result, arguments about value always have something of a theological tinge. 
+```ad-quote
+In public debate, all work must be treated as sacred duty, and therefore any work is always preferable to none at all.
+```
+```ad-quote
+We can't really discuss any of these things in terms of a language of "needs." To a large degree, needsare just other people's expectations. Most economists conclude therefore that there's no point in sitting in judgment about what people _should_ want; better to just accept that they _do_ want, and then sit in judgment about how effectively they set about pursuing their desires.
+```
+```ad-quote
+The labor theory of value assume that the real value of a commodity is that work that has been inbestedin making its existance possible. So when we give money in exchange for a loadof bread, what we are really paying for is the human effort that wentinto growing the wheat, baking the bread, and packing and transporting the loaves. If you are defrauding others of their wealth, you are really stealing the real, productive work that went into creating that wealth.
+```
+```ad-quote
+...all value come from work, is not the same thing as saying that all work produces value.
+```
+
+- Since there is no way to subjectively justify what work produce value, and what NOT. The prevailing view among economists is that if there is a market for a given good or service, then it's clearly valuable to someone and that is its value.
+ - The market can't be always right, since bullshit jobs do exist.
  
