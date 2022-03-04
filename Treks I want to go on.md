@@ -8,3 +8,5 @@ Tags: [[trekking]], [[hiking]]
 3. White mountains, Mount Lafayette
 
 https://www.wilderness.org/articles/article/no-time-hike-appalachian-trail-try-these-12-easy-section-hikes
+
+Start camping with https://wildlandtrekking.com/blog/best-beginner-backpacking-trips-in-new-england/

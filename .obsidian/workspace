@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ARM Cortex-M ISA Overview.md",
+            "file": "U-Blox setting Mobile Network Operator profile.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARM Cortex-M ISA Overview.md",
+                "file": "U-Blox setting Mobile Network Operator profile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ARM Cortex-M ISA Overview.md",
+                "file": "U-Blox setting Mobile Network Operator profile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,15 +124,15 @@
   },
   "active": "aa7a722b2594997a",
   "lastOpenFiles": [
-    "ARM Cortex-M ISA Overview.md",
-    "Notes on Bullshit jobs.md",
-    "Adafruit playground express.md",
-    "How to compiler flags.md",
-    "Programming Language/Effective Modern Cpp/4 Smart Pointers.md",
-    "Programming Language/Effective Modern Cpp/3 Moving to mordern Cpp.md",
-    "Programming Language/Effective Modern Cpp/% Effective Mordern Cpp Annotation.md",
-    "Programming Language/Effective Modern Cpp/0  Effective Mordern Cpp - MOC.md",
-    "Programming Language/Effective Modern Cpp/1 Intro.md",
-    "Algorithm/Fast Invert Sqrt.md"
+    "U-Blox setting Mobile Network Operator profile.md",
+    "How to HTTP using AT Commands.md",
+    "U-Blox AT Command implementation.md",
+    "Overview of LTE Cat M1.md",
+    "What is Hayes commands set AKA AT Commands.md",
+    "Casting in Cpp.md",
+    "Cortex M0 ARMv6m Exception entry behaviour.md",
+    "How to debug Hardware Faults on ARM Cortex-M.md",
+    "How Eileen Gu handle fear.md",
+    "What is a Escher Sentences.md"
   ]
 }
