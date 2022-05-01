@@ -3,3 +3,6 @@ Type: #documentation
 Tags:
 
 # {{title}}
+
+---
+# References

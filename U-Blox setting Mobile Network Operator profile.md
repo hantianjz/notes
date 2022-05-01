@@ -22,6 +22,13 @@ Only change MNO profile when de-register.
 
 ## Verizon (+UMNOPROF: 3)
 
+## Regulatory / Conformance (+UMNOPROF: 0/ 201)
+Used for production or lab testing. [[LwM2M]] and security features are disabled.
+
+## SIM ICCID select profile (+UMNOPROF: 1)
+Use different profile on different SIM cards. MNO profile is selected based on **SIM Issuer Identifier Number** (*IIN*) or *IMSI*
+
+When using MNO profile 1, MUST also configure automatic reset and URC enabling.
 
 ---
 # References

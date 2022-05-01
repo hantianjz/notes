@@ -1,4 +1,8 @@
-Create master key for cert only
+Last Updated: 2022-03-05
+Type: #documentation 
+Tags: [[gpg]], [[password-store]], [[password]]
+
+# Creating new GPG keysCreate master key for cert only
 ```
 $ gpg --expert --full-generate-key
 

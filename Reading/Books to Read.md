@@ -3,7 +3,6 @@ Type: #list #TODO
 Tags: [[books]], [[reading]]
 
 # Books to Read
-- 99% Invisible City
 - [The flow of time]( https://www.amazon.com/Order-Time-Carlo-Rovelli/dp/073521610X/ref=asc_df_073521610X/?tag=hyprod-20&linkCode=df0&hvadid=312014159412&hvpos=&hvnetw=g&hvrand=2436446789165425171&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9002004&hvtargid=pla-455191460063&psc=1)
 - Structures
 - Quantum Man
@@ -20,3 +19,5 @@ Tags: [[books]], [[reading]]
 - Merchants of Doubt
 - Consider the Lobster and Other Essays
 - Sum: Forty Tales from the Afterlives
+
+https://www.nathanieldrew.com/what-i-read

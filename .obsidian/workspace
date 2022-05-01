@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "aa7a722b2594997a",
+        "id": "d6ea2e3ba3d59f15",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "U-Blox setting Mobile Network Operator profile.md",
+            "file": "Reading/Favor Quotes/Qoutes for What is it to be Human.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aap",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,34 +54,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266
+    "width": 316.5
   },
   "right": {
     "id": "0a78e593f2059fd1",
     "type": "split",
     "children": [
-      {
-        "id": "e6af6b4718763f4e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5d6410947179c07e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "8ce830b58ffeaf28",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          }
-        ]
-      },
       {
         "id": "bc4d7f136866670c",
         "type": "tabs",
@@ -92,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "U-Blox setting Mobile Network Operator profile.md",
+                "file": "Reading/Favor Quotes/Qoutes for What is it to be Human.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,30 +87,37 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "U-Blox setting Mobile Network Operator profile.md",
+                "file": "Reading/Favor Quotes/Qoutes for What is it to be Human.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "8ce830b58ffeaf28",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
-  "active": "aa7a722b2594997a",
+  "active": "d6ea2e3ba3d59f15",
   "lastOpenFiles": [
-    "U-Blox setting Mobile Network Operator profile.md",
-    "How to HTTP using AT Commands.md",
-    "U-Blox AT Command implementation.md",
-    "Overview of LTE Cat M1.md",
-    "What is Hayes commands set AKA AT Commands.md",
-    "Casting in Cpp.md",
-    "Cortex M0 ARMv6m Exception entry behaviour.md",
-    "How to debug Hardware Faults on ARM Cortex-M.md",
-    "How Eileen Gu handle fear.md",
-    "What is a Escher Sentences.md"
+    "Reading/Favor Quotes/Qoutes for What is it to be Human.md",
+    "Reading/Favor Quotes/Qoutes from This is Water.md",
+    "Reading/Notes/Notes on Web3 apps and NFT.md",
+    "Writing small function.md",
+    "Reading/Notes/Notes on Bullshit jobs.md",
+    "Reading/Notes/Notes on Crucial Conversations.md",
+    "Reading/Books to Read.md",
+    "Reading/Reading  - MOC.md",
+    "Reading/Notes/Notes on Guns, germs, and Steel.md",
+    "Reading/Notes/Notes on A beautifully foolish endeavor.md"
   ]
 }

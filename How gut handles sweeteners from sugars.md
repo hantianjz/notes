@@ -9,6 +9,6 @@ Link: https://www.the-scientist.com/news-opinion/how-the-gut-differentiates-arti
 - Gut have similar cells as those on tongue for taste
 - Sensor cells are directly connected to neurons
 - Sugar stimulates cells in the gut to release glutamate and activate vagus nerve
-```ad-quote
-The researchers genetically altered mice so that exposure to certain wavelengths of light would silence neuropod cells typically stimulated by sugars and sweeteners, while others would stimulate them, and yet others would have no effect and record how this affected the mice’s preferences.
-```
+
+> [!quote] 
+> The researchers genetically altered mice so that exposure to certain wavelengths of light would silence neuropod cells typically stimulated by sugars and sweeteners, while others would stimulate them, and yet others would have no effect and record how this affected the mice’s preferences.

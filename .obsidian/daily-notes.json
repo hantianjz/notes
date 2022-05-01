@@ -1,6 +1,6 @@
 {
-  "autorun": false,
   "format": "dd-DD-MMM-Y",
   "folder": "Diary",
+  "autorun": false,
   "template": "_templates/dairy_template"
 }

@@ -102,9 +102,86 @@ $\lambda$ calculus is also a definition of algorithm
 
 > Quantum computers are NOT computationally more powerful than traditional computers. - 1985, David Deutsh
 
-If a computation never halts, it is called to it diverges.
+If a computation never halts, it is called to it **diverges**.
 
 Finite automata always halt. The number of step in computation is the same as length of input.
 
+> [!quote] Ada Lovelace
 Augusta Ada Kind, Countess of Lovelace
 
+## Lambda Calculus
+
+Function composition via subsitution
+
+Identity function: $f(x) = x$ or $\lambda x \cdot x$
+
+## Peano arithmetic
+with successor function
+  $2 = S(1) = S(S(0))$
+Define $+$ by 2 properties:
+- $m+0=m$ for all $m \in N$
+- $m + S(n) = S(m+n)$ for all $m,n \in N$
+
+## One-Dimensional Cellular Automata
+Single tap evolve and transform based on a localize rule. Computation takes place at discrete time interval.
+
+> [!quote] Stephan Wolfram
+New kind of Science
+
+Matthew Cook, Rule 110 is universal for and computation(Game of life)
+
+## A Encoding method for Finite Automata
+`M -> <M>`
+
+Needs information on:
+1. Number of states
+2. Start state
+3. Accepting state
+4. For each state, the result of 0,1 input
+
+$0s$ encode numbers
+$1s$ encode punctuation
+- Four $1s$: Start or end of encode
+- Three $1s$: End of category
+- Two $1s$: Change in sub-category
+- One $1s$: Used like comma
+
+Encoding layout
+```
+1111 { number of states }
+    111 { list of accept states }
+    111 { transition for state 1 } 11 { transition for state 2 } 11 ...
+1111
+```
+
+**<M, I>** = Encoding of Finite automata and input string
+
+There exist a **TM** that can simulate any **FA** running any input.
+
+There is a turning Machine, **U**, that will take any **<M, I>** as input and give the answer
+*accept*, if **M** *accepts* **I**, give the answer *reject*, if if **M** *reject* **I**. This **U** is a universal turning machine.
+
+## Russell's Barber contradiction
+Finite Automata can be divided in term of:
+- **FA** that accept their own encoding
+- **FA** that do NOT
+
+A machine **M** that determine if a FA accept its own encoding, can not be Finite Automata.
+
+If a $M_{FA}$ exist such that it only accept FA that reject their own encoding.
+
+Proof by contradiction this cannot exist:
+
+Assume if $M_{FA}$ accept $<M_{FA}>$ then this is a contradiction, since $M_{FA}$ by definition only accept FA that reject its own encoding. If $M_{FA}$ reject $<M_{FA}>$, this is also a contradiction.
+
+Therefore $M_{FA}$ is not a Finite Automata, but a turning machine.
+
+But similarly the question:
+  Given a turning machine, will it NOT accept its own encoding? Is an undecidable problem.
+
+The negation of decision problems is the same.
+
+Hence it is also true that:
+  Given a turning machine, will it accept its own encoding? Is also undecidable.
+
+Two sets of elements are said to have the same cardinality if there exist a bijection between them.

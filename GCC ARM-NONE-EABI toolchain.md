@@ -36,6 +36,13 @@ arm-none-eabi-gdb --version
 arm-none-eabi-size --version
 ```
 
+# Ubuntu Install
+```
+sudo add-apt-repository -y ppa:ubuntu-toolchain-r/test
+sudo apt install gcc-multilib
+
+```
+
 ---
 # References
 https://embeddedinventor.com/a-complete-beginners-guide-to-the-gnu-arm-toolchain-part-1/
