@@ -81,7 +81,7 @@ Widget w2{10, true};   // Uses braces, but call std::initializer_list ctor
 Widget w3(10, 5.0);    // Uses parens and call 2nd ctor
 
 Widget w4{10, 5.0};    // Uses braces, but call std::initializer_list ctor
-											 // (10 and 5.0 convert to long double)
+                        // (10 and 5.0 convert to long double)
 
 Widget w5(w4);         // uses parens, calls copy ctor
 
@@ -119,11 +119,11 @@ Widget w5{{}};     // Same as w4
 
 ```cpp
 std::vector<int> v1(10, 20);  // Use non-std::initializer_list ctor:
-															// create 10 element std::vector, all elements
-															// have value of 20
+                              // create 10 element std::vector, all elements
+                              // have value of 20
 
 std::vector<int> v2{10, 20};  // Use std::initializer_list ctor:
-															// create 2-element std::vector with 10 and 20
+                              // create 2-element std::vector with 10 and 20
 ```
 
 This is a huge problem for templates, which **std::make_unique** and **std::make_shared** deal with.
@@ -141,7 +141,7 @@ void f(void*);
 
 f(0);            // calls f(int), not f(void*)
 f(NULL);         // might not compile, but typically calls f(int).
-								 // Never calls f(void*)
+				 // Never calls f(void*)
 ```
 
 Avoid overloading function on pointer and integral types.

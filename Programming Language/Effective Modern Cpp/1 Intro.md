@@ -73,16 +73,16 @@ Type of T does not always deduce to the same type as expr. There are 3 cases.
   const int& rx = x;       // as before
   
   f(x);                    // x is lvalue, so T is int&,
-  												 // param's type is also int&
+                    	   // param's type is also int&
   
   f(cx);                   // cx is lvalue, so T is const int&,
-  												 // param's type is also const int&
+                           // param's type is also const int&
   
   f(rx);                   // rx is lvalue, so T is const int&,
-  												 // param's type is also const int&
+                           // param's type is also const int&
   
   f(27);                   // 27 is rvalue, so T is int,
-  												 // param's type is therefore int&&
+                           // param's type is therefore int&&
   ```
         
 - **Case 3: ParamType is neither pointer nor reference**
@@ -124,7 +124,7 @@ Type of T does not always deduce to the same type as expr. There are 3 cases.
   const char name[] = "1234";
   
   f(name)                   // pass array to f, as reference to array
-  													// size of array is included in the type
+  							// size of array is included in the type
   
   // T => const char[4], and param => const char (&)[4]
   ```
@@ -132,7 +132,7 @@ Type of T does not always deduce to the same type as expr. There are 3 cases.
 - **Function Arguments**
   ```cpp
   void someFunc(int, double);   // someFunc is a function;
-  															// type is void(int, double)
+      							// type is void(int, double)
   
   template<typename T>
   void f1(T param);             // in f1, param passed by value
@@ -141,10 +141,10 @@ Type of T does not always deduce to the same type as expr. There are 3 cases.
   void f2(T& param);            // in f2, param passed by ref
   
   f1(someFunc);                 // param deduced as ptr-to-func;
-  															// type is void (*)(int, double)
+  								// type is void (*)(int, double)
   
   f2(someFunc);                 // param deduced as ref-to-func;
-  															// type is void (&)(int, double)
+  								// type is void (&)(int, double)
   ```
    _This rarely makes any difference in practice._
 
@@ -215,12 +215,12 @@ Also divided into 3 cases based on type specifier on **auto**
   const int i = 0;            // decltype(i) is *const int*
   
   bool f(const Widget& w);    // decltype(w) is const widget&
-  														// decltype(f) is bool(const Widget&)
+  							  // decltype(f) is bool(const Widget&)
   
   struct Point {
   	int x, y;
   };                          // decltype(Point::x) is int
-  														// decltype(point::y) is int
+  							  // decltype(point::y) is int
   
   Widget w;                   // decltype(w) is *Widget*
   
@@ -261,11 +261,11 @@ Also divided into 3 cases based on type specifier on **auto**
   const Widget& cw = w;
   
   auto myWidget1 = cw;          // auto type deduction:
-  															// myWidget1's type is Widget
+  								// myWidget1's type is Widget
   
   decltype(auto) myWidget2 = cw;// decltype type deduction:
-  															// myWidget2's type is
-  															//   const Widget&
+  								// myWidget2's type is
+  								//   const Widget&
   ```
     
   **C++11**

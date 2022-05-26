@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reading/Favor Quotes/Qoutes for What is it to be Human.md",
+            "file": "RF/LTE/LTE Protocol Reading list.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading/Favor Quotes/Qoutes for What is it to be Human.md",
+                "file": "RF/LTE/LTE Protocol Reading list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reading/Favor Quotes/Qoutes for What is it to be Human.md",
+                "file": "RF/LTE/LTE Protocol Reading list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,15 +109,15 @@
   },
   "active": "d6ea2e3ba3d59f15",
   "lastOpenFiles": [
+    "RF/LTE/LTE Protocol Reading list.md",
+    "RF/LTE/LTE Physical Layer Overview.md",
+    "LTEPTCLOVWWP.pdf.md",
+    "Overview of LTE Cat M1.md",
+    "SAMD21/SAM-D21D Manual Annotation.md",
+    "Reading/Favor Quotes/Quotes from Steve Jobs (maybe).md",
     "Reading/Favor Quotes/Qoutes for What is it to be Human.md",
-    "Reading/Favor Quotes/Qoutes from This is Water.md",
-    "Reading/Notes/Notes on Web3 apps and NFT.md",
-    "Writing small function.md",
-    "Reading/Notes/Notes on Bullshit jobs.md",
-    "Reading/Notes/Notes on Crucial Conversations.md",
-    "Reading/Books to Read.md",
-    "Reading/Reading  - MOC.md",
-    "Reading/Notes/Notes on Guns, germs, and Steel.md",
-    "Reading/Notes/Notes on A beautifully foolish endeavor.md"
+    "FTDI Pinout.md",
+    "Semaphores/041 Produce-consumer problem.md",
+    "Semaphores/000 The little book of Semaphores.md"
   ]
 }

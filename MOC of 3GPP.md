@@ -4,7 +4,7 @@ Tags: [[3GPP]], [[protocol]], [[Network Protocol]]
 
 # TOC of 3GPP
 
-# # [Access Network from 3GPP](https://en.wikipedia.org/wiki/System_Architecture_Evolution#Multiple_access_networks)
+## [Access Network from 3GPP](https://en.wikipedia.org/wiki/System_Architecture_Evolution#Multiple_access_networks)
 [[GRPS]] - General Packet Radio Service
 [[UMTS]] - Universal Mobile Telecommunications System
 [[EDGE]] - Enhanced Data rate for GSM Evolution

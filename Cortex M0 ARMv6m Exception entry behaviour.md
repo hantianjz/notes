@@ -1,5 +1,12 @@
-Tags: [[exception]], [[hardfault]]
-Module: [[ARMv6M]]
+---
+publish: true
+---
+2022-02-11
+Source: 
+Type: #notes
+Tags: [[exception]], [[hardfault]], [[ARMv6M]]
+
+# Cortex M0 ARMv6m Exception entry behaviour
 
 ```c
 // PushStack()

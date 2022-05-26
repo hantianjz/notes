@@ -1,7 +1,7 @@
 2021-12-29-We
-Author: ?
-Originally published: ?
-Type: #notes
+Author: Scott Meyers
+Originally published: 2014
+Type: #MOC 
 Tags:  [[Cpp]], [[Cpp11]], [[Cpp14]], [[Cpp17]]
 
 # 0  Effective Mordern Cpp - MOC

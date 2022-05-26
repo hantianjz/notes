@@ -1,5 +1,8 @@
-2022-02-11-Fr
-Type: #idea
+---
+publish: true
+---
+Last Updated: 2022-02-11
+Type: #documentation 
 Tags: [[Cpp]], [[casting]]
 
 # Casting in Cpp

@@ -1,7 +1,7 @@
 2021-12-29-We
 Author: [[Allen B. Downey]]
 Originally published: March 2009
-Type: #notes
+Type: #notes #MOC 
 Tags: [[concurrency]], [[semaphores]]
 
 # The little book of Semaphores:
