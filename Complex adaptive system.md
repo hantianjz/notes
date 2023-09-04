@@ -1,3 +1,13 @@
+---
+publish: true
+reviewed: 2023-09-03
+review-frequency: low
+tags:
+  - idea
+link:
+  - "[[System]]"
+---
+
 To compress that a little, complex adaptive systems have the following properties, as laid out by [John Holland](https://en.wikipedia.org/wiki/John_Henry_Holland):
 
 - they are made up of agents that act in parallel.
@@ -6,6 +16,6 @@ To compress that a little, complex adaptive systems have the following propertie
 - all complex adaptive systems anticipate the future and act according to their predictions, and
 - complex adaptive systems are dynamic, and generate new niches and interconnections between those niches over time
 
-—-
-# reference
+---
+# References
 - https://commoncog.com/the-right-level-of-abstraction/

@@ -1,9 +1,11 @@
 ---
 publish: true
+link:
+- '[[trekking]]'
+tags:
+- diary
 ---
 2018-03-16
-Type:: #diary
-Tags:: [[trekking]]
 
 # March 16th, 2018, Chunkung, day 6 (4730m)
 

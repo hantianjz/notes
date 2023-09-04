@@ -1,10 +1,15 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[NVM]]'
+- '[[arm]]'
+- '[[embedded]]'
+- '[[bootloader]]'
+- '[[SAMD21]]'
+tags:
+- documentation
 ---
-Last Updated: 2021-12-29
-Type:: #documentation 
-Tags:: [[NVM]], [[arm]], [[embedded]], [[bootloader]], [[SAMD21]]
 
 # NVMCTRL Bootprot
 

@@ -1,10 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[complexity]]'
+- '[[simplicity]]'
+tags:
+- idea
 ---
 2021-12-29-We
-Type:: #idea
-Tags:: [[complexity]], [[simplicity]]
 
 # The Zen of Python (PEP-0020)
 

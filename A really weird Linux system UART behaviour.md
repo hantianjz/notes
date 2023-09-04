@@ -1,10 +1,15 @@
 ---
 publish: false
 review-frequency: normal
+link:
+- '[[linux]]'
+- '[[bug]]'
+- '[[feature]]'
+- '[[uart]]'
+- '[[Notes todo]]'
+tags:
+- documentation
 ---
-Last Updated: 2022-08-23
-Type:: #documentation 
-Tags:: [[linux]], [[bug]], [[feature]], [[uart]], [[Notes todo]]
 
 # A really weird Linux system UART behaviour
 

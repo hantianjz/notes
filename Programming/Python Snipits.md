@@ -2,11 +2,14 @@
 publish: true
 review-frequency: high
 reviewed: 2023-02-12
+link:
+- '[[Python]]'
+- '[[main function]]'
+tags:
+- notes
 ---
 2021-12-29-We
 Source: ?
-Type:: #notes
-Tags:: [[Python]], [[main function]]
 
 # Python Snipits
 ```python

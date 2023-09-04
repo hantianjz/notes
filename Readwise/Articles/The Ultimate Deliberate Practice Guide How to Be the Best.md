@@ -3,10 +3,8 @@
 ![rw-book-cover](https://149664534.v2.pressablecdn.com/wp-content/uploads/2015/06/cropped-farnamstreet-300x300.png)
 
 ## Metadata
-- Author: [[Rosie]]
 - Full Title: The Ultimate Deliberate Practice Guide: How to Be the Best
 - Category: #articles
-- Document Tags: [[self-help]] [[social]] 
 - URL: https://fs.blog/deliberate-practice-guide/
 
 ## Highlights

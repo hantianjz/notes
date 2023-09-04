@@ -1,10 +1,12 @@
 ---
 publish: false
 review-frequency: normal
+link:
+- '[[network]]'
+tags:
+- notes
 ---
 2022-12-09-Fr
-Type:: #notes 
-Tags:: [[network]]
 
 # Network Types
 

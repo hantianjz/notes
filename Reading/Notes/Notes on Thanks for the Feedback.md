@@ -2,12 +2,15 @@
 publish: true
 reviewed: 2022-12-29
 review-frequency: normal
+link:
+- '[[Reading/reading]]'
+- '[[feedback]]'
+- '[[self improvement]]'
+- '[[Notes todo]]'
+tags:
+- notes
 ---
 2022-11-19-Sa
-Author:: Douglas Stone & Sheila Heen
-Originally published:: 2015
-Type:: #notes
-Tags:: [[Reading/reading]], [[feedback]], [[self improvement]], [[Notes todo]]
 ```toc
 ```
 # Notes on Thanks for the Feedback

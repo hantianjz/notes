@@ -1,10 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[SDR]]'
+- '[[IQ Signal]]'
+tags:
+- idea
 ---
 2021-12-29-We
-Type:: #idea
-Tags:: [[SDR]], [[IQ Signal]]
 
 # Frequency Shift Keying encoding
 

@@ -2,10 +2,13 @@
 publish: true
 reviewed: 2023-04-29
 review-frequency: ignore
+link:
+- '[[TV]]'
+- '[[sense 8]]'
+tags:
+- quotes
 ---
 2021-12-29-We
-Type:: #quotes 
-Tags:: [[TV]], [[sense 8]]
 
 # Quotes from Sense 8
 > [!quote]

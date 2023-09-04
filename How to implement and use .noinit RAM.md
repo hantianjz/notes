@@ -1,10 +1,15 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[arm]]'
+- '[[link script]]'
+- '[[hardfaults]]'
+- '[[gcc]]'
+tags:
+- idea
 ---
 2021-12-29-We
-Type:: #idea
-Tags:: [[arm]], [[link script]], [[hardfaults]], [[gcc]]
 
 # How to implement and use .noinit RAM
 

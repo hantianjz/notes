@@ -1,10 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[blockchain]]'
+- '[[crypto]]'
+- '[[web3]]'
+tags:
+- idea
 ---
 2021-12-29-We
-Type:: #idea
-Tags:: [[blockchain]], [[crypto]], [[web3]]
 
 # What is Web3
 

@@ -1,13 +1,16 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[non fiction]]'
+- '[[productivity]]'
+- '[[biography]]'
+- '[[habit]]'
+- '[[Reading/reading]]'
+tags:
+- notes
+reviewed: 2023-09-03
 ---
-2021-12-29-We
-Author:: [[Adam Savage]]
-Originally published:: May 2019
-Type:: #notes
-Tags:: [[non fiction]], [[productivity]], [[biography]], [[habit]], [[Reading/reading]]
-
 # Every Tool's a Hammer: Life Is What You Make It 
 
 # 🔭 Full Title

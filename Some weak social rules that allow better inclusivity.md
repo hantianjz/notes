@@ -1,10 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[culture]]'
+- '[[inclusive]]'
+- '[[social]]'
+tags:
+- idea
 ---
 2022-01-23-Su
-Type:: #idea
-Tags:: [[culture]],[[inclusive]],[[social]]
 
 # Some weak social rules that allow better inclusivity
 

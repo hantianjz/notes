@@ -1,10 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[plagiarize]]'
+- '[[twitter]]'
+- '[[procrastination]]'
+tags:
+- idea
 ---
 2022-08-23-Tu
-Type:: #idea
-Tags:: [[plagiarize]], [[twitter]], [[procrastination]]
 
 # Psychology on Procrastination
 The root of procrastination for most people ain't laziness, it is anxiety.

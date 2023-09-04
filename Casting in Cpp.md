@@ -1,10 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[Cpp]]'
+- '[[casting]]'
+- '[[plagiarize]]'
+tags:
+- documentation
 ---
-Last Updated: 2022-02-11
-Type:: #documentation 
-Tags:: [[Cpp]], [[casting]], [[plagiarize]]
 
 # Casting in Cpp
 

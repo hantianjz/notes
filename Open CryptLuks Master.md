@@ -1,10 +1,18 @@
 ---
 publish: true
 review-frequency: ignore
+link:
+- '[[Linux]]'
+- '[[security]]'
+- '[[Linux]]'
+- '[[HOWTO]]'
+- '[[File Systems]]'
+- '[[password-store]]'
+- '[[gpg]]'
+tags:
+- documentation
 ---
 Lasted Updated: 2021-12-29-We
-Type:: #documentation 
-Tags:: [[Linux]], [[security]], [[Linux]], [[HOWTO]], [[File Systems]], [[password-store]], [[gpg]]
 
 # Open CryptLuks Master
 

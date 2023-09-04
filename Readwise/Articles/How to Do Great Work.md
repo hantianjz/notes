@@ -3,10 +3,8 @@
 ![rw-book-cover](http://www.paulgraham.com/favicon.ico)
 
 ## Metadata
-- Author: [[Paul Graham: Essays]]
 - Full Title: How to Do Great Work
 - Category: #articles
-- Document Tags: [[self-improvement]] [[social]] 
 - URL: http://www.paulgraham.com/greatwork.html
 
 ## Highlights

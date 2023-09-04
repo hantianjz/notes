@@ -1,14 +1,15 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[history]]'
+- '[[non fiction]]'
+- '[[anthropology]]'
+- '[[Reading/reading]]'
+tags:
+- notes
+reviewed: 2023-09-03
 ---
-2022-04-30-Sa
-Author:: Jared Diamond
-Originally published:: 1997
-Type:: #notes
-Tags:: [[history]], [[non fiction]], [[anthropology]], [[Reading/reading]]
-
-# Notes on Guns, germs, and Steel: The Fates of Human Societies
 
 > [!note] Yali's question
 >Why one group of people develope at such different rate compared to another?

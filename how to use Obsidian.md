@@ -1,10 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[PKM]]'
+- '[[Obsidian]]'
+tags:
+- idea
 ---
 2021-12-29-We
-Type:: #idea
-Tags:: [[PKM]], [[Obsidian]]
 
 # Suggestion on how to Obsidian
 

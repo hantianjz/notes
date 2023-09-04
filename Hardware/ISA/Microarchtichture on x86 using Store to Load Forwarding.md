@@ -1,12 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[x86]]'
+- '[[asm]]'
+tags:
+- notes
 ---
 2021-12-29-We
-Author:: [[Henry Wong]]
 Date published: JANUARY 9TH, 2014
-Type:: #notes
-Tags:: [[x86]], [[asm]]
 Link: https://blog.stuffedcow.net/2014/01/x86-memory-disambiguation/
 
 # Microarchtichture on x86 using Store to Load Forwarding

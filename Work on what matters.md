@@ -1,12 +1,15 @@
 ---
 publish: true
-review-frequency: normal
+review-frequency: high
+link:
+- '[[teams]]'
+- '[[organizational culture]]'
+- '[[leadership]]'
+- '[[staff]]'
+tags:
+- idea
+reviewed: 2023-09-03
 ---
-2022-11-30-We
-Type:: #idea
-Tags:: [[teams]], [[organizational culture]], [[leadership]], [[staff]]
-
-# Work on what matters
 ![[Pasted image 20221130203919.png]]
 ## Avoid snacking
 Avoid doing too much low effort low impact work.

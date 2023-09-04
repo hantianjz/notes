@@ -2,10 +2,12 @@
 publish: true
 reviewed: 2023-04-29
 review-frequency: low
+link:
+- '[[rubik''s cube]]'
+- '[[puzzle]]'
+tags:
+- documentation
 ---
-Last Updated: 2023-04-29
-Type:: #documentation 
-Tags:: [[rubik's cube]], [[puzzle]]
 
 # How to solve 2x2 rubik's cube
 

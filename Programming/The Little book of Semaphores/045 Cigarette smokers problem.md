@@ -1,12 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[concurrency]]'
+- '[[semaphores]]'
+tags:
+- notes
 ---
 2021-12-29-We
-Author:: [[Allen B. Downey]]
-Originally published:: March 2009
-Type:: #notes
-Tags:: [[concurrency]], [[semaphores]]
 
 > Four threads are involved: an agent and three smokers. The smokers loop forever, first waiting for ingredients, then making and smoking cigarettes. The ingredients are tobacco, paper, and matches.
 >

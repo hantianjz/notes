@@ -1,10 +1,16 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[ABI]]'
+- '[[executable]]'
+- '[[OS]]'
+- '[[C]]'
+- '[[gcc]]'
+tags:
+- idea
 ---
 2021-12-29-We
-Type:: #idea
-Tags:: [[ABI]], [[executable]], [[OS]], [[C]], [[gcc]]
 
 # How APE(Actually Portable Executable) work
 

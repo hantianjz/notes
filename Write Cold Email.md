@@ -1,10 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[email]]'
+- '[[influence]]'
+tags:
+- idea
 ---
 2021-12-29-We
-Type:: #idea
-Tags:: [[email]], [[influence]]
 
 # Write Cold Email
 

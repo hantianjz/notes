@@ -2,10 +2,12 @@
 publish: false
 reviewed: 2023-04-03
 review-frequency: ignore
+link:
+- '[[tax]]'
+- '[[documents]]'
+tags:
+- list
 ---
-Last Updated:: 2023-04-03
-Type:: #list 
-Tags:: [[tax]], [[documents]]
 
 # Tax Documents Checklist
 

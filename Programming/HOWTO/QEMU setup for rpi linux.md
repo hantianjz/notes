@@ -1,10 +1,16 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[arm]]'
+- '[[linux]]'
+- '[[qemu]]'
+- '[[simulation]]'
+- '[[rpi]]'
+tags:
+- idea
 ---
 2021-12-29-We
-Type:: #idea
-Tags:: [[arm]], [[linux]], [[qemu]], [[simulation]], [[rpi]]
 
 # QEMU
 

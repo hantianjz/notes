@@ -1,12 +1,16 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[Cpp]]'
+- '[[Notes todo]]'
+- '[[Reading/reading]]'
+- '[[programming]]'
+- '[[C]]'
+tags:
+- notes
 ---
 2022-05-07-Sa
-Author:: Bjarne Stroustrup
-Originally published:: September 2013
-Type:: #notes
-Tags:: [[Cpp]], [[Notes todo]], [[Reading/reading]], [[programming]], [[C]]
 # A tour of C++
 
 > [!note]

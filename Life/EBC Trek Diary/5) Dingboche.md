@@ -1,9 +1,11 @@
 ---
 publish: true
+link:
+- '[[trekking]]'
+tags:
+- diary
 ---
 2018-03-15
-Type:: #diary
-Tags:: [[trekking]]
 
 # March 15th, 2018, DingBoche, Day 5 (4410m)
 

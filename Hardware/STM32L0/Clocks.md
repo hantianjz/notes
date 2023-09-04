@@ -1,10 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[STM32]]'
+- '[[ARMv6M]]'
+- '[[Clocks]]'
+tags:
+- documentation
 ---
-Last Updated: 2022-08-11
-Type:: #documentation 
-Tags:: [[STM32]], [[ARMv6M]], [[Clocks]]
 
 
 # Clocks

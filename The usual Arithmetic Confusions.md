@@ -2,10 +2,13 @@
 publish: true
 reviewed: 2022-12-29
 review-frequency: normal
+link:
+- '[[arithmetic]]'
+- '[[integers]]'
+- '[[C]]'
+tags:
+- documentation
 ---
-Last Updated: 2022-12-29
-Type:: #documentation 
-Tags:: [[arithmetic]], [[integers]], [[C]]
 
 # The usual Arithmetic Confusions
 

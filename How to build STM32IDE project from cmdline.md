@@ -1,10 +1,12 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[STM32]]'
+- '[[build system]]'
+tags:
+- documentation
 ---
-Last Updated: 2022-10-18
-Type:: #documentation 
-Tags:: [[STM32]], [[build system]]
 
 # How to build STM32IDE project from cmdline
 

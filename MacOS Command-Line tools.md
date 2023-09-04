@@ -2,10 +2,9 @@
 publish: false
 reviewed: 2023-07-10
 review-frequency: ignore
+tags:
+- documentation
 ---
-Last Updated: 2023-07-10
-Type:: #documentation 
-Tags::
 
 # MacOS Command-Line tools
 

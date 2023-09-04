@@ -1,10 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[embedded]]'
+- '[[microsoft]]'
+- '[[educational]]'
+tags:
+- idea
 ---
 2021-12-29-We
-Type:: #idea
-Tags:: [[embedded]], [[microsoft]], [[educational]]
 
 # What is Microsoft Makecode
 

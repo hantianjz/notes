@@ -1,10 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[jack]]'
+- '[[patreon]]'
+- '[[advice]]'
+tags:
+- idea
 ---
 2022-09-06-Tu
-Type:: #idea
-Tags:: [[jack]], [[patreon]], [[advice]]
 
 # Patreon CEO Gives BAD ADVICE | 2022 @SXSW Talk
 # 1. Advice sucks

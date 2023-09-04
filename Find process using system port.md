@@ -2,10 +2,12 @@
 publish: true
 reviewed: 2023-06-14
 review-frequency: low
+link:
+- '[[network]]'
+- '[[macOS]]'
+tags:
+- documentation
 ---
-Last Updated: 2023-06-14
-Type:: #documentation 
-Tags:: [[network]], [[macOS]]
 
 # Find process using system port
 

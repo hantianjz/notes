@@ -1,11 +1,15 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[UBlox]]'
+- '[[AT Commands]]'
+- '[[MNO]]'
+- '[[LTE]]'
+- '[[SARA-R5]]'
+tags:
+- documentation
 ---
-2022-02-26-Sa
-Type:: #documentation 
-Tags:: [[UBlox]], [[AT Commands]], [[MNO]], [[LTE]], [[SARA-R5]]
-
 # U-Blox setting Mobile Network Operator profile
 Use `AT+UMNOPROF` at command to select a network operator profile. I.E. AT&T vs Verizon.
 

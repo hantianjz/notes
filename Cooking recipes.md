@@ -2,10 +2,11 @@
 publish: true
 reviewed: 2023-04-29
 review-frequency: ignore
+link:
+- '[[Cooking recipes]]'
+tags:
+- documentation
 ---
-Last Updated: 2023-04-29
-Type:: #documentation 
-Tags:: [[Cooking recipes]]
 
 # Cooking recipes
 

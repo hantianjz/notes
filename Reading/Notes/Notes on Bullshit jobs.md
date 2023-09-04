@@ -1,13 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[organizational culture]]'
+- '[[anthropology]]'
+- '[[Reading/reading]]'
+tags:
+- notes
 ---
-2021-12-29-We
-Author:: [[David Graeber]]
-Originally published:: May 15, 2018
-Type:: #notes
-Tags:: [[organizational culture]], [[anthropology]], [[Reading/reading]]
-
 # Bullshit Jobs: A Theory
 
 Definition of a Bullshit job:

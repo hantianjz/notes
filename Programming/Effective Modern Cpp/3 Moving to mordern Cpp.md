@@ -2,12 +2,15 @@
 publish: true
 review-frequency: low
 reviewed: 2023-01-02
+link:
+- '[[Cpp]]'
+- '[[Cpp11]]'
+- '[[Cpp14]]'
+- '[[Cpp17]]'
+tags:
+- notes
 ---
 2021-12-29-We
-Author:: ?
-Originally published:: ?
-Type:: #notes
-Tags::  [[Cpp]], [[Cpp11]], [[Cpp14]], [[Cpp17]]
 
 ## Moving to Modern C++
 

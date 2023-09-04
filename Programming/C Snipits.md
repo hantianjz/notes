@@ -2,11 +2,14 @@
 publish: true
 review-frequency: normal
 reviewed: 2022-12-29
+link:
+- '[[C]]'
+- '[[main function]]'
+tags:
+- notes
 ---
 2021-12-29-We
 Source: ?
-Type:: #notes
-Tags:: [[C]], [[main function]]
 
 # C Snipits
 

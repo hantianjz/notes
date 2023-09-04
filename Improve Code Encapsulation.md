@@ -1,12 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[cpp]]'
+- '[[programming]]'
+- '[[encapsulation]]'
+tags:
+- notes
 ---
 2022-10-24-Mo
-Author:: Scott Meyers
-Originally published:: Feb, 2000
-Type:: #notes
-Tags:: [[cpp]], [[programming]], [[encapsulation]]
 
 # Improve Code Encapsulation
 

@@ -1,13 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[Reading/reading]]'
+- '[[writing]]'
+- '[[self improvement]]'
 ---
 
 2022-08-20-Sa
-Author:: Janet and Isaac Asimov
-Originally published:: 1987
-Type:: #notes
-Tags:: [[Reading/reading]], [[writing]], [[self improvement]]
 
 # How to Enjoy Writing - A book of aid and comfort
 

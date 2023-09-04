@@ -1,10 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[AT Commands]]'
+- '[[modem]]'
+- '[[protocol]]'
+tags:
+- idea
 ---
 2022-02-16-We
-Type:: #idea
-Tags:: [[AT Commands]], [[modem]],[[protocol]]
 
 # What is Hayes commands set AKA AT Commands
 The **Hayes command set** (also known as the **AT command set**) is a specific [command language](https://en.wikipedia.org/wiki/Command_language "Command language") originally developed by [Dennis Hayes](https://en.wikipedia.org/wiki/Dennis_Hayes_(businessman) "Dennis Hayes (businessman)")[[1]](https://en.wikipedia.org/wiki/Hayes_command_set#cite_note-ModemKing.NYT-1)[[2]](https://en.wikipedia.org/wiki/Hayes_command_set#cite_note-2) for the [Hayes Smartmodem](https://en.wikipedia.org/wiki/Hayes_Microcomputer_Products#The_Smartmodem "Hayes Microcomputer Products") 300 [baud](https://en.wikipedia.org/wiki/Baud "Baud") [modem](https://en.wikipedia.org/wiki/Modem "Modem") in 1981.

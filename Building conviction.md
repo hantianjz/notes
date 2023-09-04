@@ -1,10 +1,12 @@
 ---
 publish: false
 review-frequency: normal
+link:
+- '[[teams]]'
+tags:
+- idea
 ---
 2021-12-29-We
-Type:: #idea
-Tags:: [[teams]]
 
 # Building conviction
 

@@ -1,10 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[tacit knowledge]]'
+- '[[advice]]'
+- '[[knowledge]]'
+tags:
+- idea
 ---
 2022-01-30-Su
-Type:: #idea
-Tags:: [[tacit knowledge]], [[advice]], [[knowledge]]
 
 # What is tacit knowledge
 > [!quote] 

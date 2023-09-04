@@ -1,10 +1,12 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[simplicity]]'
+tags:
+- idea
 ---
 2021-12-29-We
-Type:: #idea
-Tags:: [[simplicity]]
 
 # Think in Simplicity
 

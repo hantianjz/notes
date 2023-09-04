@@ -1,10 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[homebrew]]'
+- '[[M1 Mac]]'
+- '[[Apple]]'
+- '[[Package Management]]'
+tags:
+- documentation
 ---
-Last Updated: 2022-03-05
-Type:: #documentation 
-Tags:: [[homebrew]], [[M1 Mac]], [[Apple]], [[Package Management]]
 
 # Setting up Homebrew
 Setting up homebrew on the recent M1 MacOS seem to land it in the `/opt/` folder. Where all the installed binary are not located in the `/usr/local/bin` anymore. Which is a none typical setup place.

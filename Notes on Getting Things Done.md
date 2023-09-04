@@ -2,12 +2,12 @@
 publish: false
 reviewed: 2023-05-27
 review-frequency: low
+link:
+- '[[Reading/reading]]'
+tags:
+- notes
 ---
 2023-05-27-Sa
-Author:: ?
-Originally published:: ?
-Type:: #notes
-Tags:: [[Reading/reading]]
 
 # Notes on Getting Things Done
 You will have to make the following lists:
@@ -20,5 +20,5 @@ You will have to make the following lists:
 > In a single written sentence, your intended successful outcome for this problem or situation.
 > Write down the very next physical action required to move the situation forward.
 
-![[Pasted image 20230702111753.png]]
+![[GTD_work_flow.png]]
 

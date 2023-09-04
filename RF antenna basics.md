@@ -1,12 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[RF]]'
+- '[[antenna]]'
+tags:
+- notes
 ---
 2022-06-05-Su
-Author:: Karen Rucker
-Originally published:: 2021 July
-Type:: #notes
-Tags:: [[RF]], [[antenna]]
 
 # RF antenna basics
 **Antenna**: Transducer that convert energy from one domain into another domain.

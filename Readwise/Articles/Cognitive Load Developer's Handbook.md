@@ -3,7 +3,6 @@
 ![rw-book-cover](https://opengraph.githubassets.com/104f70acbbdc0a5ec1a300d8c478748a2c17149aa5bcbe9553b0d3d93aa03e74/zakirullin/cognitive-load)
 
 ## Metadata
-- Author: [[zakirullin]]
 - Full Title: Cognitive Load Developer's Handbook
 - Category: #articles
 - URL: https://github.com/zakirullin/cognitive-load

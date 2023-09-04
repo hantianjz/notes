@@ -2,10 +2,11 @@
 publish: false
 reviewed: 2023-01-17
 review-frequency: ignore
+link:
+- '[[gps]]'
+tags:
+- documentation
 ---
-Last Updated: 2023-01-17
-Type:: #documentation 
-Tags:: [[gps]]
 
 # My home GPS location
 

@@ -3,7 +3,6 @@
 ![rw-book-cover](https://miro.medium.com/max/1200/1*QpYK-Ra29Yw6RMcP1LB7yw.jpeg)
 
 ## Metadata
-- Author: [[Alex Chesser]]
 - Full Title: Professional Development Is a Choice
 - Category: #articles
 - URL: https://alexchesser.medium.com/professional-development-is-a-choice-e90fb8719259

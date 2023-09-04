@@ -1,10 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[Cpp]]'
+- '[[parsing]]'
+- '[[syntax]]'
+tags:
+- documentation
 ---
-Last Updated: 2022-07-05
-Type:: #documentation 
-Tags:: [[Cpp]], [[parsing]], [[syntax]]
 
 # Cpp The most vexing parse
 

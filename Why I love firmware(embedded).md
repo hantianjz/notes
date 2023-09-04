@@ -1,10 +1,15 @@
 ---
 publish: false
 review-frequency: normal
+link:
+- '[[firmware]]'
+- '[[embedded]]'
+- '[[passion]]'
+- '[[Notes todo]]'
+tags:
+- idea
 ---
 2021-12-29-We
-Type:: #idea
-Tags:: [[firmware]], [[embedded]], [[passion]], [[Notes todo]]
 
 # Why I love firmware(embedded)
 

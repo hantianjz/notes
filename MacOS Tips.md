@@ -1,10 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[macOS]]'
+- '[[tips]]'
+- '[[productivity]]'
+tags:
+- documentation
 ---
-Last Updated: 2022-11-26
-Type:: #documentation 
-Tags:: [[macOS]], [[tips]], [[productivity]]
 
 # MacOS Tips
 

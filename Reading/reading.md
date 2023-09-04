@@ -2,10 +2,12 @@
 publish: false
 reviewed: 2023-04-29
 review-frequency: ignore
+link:
+- '[[Reading/reading]]'
+tags:
+- MOC
 ---
 2022-04-30-Sa
-Type:: #MOC
-Tags:: [[Reading/reading]]
 
 # Reading  - MOC
 

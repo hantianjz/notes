@@ -1,10 +1,16 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[abstractions]]'
+- '[[simplicity]]'
+- '[[legibility]]'
+- '[[fungible]]'
+- '[[danluu]]'
+tags:
+- idea
 ---
 2022-01-22-Sa
-Type:: #idea
-Tags::  [[abstractions]], [[simplicity]], [[legibility]], [[fungible]], [[danluu]]
 
 # On individual contributors
 

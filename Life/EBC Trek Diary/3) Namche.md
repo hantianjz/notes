@@ -1,9 +1,11 @@
 ---
 publish: true
+link:
+- '[[trekking]]'
+tags:
+- diary
 ---
 2018-03-13
-Type:: #diary
-Tags:: [[trekking]]
 
 # March 13th, 2018. Namche, Day 3 (3440m)
 

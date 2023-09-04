@@ -1,10 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[embedded]]'
+- '[[firmware]]'
+- '[[arm]]'
+tags:
+- idea
 ---
 2021-12-29-We
-Type:: #idea
-Tags:: [[embedded]], [[firmware]] [[arm]]
 
 # What is DAPLink
 

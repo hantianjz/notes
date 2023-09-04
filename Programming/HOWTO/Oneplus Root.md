@@ -1,10 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[android]]'
+- '[[jail break]]'
+- '[[root]]'
+- '[[bootloader]]'
+tags:
+- documentation
 ---
-Last Updated: 2021-12-29
-Type:: #documentation 
-Tags:: [[android]], [[jail break]], [[root]], [[bootloader]]
 
 # Oneplus Root
 

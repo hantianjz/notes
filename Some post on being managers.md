@@ -1,10 +1,14 @@
 ---
 publish: false
 review-frequency: normal
+link:
+- '[[management]]'
+- '[[advice]]'
+- '[[Notes todo]]'
+tags:
+- idea
 ---
 2022-10-28-Fr
-Type:: #idea 
-Tags:: [[management]], [[advice]], [[Notes todo]]
 
 # Some post on being managers
 

@@ -2,11 +2,14 @@
 publish: true
 review-frequency: normal
 reviewed: 2022-12-29
+link:
+- '[[self improvement]]'
+- '[[productivity]]'
+- '[[Reading/reading]]'
+tags:
+- notes
 ---
 2022-05-02-Mo
-Type:: #notes 
-Tags:: [[self improvement]], [[productivity]], [[Reading/reading]]
-Author:: Nir Eyal
 
 # On distraction and social media addiction
 

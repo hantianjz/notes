@@ -1,11 +1,12 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[math]]'
+- '[[constant]]'
+tags:
+- idea
 ---
-2021-12-29-We
-Type:: #idea
-Tags:: [[math]], [[constant]]
-
 # What is Kaprekar's constant - 6174
 
 This number is notable for the following rule:

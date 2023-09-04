@@ -3,10 +3,8 @@
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 
 ## Metadata
-- Author: [[mit.edu]]
 - Full Title: On the Criteria To Be Used in Decomposing Systems into Modules D.L. Parnas Carnegie-Mellon University
 - Category: #articles
-- Document Tags: [[programming]] 
 - URL: http://sunnyday.mit.edu/16.355/parnas-criteria.html
 
 ## Highlights

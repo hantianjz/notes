@@ -1,12 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[Reading/reading]]'
+- '[[SCI 591]]'
+- '[[RF]]'
+tags:
+- notes
 ---
 2022-12-09-Fr
-Author:: Brad Reaves
-Originally published:: 
-Type:: #notes
-Tags:: [[Reading/reading]], [[SCI 591]], [[RF]]
 
 # Notes on Cellular Network Security
 

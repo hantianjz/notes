@@ -1,10 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[danluu]]'
+- '[[complexity]]'
+tags:
+- idea
+- quotes
 ---
 2021-12-29-We
-Type:: #idea #quotes 
-Tags:: [[danluu]], [[complexity]]
 
 # Danluu's quotes
 

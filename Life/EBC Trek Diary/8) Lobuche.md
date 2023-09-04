@@ -1,9 +1,11 @@
 ---
 publish: true
+link:
+- '[[trekking]]'
+tags:
+- diary
 ---
 2018-03-18
-Type:: #diary
-Tags:: [[trekking]]
 
 # March 18th, 2018, Lobuche, Day 5 (4410m)
 

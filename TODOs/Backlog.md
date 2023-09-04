@@ -2,10 +2,11 @@
 publish: false
 reviewed: 2023-07-04
 review-frequency: ignore
+link:
+- '[[gtd]]'
+tags:
+- list
 ---
-Last Updated:: 2023-07-04
-Type:: #list 
-Tags:: [[gtd]]
 
 # Backlog
 

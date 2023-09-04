@@ -1,10 +1,17 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[Segger]]'
+- '[[jtag]]'
+- '[[pin map]]'
+- '[[connectors]]'
+- '[[swd]]'
+- '[[embedded]]'
+tags:
+- idea
 ---
 2021-12-29-We
-Type:: #idea
-Tags:: [[Segger]], [[jtag]], [[pin map]], [[connectors]], [[swd]], [[embedded]]
 
 # Segger Jtag connector pin maps
 

@@ -1,12 +1,16 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[non fiction]]'
+- '[[health]]'
+- '[[medicine]]'
+- '[[death]]'
+- '[[Reading/reading]]'
+tags:
+- notes
 ---
 2021-12-29-We
-Author:: [[Atul Gawande]]
-Originally published:: October, 2014
-Type:: #notes
-Tags::  [[non fiction]], [[health]], [[medicine]], [[death]], [[Reading/reading]]
 
 # Being Mortal: Medicine and What Matters in the End
 

@@ -1,10 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[leadership]]'
+- '[[run book]]'
+- '[[plagiarize]]'
+tags:
+- idea
 ---
 2022-06-04-Sa
-Type:: #idea
-Tags:: [[leadership]], [[run book]], [[plagiarize]]
 
 # Leadership run book for week 1
 

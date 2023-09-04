@@ -3,7 +3,6 @@
 ![rw-book-cover](https://xorvoid.com/favicon.ico)
 
 ## Metadata
-- Author: [[xorvoid]]
 - Full Title: ChatGPT: A Mental Model
 - Category: #articles
 - URL: https://www.xorvoid.com/chatgpt_a_mental_model.html

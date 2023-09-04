@@ -1,10 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[rpi]]'
+- '[[HOWTO]]'
+- '[[Ubuntu]]'
+tags:
+- documentation
 ---
-Last Updated: 2021-12-31
-Type:: #documentation 
-Tags:: [[rpi]], [[HOWTO]], [[Ubuntu]]
 
 # Raspberry Pi - Setup rpi ubuntu
 

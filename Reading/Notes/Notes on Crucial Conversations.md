@@ -2,12 +2,17 @@
 publish: true
 review-frequency: high
 reviewed: 2023-01-23
+link:
+- '[[self help]]'
+- '[[non fiction]]'
+- '[[conversation]]'
+- '[[management]]'
+- '[[organizational culture]]'
+- '[[Reading/reading]]'
+tags:
+- notes
 ---
 2021-12-29-We
-Author::  [[Kerry Patterson]], [[Joseph Grenny]] , [[Al Switzler]] , [[Ron McMillan]]
-Originally published:: ?
-Type:: #notes
-Tags::  [[self help]], [[non fiction]], [[conversation]], [[management]], [[organizational culture]], [[Reading/reading]]
 
 # Crucial Conversations - Tools for Talking When Stakes Are High, Second Edition
 

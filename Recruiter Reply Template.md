@@ -2,10 +2,10 @@
 publish: false
 reviewed: 2023-08-30
 review-frequency: ignore
+tags:
+- idea
 ---
 2023-08-30-We
-Type:: #idea
-Tags::
 
 # Recruiter Reply Template
 

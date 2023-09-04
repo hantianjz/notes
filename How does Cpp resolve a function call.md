@@ -1,10 +1,12 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[Cpp]]'
+- '[[Algorithm]]'
+tags:
+- documentation
 ---
-Last Updated: 2022-09-29
-Type:: #documentation 
-Tags:: [[Cpp]], [[Algorithm]]
 
 # How does Cpp resolve a function call
 

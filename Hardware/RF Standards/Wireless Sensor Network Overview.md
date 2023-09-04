@@ -1,10 +1,16 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[paper]]'
+- '[[wireless]]'
+- '[[sensor]]'
+- '[[survey]]'
+- '[[RF]]'
+tags:
+- documentation
 ---
 2022-09-20-Tu
-Type:: #documentation 
-Tags:: [[paper]], [[wireless]], [[sensor]], [[survey]], [[RF]]
 
 # Wireless Sensor Network Overview
 

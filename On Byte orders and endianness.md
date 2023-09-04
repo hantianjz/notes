@@ -1,12 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[endian]]'
+- '[[systems]]'
+tags:
+- notes
 ---
 2022-06-04-Sa
-Author:: ?
 Date published: ?
-Type:: #notes
-Tags:: [[endian]], [[systems]]
 
 # The byte order fallacy
 If your code contains `#ifdef BIG_ENDIAN` or the equivalent, you need to unlearn about byte order.

@@ -1,10 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[Network Protocol]]'
+- '[[DNS]]'
+- '[[DHCP]]'
+tags:
+- documentation
 ---
-Last Updated: 2021-12-29
-Type:: #documentation 
-Tags:: [[Network Protocol]], [[DNS]], [[DHCP]]
 
 # Setup Network bridge
 

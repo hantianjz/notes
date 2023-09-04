@@ -1,10 +1,12 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[Ubuntu]]'
+- '[[linux]]'
+tags:
+- documentation
 ---
-Last Updated: 2022-12-04
-Type:: #documentation 
-Tags:: [[Ubuntu]], [[linux]]
 
 # Ubuntu remove old kernel from boot dir
 

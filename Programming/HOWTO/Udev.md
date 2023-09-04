@@ -1,10 +1,12 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[Udev]]'
+- '[[Linux]]'
+tags:
+- documentation
 ---
-Last Updated: 2021-12-29
-Type:: #documentation 
-Tags:: [[Udev]], [[Linux]]
 
 # Udev
 

@@ -2,10 +2,15 @@
 publish: true
 reviewed: 2023-02-25
 review-frequency: low
+link:
+- '[[nordic]]'
+- '[[nrf52]]'
+- '[[RF]]'
+- '[[gazell]]'
+- '[[Notes todo]]'
+tags:
+- documentation
 ---
-Last Updated: 2023-02-25
-Type:: #documentation 
-Tags:: [[nordic]], [[nrf52]], [[RF]], [[gazell]], [[Notes todo]]
 
 # Nordic Gazell
 - Wireless link between single host and up to 8 devices.

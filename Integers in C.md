@@ -1,10 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[C]]'
+- '[[integers]]'
+- '[[data structure]]'
+tags:
+- idea
 ---
 2021-12-29-We
-Type:: #idea
-Tags:: [[C]], [[integers]], [[data structure]]
 
 # Intergers in C
 

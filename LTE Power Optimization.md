@@ -2,13 +2,20 @@
 publish: true
 reviewed: 2023-03-03
 review-frequency: ignore
+link:
+- '[[UBlox]]'
+- '[[NRF9160]]'
+- '[[AT Commands]]'
+- '[[LTE]]'
+- '[[SARA-R5]]'
+- '[[Power Saving Mode]]'
+- '[[PSM]]'
+- '[[eDRX]]'
+- '[[twilio]]'
+- '[[Notes todo]]'
+tags:
+- notes
 ---
-Last Updated: 2023-03-03
-Type:: #notes 
-Tags:: [[UBlox]], [[NRF9160]], [[AT Commands]], [[LTE]], [[SARA-R5]], [[Power Saving Mode]], [[PSM]], [[eDRX]], [[twilio]], [[Notes todo]]
-
-# LTE Power Optimization
-
 ## Power Save Mode (PSM)
 On LTE a IoT device can attach to the network while sleeping.
 

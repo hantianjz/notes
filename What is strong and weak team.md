@@ -1,10 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[organizational culture]]'
+- '[[teams]]'
+tags:
+- idea
 ---
 2021-12-29-We
-Type:: #idea
-Tags:: [[organizational culture]], [[teams]]
 
 # What is strong and weak team
 

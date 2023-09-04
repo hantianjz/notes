@@ -1,10 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[floats]]'
+- '[[data structure]]'
+- '[[numbers]]'
+tags:
+- idea
 ---
 2021-12-29-We
-Type:: #idea
-Tags:: [[floats]], [[data structure]], [[numbers]]
 
 # Floating Number
 

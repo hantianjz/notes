@@ -1,12 +1,14 @@
 ---
 publish: false
 review-frequency: normal
+link:
+- '[[BLE]]'
+- '[[Network Protocol]]'
+tags:
+- notes
 ---
 2021-12-29-We
-Author:: ?
 Date published: ?
-Type:: #notes
-Tags:: [[BLE]], [[Network Protocol]]
 Link: 
 
 # Part C Generic Access Profile

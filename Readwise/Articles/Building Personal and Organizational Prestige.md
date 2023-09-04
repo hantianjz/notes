@@ -3,7 +3,6 @@
 ![rw-book-cover](https://lethain.com/static/author.png)
 
 ## Metadata
-- Author: [[lethain.com]]
 - Full Title: Building Personal and Organizational Prestige
 - Category: #articles
 - URL: https://lethain.com/building-prestige/?utm_source=tldrnewsletter

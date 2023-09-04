@@ -2,10 +2,13 @@
 publish: true
 reviewed: 2023-08-19
 review-frequency: ignore
+link:
+- '[[book]]'
+- '[[decision]]'
+tags:
+- idea
 ---
 2023-08-19-Sa
-Type:: #idea
-Tags:: [[book]], [[decision]]
 
 # How to decide to read a book
 

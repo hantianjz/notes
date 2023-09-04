@@ -1,10 +1,12 @@
 ---
 publish: false
 review-frequency: normal
+link:
+- '[[paper]]'
+- '[[image processing]]'
+tags:
+- documentation
 ---
-Last Updated: 2022-09-21
-Type:: #documentation 
-Tags:: [[paper]], [[image processing]]
 
 # Vehicle detection
 

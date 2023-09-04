@@ -1,10 +1,15 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[embedded]]'
+- '[[arm]]'
+- '[[gcc]]'
+- '[[toolchain]]'
+tags:
+- documentation
 ---
 2021-12-29-We
-Type:: #documentation 
-Tags:: [[embedded]], [[arm]], [[gcc]], [[toolchain]]
 
 # GCC ARM-NONE-EABI toolchain
 

@@ -2,10 +2,14 @@
 publish: false
 reviewed: 2023-07-20
 review-frequency: ignore
+link:
+- '[[blogging]]'
+- '[[firmware]]'
+- '[[nrf52]]'
+- '[[arm]]'
+tags:
+- documentation
 ---
-Last Updated: 2023-07-20
-Type:: #documentation 
-Tags:: [[blogging]], [[firmware]], [[nrf52]], [[arm]]
 
 # Firmware Development work flow on NRF52840 Dongle
 

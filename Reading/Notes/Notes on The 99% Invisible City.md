@@ -6,10 +6,6 @@ tags: []
 link:
 ---
 
-Author:: Roman Mars, Kurt Kohlstedt
-Originally published:: 2020
-Type:: #notes
-Tags:: [[Reading/reading]], [[design]], [[city]], [[urban]], [[Notes todo]]
 
 # Notes on The 99% Invisible City
 

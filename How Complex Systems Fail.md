@@ -1,10 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[complexity]]'
+- '[[failure]]'
+- '[[System]]'
+tags:
+- documentation
 ---
-Last Updated: 2022-11-28
-Type:: #documentation 
-Tags:: [[complexity]], [[failure]], [[System]]
 
 # How Complex Systems Fail
 1. Complex systems are intrinsically hazardous systems.

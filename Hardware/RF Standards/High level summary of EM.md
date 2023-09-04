@@ -1,12 +1,16 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[Poynting]]'
+- '[[physics]]'
+- '[[RF]]'
+- '[[EM]]'
+tags:
+- notes
 ---
 2022-04-30-Sa
-Author:: ?
 Date published: ?
-Type:: #notes
-Tags:: [[Poynting]], [[physics]], [[RF]], [[EM]]
 Link: 
 
 # High level summary of Electro magnetic fields

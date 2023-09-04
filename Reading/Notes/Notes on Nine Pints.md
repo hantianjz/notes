@@ -1,12 +1,14 @@
 ---
 publish: true
 review-frequency: low
+link:
+- '[[health]]'
+- '[[blood]]'
+- '[[Reading/reading]]'
+tags:
+- notes
 ---
 2022-04-30-Sa
-Author:: Rose George
-Originally published:: 2018, Oct 23
-Type:: #notes
-Tags:: [[health]], [[blood]], [[Reading/reading]]
 
 # Notes on Nine Pints: A Journey Through the Money, Medicine, and Mysteries of Blood
 **Nine pints** of blood in most adult human

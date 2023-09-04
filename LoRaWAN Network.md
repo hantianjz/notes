@@ -1,10 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[lorawan]]'
+- '[[wireless]]'
+- '[[standard]]'
+tags:
+- documentation
 ---
-Last Updated: 2022-10-05
-Type:: #documentation 
-Tags:: [[lorawan]], [[wireless]], [[standard]]
 
 # LoRaWAN Network
 -  ultra low power

@@ -1,9 +1,11 @@
 ---
 publish: true
+link:
+- '[[trekking]]'
+tags:
+- diary
 ---
 2018-03-14
-Type:: #diary
-Tags:: [[trekking]]
 
 # March 14th, 2018, Deboche, Day 4 (3820m)
 

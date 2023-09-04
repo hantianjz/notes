@@ -1,10 +1,14 @@
 ---
 publish: false
 review-frequency: normal
+link:
+- '[[coding]]'
+- '[[enjoy]]'
+- '[[parady]]'
+tags:
+- idea
 ---
 2022-08-19-Fr
-Type:: #idea
-Tags:: [[coding]], [[enjoy]], [[parady]]
 
 # How to enjoy coding
 - The sheer joy of creating 

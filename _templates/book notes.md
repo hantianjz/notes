@@ -1,7 +1,6 @@
 ---
 publish: false
-reviewed:
-  "{ date:YYYY-MM-DD }": 
+reviewed: 
 review-frequency: ignore
 author: 
 date published: 

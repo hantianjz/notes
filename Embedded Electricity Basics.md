@@ -2,11 +2,14 @@
 publish: true
 reviewed: 2023-02-27
 review-frequency: ignore
+link:
+- '[[embedded]]'
+- '[[power]]'
+- '[[eletricity]]'
+- '[[Notes todo]]'
+tags:
+- documentation
 ---
-Last Updated: 2023-02-27
-Type:: #documentation 
-Tags:: [[embedded]], [[power]], [[eletricity]], [[Notes todo]]
-
 # Embedded Electricity Basics
 
 - **Voltage:** V, expressed in units V and named after *Alessandro Volta*

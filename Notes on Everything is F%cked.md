@@ -2,13 +2,13 @@
 publish: true
 reviewed: 2023-05-23
 review-frequency: low
+link:
+- '[[Reading/reading]]'
+- '[[self help]]'
+- '[[philosophy]]'
+tags:
+- notes
 ---
-2023-05-23-Tu
-Author:: Mark Manson
-Originally published:: 2019
-Type:: #notes
-Tags:: [[Reading/reading]], [[self help]], [[philosophy]]
-
 # Notes on Everything is F%cked
 
 # Part 1: Hope

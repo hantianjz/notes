@@ -2,12 +2,14 @@
 publish: true
 review-frequency: normal
 reviewed: 2023-04-29
+link:
+- '[[self help]]'
+- '[[non fiction]]'
+- '[[Reading/reading]]'
+tags:
+- notes
 ---
 2021-12-29-We
-Author:: [[Mark Manson]]
-Originally published:: September 2016
-Type:: #notes
-Tags:: [[self help]], [[non fiction]], [[Reading/reading]]
 
 # Notes on The Subtle Art of Not Giving a F\*ck: # A Counterintuitive Approach to Living a Good Life
 

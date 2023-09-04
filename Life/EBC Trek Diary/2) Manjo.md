@@ -1,9 +1,11 @@
 ---
 publish: true
+link:
+- '[[trekking]]'
+tags:
+- diary
 ---
 2018-03-12
-Type:: #diary
-Tags:: [[trekking]]
 
 # March 12th, 2018, Manjo, day 2 (2835m)
 

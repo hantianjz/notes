@@ -1,10 +1,10 @@
 ---
 publish: true
 review-frequency: normal
+tags:
+- idea
 ---
 2021-12-29-We
-Type:: #idea
-Tags:
 [[cpp]], [[cpp14]], [[cpp17]]
 
 # Feature to avoid in Mordern Cpp

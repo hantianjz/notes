@@ -1,10 +1,15 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[UBlox]]'
+- '[[AT Commands]]'
+- '[[LTE]]'
+- '[[SARA-R5]]'
+- '[[Application Design]]'
+tags:
+- documentation
 ---
-Last Updated: 2022-03-20
-Type:: #documentation 
-Tags:: [[UBlox]], [[AT Commands]], [[LTE]], [[SARA-R5]], [[Application Design]]
 
 # U-Blox modem host application design
 

@@ -2,10 +2,10 @@
 publish: false
 reviewed: 2023-04-29
 review-frequency: ignore
+tags:
+- MOC
 ---
 2023-04-29-Sa
-Type:: #MOC
-Tags::
 
 # C Programming
 ```dataview

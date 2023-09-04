@@ -3,12 +3,15 @@ publish: true
 reviewed: 2023-04-29
 review-frequency: ignore
 type:
+link:
+- '[[Cpp]]'
+- '[[Cpp11]]'
+- '[[Cpp14]]'
+- '[[Cpp17]]'
+tags:
+- MOC
 ---
 2021-12-29-We
-Author:: Scott Meyers
-Originally published:: 2014
-Type:: #MOC 
-Tags::  [[Cpp]], [[Cpp11]], [[Cpp14]], [[Cpp17]]
 
 # 0  Effective Mordern Cpp - MOC
 ##### [[% Effective Mordern Cpp Annotation#^01z8nlj556oy|lvalues vs rvalues]]

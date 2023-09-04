@@ -1,10 +1,9 @@
 ---
 publish: true
 review-frequency: normal
+tags:
+- documentation
 ---
-Last Updated: 2022-03-05
-Type:: #documentation 
-Tags: [[zsh]], [[shell]], [[auto complete]]
 
 # zsh auto-completion configuration
 ```

@@ -1,10 +1,15 @@
 ---
 publish: false
 review-frequency: normal
+link:
+- '[[career]]'
+- '[[meeting]]'
+- '[[management]]'
+- '[[promotion]]'
+tags:
+- idea
 ---
 2022-05-13-Fr
-Type:: #idea
-Tags:: [[career]], [[meeting]], [[management]], [[promotion]]
 
 # Career development ideas
 

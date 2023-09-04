@@ -1,10 +1,10 @@
 ---
 publish: false
 review-frequency: normal
+tags:
+- idea
 ---
 2022-12-04-Su
-Type:: #idea
-Tags::
 
 # Google only have a company strategy not product strategy
 

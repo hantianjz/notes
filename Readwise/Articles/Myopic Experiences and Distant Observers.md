@@ -3,10 +3,8 @@
 ![rw-book-cover](https://venam.nixers.net/blog/assets/avatar.jpg)
 
 ## Metadata
-- Author: [[Venam's Blog]]
 - Full Title: Myopic Experiences and Distant Observers
 - Category: #articles
-- Document Tags: [[social]] 
 - URL: https://venam.nixers.net/blog/philosophy/2023/07/02/myopic-experiences.html
 
 ## Highlights

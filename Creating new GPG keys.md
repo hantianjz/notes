@@ -1,10 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[gpg]]'
+- '[[password-store]]'
+- '[[password]]'
+tags:
+- documentation
 ---
-Last Updated: 2022-03-05
-Type:: #documentation 
-Tags:: [[gpg]], [[password-store]], [[password]]
 
 # Creating new GPG keysCreate master key for cert only
 ```

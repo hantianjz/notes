@@ -1,12 +1,16 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[Cpp]]'
+- '[[Cpp11]]'
+- '[[Cpp14]]'
+- '[[Cpp17]]'
+- '[[template]]'
+tags:
+- notes
 ---
 2021-12-29-We
-Author:: ?
-Originally published:: ?
-Type:: #notes
-Tags::  [[Cpp]], [[Cpp11]], [[Cpp14]], [[Cpp17]], [[template]]
 
 ## Effective Cpp Intro
 

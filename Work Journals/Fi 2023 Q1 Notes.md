@@ -2,10 +2,13 @@
 publish: false
 reviewed: 2023-04-10
 review-frequency: ignore
+link:
+- '[[fi]]'
+- '[[barking labs]]'
+tags:
+- diary
 ---
 2023-02-06-Mo
-Type:: #diary
-Tags:: [[fi]], [[barking labs]]
 
 **2023-03-30**
 

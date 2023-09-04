@@ -2,12 +2,12 @@
 publish: true
 reviewed: 2023-04-29
 review-frequency: ignore
+link:
+- '[[human]]'
+tags:
+- quotes
 ---
 2021-12-29-We
-Author:: ?
-Originally published:: ?
-Type:: #quotes
-Tags:: [[human]]
 
 # Human
 > [!quote]

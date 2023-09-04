@@ -1,10 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[Python]]'
+- '[[Packaging]]'
+tags:
+- idea
 ---
 2021-12-29-We
-Type:: #idea
-Tags:: [[Python]], [[Packaging]]
 
 # How to setup Python Package
 

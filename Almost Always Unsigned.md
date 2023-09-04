@@ -1,10 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[C]]'
+- '[[integers]]'
+- '[[unsigned integers]]'
+- '[[Notes todo]]'
+tags:
+- documentation
 ---
-Last Updated: 2022-12-29
-Type:: #documentation 
-Tags:: [[C]], [[integers]], [[unsigned integers]], [[Notes todo]]
 
 # Almost Always Unsigned
 

@@ -1,10 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[arm]]'
+- '[[Cortex-M]]'
+- '[[STM32]]'
+tags:
+- documentation
 ---
-Last Updated: 2021-12-29
-Type:: #documentation 
-Tags:: [[arm]], [[Cortex-M]], [[STM32]]
 
 # STM32L5_52_62_xx Manual
 

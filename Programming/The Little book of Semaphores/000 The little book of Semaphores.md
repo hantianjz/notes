@@ -1,12 +1,16 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[concurrency]]'
+- '[[semaphores]]'
+- '[[Reading/reading]]'
+- '[[programming]]'
+tags:
+- notes
+- MOC
 ---
 2021-12-29-We
-Author:: [[Allen B. Downey]]
-Originally published:: March 2009
-Type:: #notes #MOC 
-Tags:: [[concurrency]], [[semaphores]], [[Reading/reading]], [[programming]]
 
 # The little book of Semaphores:
 

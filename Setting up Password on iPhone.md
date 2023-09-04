@@ -1,10 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[iOS]]'
+- '[[password-store]]'
+- '[[gpg]]'
+tags:
+- documentation
 ---
-Last Updated: 2022-03-05
-Type:: #documentation 
-Tags:: [[iOS]], [[password-store]], [[gpg]]
 
 # Setting up Password on iPhone
 ## Setting up SSH keys

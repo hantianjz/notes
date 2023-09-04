@@ -2,10 +2,13 @@
 publish: false
 reviewed: 2023-07-11
 review-frequency: ignore
+link:
+- '[[todo]]'
+- '[[linker]]'
+- '[[link script]]'
+tags:
+- documentation
 ---
-Last Updated: 2023-07-11
-Type:: #documentation 
-Tags:: [[todo]], [[linker]], [[link script]]
 
 # linker script explain
 

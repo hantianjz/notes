@@ -2,10 +2,13 @@
 publish: true
 reviewed: 2023-01-04
 review-frequency: normal
+link:
+- '[[writing]]'
+- '[[habit]]'
+tags:
+- idea
 ---
 2023-01-04-We
-Type:: #idea
-Tags:: [[writing]], [[habit]]
 
 # How to write every day
 1. Design your writing routine in a single sentence

@@ -1,10 +1,9 @@
 ---
 publish: true
 review-frequency: normal
+tags:
+- documentation
 ---
-Last Updated: 2022-03-25
-Type:: #documentation 
-Tags:
 
 # The SIM Card Bus Protocol
 AKA **subscriber identity module** 

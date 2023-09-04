@@ -2,10 +2,14 @@
 publish: true
 review-frequency: low
 reviewed: 2023-04-09
+link:
+- '[[C]]'
+- '[[math]]'
+- '[[Notes todo]]'
+tags:
+- notes
 ---
 2021-12-29-We
-Type:: #notes
-Tags:: [[C]], [[math]], [[Notes todo]]
 
 # Fast Invert Sqrt
 

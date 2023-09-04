@@ -2,10 +2,14 @@
 publish: true
 reviewed: 2023-05-27
 review-frequency: normal
+link:
+- '[[glibc]]'
+- '[[c]]'
+- '[[heap]]'
+- '[[malloc]]'
+tags:
+- documentation
 ---
-Last Updated: 2023-05-27
-Type:: #documentation 
-Tags:: [[glibc]], [[c]], [[heap]], [[malloc]]
 
 # glibc heap internals
 

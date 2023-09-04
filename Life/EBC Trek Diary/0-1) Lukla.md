@@ -1,9 +1,11 @@
 ---
 publish: true
+link:
+- '[[trekking]]'
+tags:
+- diary
 ---
 2018-03-10
-Type:: #diary
-Tags:: [[trekking]]
 
 # March 10th, 2018, Lukla, Day 0, (2841m)
 

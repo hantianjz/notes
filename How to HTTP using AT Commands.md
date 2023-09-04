@@ -1,10 +1,16 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[UBlox]]'
+- '[[SARA-R5]]'
+- '[[HTTP]]'
+- '[[AT Commands]]'
+- '[[Performance]]'
+tags:
+- documentation
 ---
 2022-02-28-Mo
-Type:: #documentation 
-Tags:: [[UBlox]], [[SARA-R5]], [[HTTP]], [[AT Commands]], [[Performance]]
 
 # How to HTTP using AT Commands
 Supported methods are:
@@ -51,7 +57,6 @@ Wait for `UUHTTPCR` message in a loop, which should indicate a http response is 
 ======AT+URDFILE="post_result"=======
 1646100369.373533: b'\r\n'
 1646100369.3743281: b'+URDFILE: "post_result",395,"HTTP/1.0 200 OK\r\n'
-1646100369.3792121: b'Content-Type: text/html; charset=utf-8\r\n'
 1646100369.384853: b'X-Cloud-Trace-Context: ad4978328e06624489f283625fa6d33d;o=1\r\n'
 1646100369.385688: b'Date: Tue, 01 Mar 2022 02:06:08 GMT\r\n'
 1646100369.389964: b'Server: Google Frontend\r\n'

@@ -1,10 +1,15 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[bash]]'
+- '[[zsh]]'
+- '[[scripting]]'
+- '[[shell]]'
+- '[[dotfiles]]'
+tags:
+- documentation
 ---
-Last Updated: 2022-03-06
-Type:: #documentation 
-Tags:: [[bash]],[[zsh]], [[scripting]], [[shell]], [[dotfiles]]
 
 # How to check if command exist in shell
 -   `type foobar &> /dev/null`

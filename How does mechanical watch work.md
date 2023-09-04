@@ -1,10 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[mechanical]]'
+- '[[watch]]'
+- '[[Notes todo]]'
+tags:
+- documentation
 ---
-Last Updated: 2022-10-03
-Type:: #documentation 
-Tags:: [[mechanical]], [[watch]], [[Notes todo]]
 
 # How does mechanical watch work
 

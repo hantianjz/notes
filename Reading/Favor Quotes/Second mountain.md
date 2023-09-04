@@ -2,12 +2,13 @@
 publish: false
 reviewed: 2023-04-29
 review-frequency: ignore
+link:
+- '[[self help]]'
+- '[[career]]'
+tags:
+- quotes
 ---
 2022-01-22-Sa
-Author:: [[David Brooks]]
-Originally published:: 2019-04-16
-Type:: #quotes
-Tags:: [[self help]], [[career]]
 
 # Quote from Second mountain: The Quest for a Moral Life
 > [!quote]

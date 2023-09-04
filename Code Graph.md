@@ -1,10 +1,15 @@
 ---
 publish: false
 review-frequency: normal
+link:
+- '[[Everything]]'
+- '[[code tagging]]'
+- '[[visualization]]'
+- '[[Notes todo]]'
+tags:
+- idea
 ---
 2021-12-29-We
-Type:: #idea
-Tags:: [[Everything]], [[code tagging]], [[visualization]], [[Notes todo]]
 
 # Code Graph
 

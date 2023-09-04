@@ -1,10 +1,15 @@
 ---
 publish: false
 review-frequency: normal
+link:
+- '[[self improvement]]'
+- '[[advice]]'
+- '[[career]]'
+- '[[Notes todo]]'
+tags:
+- idea
 ---
 2022-09-28-We
-Type:: #idea
-Tags:: [[self improvement]], [[advice]], [[career]], [[Notes todo]]
 
 # How to ask for help
 I believe asking for help can be art, it is something one should put some thoughts into.

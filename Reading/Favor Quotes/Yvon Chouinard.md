@@ -1,11 +1,14 @@
 ---
 publish: false
+link:
+- '[[patagonia]]'
+- '[[Chouinard]]'
+- '[[mastery]]'
+- '[[simplicity]]'
+tags:
+- quotes
 ---
 2022-08-19-Fr
-Author:: Yvon Chouinard
-Originally published:: ?
-Type:: #quotes
-Tags:: [[patagonia]], [[Chouinard]], [[mastery]], [[simplicity]]
 
 # Let My People Go surfing: The Education of a Reluctant Businessman
 >[!quote]

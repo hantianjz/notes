@@ -2,10 +2,14 @@
 publish: false
 reviewed: 2023-02-14
 review-frequency: normal
+link:
+- '[[gps]]'
+- '[[gnss]]'
+- '[[nmea]]'
+- '[[Notes todo]]'
+tags:
+- documentation
 ---
-Last Updated: 2023-02-14
-Type:: #documentation 
-Tags:: [[gps]], [[gnss]], [[nmea]], [[Notes todo]]
 
 # GNSS NMEA Sentences
 

@@ -2,12 +2,16 @@
 publish: true
 review-frequency: normal
 reviewed: 2022-12-29
+link:
+- '[[DSP]]'
+- '[[Algorithm]]'
+- '[[math]]'
+- '[[Reading/reading]]'
+- '[[programming]]'
+tags:
+- notes
 ---
 2022-04-30-Sa
-Author:: Steven W. Smith
-Originally published:: 1999
-Type:: #notes
-Tags:: [[DSP]], [[Algorithm]], [[math]], [[Reading/reading]], [[programming]]
 
 # Notes on The Scientist and Engineer's Guide to Digital Signal Processing
 

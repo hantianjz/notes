@@ -1,12 +1,15 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[gut]]'
+- '[[vagus nerve]]'
+- '[[health]]'
+tags:
+- notes
 ---
 2022-01-29-Sa
-Author:: 
 Date published: Jan 23, 2022
-Type:: #notes
-Tags:: [[gut]].[[vagus nerve]], [[health]]
 
 # How gut handles sweeteners from sugars
 - Gut have similar cells as those on tongue for taste

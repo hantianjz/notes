@@ -1,12 +1,15 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[C]]'
+- '[[NULL]]'
+- '[[plagiarize]]'
+tags:
+- notes
 ---
 2022-01-03-Mo
-Author:: ?
 Date published: ?
-Type:: #notes
-Tags:: [[C]], [[NULL]], [[plagiarize]]
 
 # C NULL pointers
 

@@ -1,10 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[Kurt Vonnegut]]'
+- '[[passion]]'
+- '[[art]]'
+tags:
+- idea
 ---
 2022-08-23-Tu
-Type:: #idea
-Tags:: [[Kurt Vonnegut]], [[passion]], [[art]]
 
 # A note from Kurt Vonnegut
 

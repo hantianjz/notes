@@ -1,10 +1,12 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[LTE]]'
+- '[[nb-iot]]'
+tags:
+- documentation
 ---
-Last Updated: 2022-08-23
-Type:: #documentation 
-Tags:: [[LTE]], [[nb-iot]]
 
 # LTE M vs NB-Iot
 

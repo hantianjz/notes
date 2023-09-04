@@ -1,10 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[career]]'
+- '[[meeting]]'
+- '[[management]]'
+tags:
+- idea
 ---
 2022-05-13-Fr
-Type:: #idea
-Tags:: [[career]], [[meeting]], [[management]]
 
 # How to manage endless external team meetings
 

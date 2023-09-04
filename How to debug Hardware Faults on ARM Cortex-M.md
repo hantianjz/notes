@@ -1,10 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[arm]]'
+- '[[hardfaults]]'
+- '[[Cortex-M]]'
+tags:
+- idea
 ---
 2021-12-29-We
-Type:: #idea
-Tags:: [[arm]], [[hardfaults]], [[Cortex-M]]
 
 # How to debug Hardware Faults on ARM Cortex-M
 

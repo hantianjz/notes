@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "21a16afe57d39391",
+        "id": "0771300aa3fd0d48",
         "type": "tabs",
         "children": [
           {
-            "id": "5c566ee62f52c63f",
+            "id": "89ef5996c03aa590",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading/Notes/Notes on The 99% Invisible City.md",
+                "file": "TODOs/Everything.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading/Notes/Notes on The 99% Invisible City.md",
+                "file": "TODOs/Everything.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reading/Notes/Notes on The 99% Invisible City.md",
+                "file": "TODOs/Everything.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,8 +119,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -140,45 +139,45 @@
       "simple-note-review:Simple Note Review: Start Reviewing": false
     }
   },
-  "active": "5c566ee62f52c63f",
+  "active": "89ef5996c03aa590",
   "lastOpenFiles": [
-    "Reading/Notes/Notes on The Mythical Man Month - Essays on Software Engineering.md",
-    "Reading/Notes/Notes on The Power of habit - Why We Do What We Do in Life and Business.md",
-    "Reading/Notes/Notes on The Uninhabitable Earth.md",
-    "Reading/Notes/Notes on This is where you belong - Finding Home Wherever You Are.md",
-    "Reading/Notes/Notes on Turing's Vision - The Birth of Computer Science.md",
-    "Reading/Notes/Notes on Why We Sleep.md",
-    "Reading/Notes/Notes on Web3 apps and NFT.md",
-    "MA Camping Spots.md",
-    "Hardware/RF Standards/LTE/LTE Physical Layer Overview.md",
-    "Programming/HOWTO/Wifi Sniffer setup.md",
-    "Learnings on Pipenv.md",
-    "Charles Rant.md",
+    "Creating new GPG keys.md",
+    "LTE Power Optimization.md",
+    "68 bits of unsolicited advice from Kevin Kelly.md",
+    "Hardware/RF Standards/Notes on Cellular Network Security.md",
+    "_attachments/Screen Shot 2022-12-15 at 15.44.15.png",
+    "_attachments/Screen Shot 2022-12-15 at 15.44.59.png",
+    "_attachments/Screen Shot 2022-12-15 at 15.58.48.png",
+    "_attachments/Screen Shot 2022-12-15 at 16.08.02.png",
+    "_attachments/Screen Shot 2022-12-15 at 16.09.33.png",
+    "_attachments/Screen Shot 2022-12-15 at 18.37.10.png",
+    "_attachments/Screen Shot 2022-12-15 at 20.21.38.png",
+    "_attachments/Screen Shot 2022-12-15 at 20.32.36.png",
+    "_attachments/Screen Shot 2022-12-15 at 21.00.27.png",
+    "_attachments/Screen Shot 2022-12-15 at 21.05.21.png",
+    "Reading/Notes/Notes on Factfulness.md",
+    "Reading/Notes/Notes on Guns, germs, and Steel.md",
+    "Reading/Notes/Notes on Every tool is a hammer.md",
+    "Work on what matters.md",
     "Huawei Interview Notes.md",
-    "TODOs/Everything.md",
+    "What is Kaprekar's constant - 6174.md",
+    "U-Blox setting Mobile Network Operator profile.md",
+    "Complex adaptive system.md",
+    "_templates/blank.md",
     "_templates/book notes.md",
-    "Reading/Notes/Notes on The Anthropocene Reviewed.md",
-    "TODOs/Notes todo.md",
-    "TODOs/Backlog.md",
-    "TODOs/Unsorted.md",
-    "Work Journals/27x2 Mitosis.md",
-    "Work Journals/Fi 2023 Q2 Notes.md",
-    "Work Journals/Stock Tracking System.md",
-    "Work Journals/Fi 2023 Q3 Notes.md",
-    "Daily Journal.md",
-    "journal.md",
-    "_attachments/Fi old HSA Account Info.png",
-    "Firmware Development on NRF52840 Dongle.md",
-    "_attachments/NRF52840_dongle_pcb_black_white.png",
-    "Hardware/STM32L0/_attachments/STM32L0 Low Power Modes Part 2.png",
-    "Hardware/STM32L5/_attachments/stm32_sys_arch.png",
-    "Hardware/BUS/_attachments/fig2.png",
-    "Hardware/BUS/_attachments/fig1.png",
-    "Hardware/BUS/_attachments/fig3.png",
-    "Hardware/RF Standards/_attachments/Pasted image 20230708235143.png",
+    "Notes on Everything is F%cked.md",
+    "Reading/Notes/Notes on Bullshit jobs.md",
+    "Think in Simplicity.md",
+    "How does Cpp resolve a function call.md",
+    "The Zen of Python (PEP-0020).md",
+    "Embedded Electricity Basics.md",
+    "Ubuntu remove old kernel from boot dir.md",
+    "Network Types.md",
+    "embedded serial buses - I2C.md",
+    "What is Hayes commands set AKA AT Commands.md",
+    "What is Gall's Law.md",
+    "U-Blox AT Command implementation.md",
     "Hardware/SAMD21/_attachments/SAM-D21DA1-Family-Data-Sheet-DS40001882G.pdf",
-    "Work Journals/_attachments/Pasted image 20230720210914.png",
-    "_attachments/Pasted image 20230710000053.png",
     "Hardware/RF Standards/_attachments",
     "Life",
     "TODOs",

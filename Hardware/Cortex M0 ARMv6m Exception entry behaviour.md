@@ -1,11 +1,16 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[exception]]'
+- '[[hardfault]]'
+- '[[ARMv6M]]'
+- '[[arm]]'
+tags:
+- notes
 ---
 2022-02-11
 Source: 
-Type:: #notes
-Tags:: [[exception]], [[hardfault]], [[ARMv6M]], [[arm]]
 
 # Cortex M0 ARMv6m Exception entry behaviour
 

@@ -2,12 +2,16 @@
 publish: true
 review-frequency: high
 reviewed: 2023-04-09
+link:
+- '[[Reading/reading]]'
+- '[[self help]]'
+- '[[productivity]]'
+- '[[creativity]]'
+- '[[non fiction]]'
+tags:
+- notes
 ---
 2021-12-29-We
-Author:: [[Austin Kleon]]
-Originally published:: March 2014
-Type:: #notes
-Tags::  [[Reading/reading]], [[self help]], [[productivity]], [[creativity]], [[non fiction]]
 
 # Show Your work! : 10 Ways to Share Your Creativity and Get Discovered
 

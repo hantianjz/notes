@@ -2,10 +2,13 @@
 publish: true
 reviewed: 2023-04-29
 review-frequency: ignore
+link:
+- '[[David Foster Wallace]]'
+- '[[speech]]'
+tags:
+- quotes
 ---
 2021-12-29-We
-Type:: #quotes
-Tags:: [[David Foster Wallace]], [[speech]]
 
 # This is Water
 

@@ -566,7 +566,6 @@ Stuff I want to do:
 01:02:36.939 D  fi_http_prepare_post_request: POST /api/devices/v1/module/FC32H000328/submit HTTP/1.1
 Host: api.tryfi.com
 Connection: close
-Content-Type: text/plain
 Content-Length: 14865
 Authorization: Basic YmFya2luZ2xhYnM6NkJMdC9ORXZ5RQ==
 Fi-Module-ID: FC32H000328

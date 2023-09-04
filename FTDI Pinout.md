@@ -1,10 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[FTDI]]'
+- '[[Pin Map]]'
+- '[[UART]]'
+- '[[USB]]'
+tags:
+- documentation
 ---
-Last Updated: 2022-04-28
-Type:: #documentation 
-Tags:: [[FTDI]], [[Pin Map]], [[UART]], [[USB]]
 
 # FTDI Pinout
 # FTDI C232HD

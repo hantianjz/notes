@@ -1,10 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[tmux]]'
+- '[[dotfiles]]'
+- '[[zsh]]'
+- '[[development]]'
+tags:
+- documentation
 ---
-Last Updated: 2022-03-06
-Type:: #documentation 
-Tags:: [[tmux]], [[dotfiles]], [[zsh]], [[development]]
 
 # Tmux configuration details
 

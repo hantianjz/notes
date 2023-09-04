@@ -1,10 +1,15 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[LTE]]'
+- '[[LPWAN]]'
+- '[[3GPP]]'
+- '[[AT Commands]]'
+- '[[UBlox]]'
+tags:
+- documentation
 ---
-Last Updated: 2022-02-25
-Type:: #documentation 
-Tags:: [[LTE]], [[LPWAN]], [[3GPP]], [[AT Commands]], [[UBlox]]
 
 # Overview of LTE Cat M1
 - A low-power wide-area (LPWA) air interface for network connection

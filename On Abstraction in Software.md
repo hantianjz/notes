@@ -1,10 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[abstractions]]'
+- '[[complexity]]'
+tags:
+- idea
 ---
 2021-12-29-We
-Type:: #idea
-Tags:: [[abstractions]], [[complexity]]
 
 # Over Abstraction in Software
 

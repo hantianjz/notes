@@ -2,10 +2,11 @@
 publish: false
 reviewed: 2023-04-29
 review-frequency: ignore
+link:
+- '[[dataview]]'
+tags:
+- list
 ---
-Last Updated:: 2023-04-29
-Type:: #list 
-Tags:: [[dataview]]
 
 
 ## Newly created undecided files

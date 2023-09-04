@@ -1,12 +1,15 @@
 ---
 publish: true
 review-frequency: ignore
+link:
+- '[[Cpp]]'
+- '[[Cpp11]]'
+- '[[Cpp14]]'
+- '[[Cpp17]]'
+tags:
+- notes
 ---
 2021-12-29-We
-Author:: ?
-Originally published:: ?
-Type:: #notes
-Tags::  [[Cpp]], [[Cpp11]], [[Cpp14]], [[Cpp17]]
 
 ## Smart Pointers
 

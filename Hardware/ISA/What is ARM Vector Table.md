@@ -1,10 +1,15 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[arm]]'
+- '[[vector table]]'
+- '[[Cortex-M]]'
+- '[[ARMv7]]'
+tags:
+- idea
 ---
 2021-12-29-We
-Type:: #idea
-Tags:: [[arm]], [[vector table]], [[Cortex-M]], [[ARMv7]]
 
 # What is ARM Vector Table
 

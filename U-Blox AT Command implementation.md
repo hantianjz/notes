@@ -1,10 +1,15 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[UBlox]]'
+- '[[AT Commands]]'
+- '[[LTE]]'
+- '[[SARA-R5]]'
+tags:
+- documentation
 ---
 2022-02-26-Sa
-Type:: #documentation 
-Tags:: [[UBlox]], [[AT Commands]], [[LTE]], [[SARA-R5]]
 
 # How does AT Commands implementations goes
 ## Basics

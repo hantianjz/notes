@@ -1,10 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[embedded]]'
+- '[[peripheral hardware]]'
+tags:
+- idea
 ---
 2021-12-29-We
-Type:: #idea
-Tags:: [[embedded]], [[peripheral hardware]]
 
 # How does NeoPixels work
 

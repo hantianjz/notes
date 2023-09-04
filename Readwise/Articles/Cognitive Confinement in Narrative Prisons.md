@@ -3,7 +3,6 @@
 ![rw-book-cover](https://venam.nixers.net/blog/assets/avatar.jpg)
 
 ## Metadata
-- Author: [[Venam's Blog]]
 - Full Title: Cognitive Confinement in Narrative Prisons
 - Category: #articles
 - URL: https://venam.nixers.net/blog/psychology/2021/08/01/cognitive-diversity.html

@@ -1,10 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[gcc]]'
+- '[[clang]]'
+- '[[link script]]'
+tags:
+- idea
 ---
 2021-12-29-We
-Type:: #idea
-Tags:: [[gcc]], [[clang]] [[link script]]
 Update: 2022-04-30
 
 # How to compiler flags

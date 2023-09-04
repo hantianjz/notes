@@ -1,10 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[embedded]]'
+- '[[i2c]]'
+- '[[serial bus]]'
+tags:
+- documentation
 ---
-Last Updated: 2022-05-28
-Type:: #documentation 
-Tags:: [[embedded]], [[i2c]], [[serial bus]]
 
 # Embedded serial buses - I2C
 

@@ -1,10 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[economic]]'
+- '[[psychology]]'
+tags:
+- idea
 ---
 2022-05-20-Fr
-Type:: #idea
-Tags:: [[economic]], [[psychology]]
 
 # Prospect Theory
 

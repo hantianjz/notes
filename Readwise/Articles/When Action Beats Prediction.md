@@ -3,7 +3,6 @@
 ![rw-book-cover](https://commoncog.com/content/images/2023/05/when_action_beats_prediction.jpg)
 
 ## Metadata
-- Author: [[Cedric Chin]]
 - Full Title: When Action Beats Prediction
 - Category: #articles
 - URL: https://commoncog.com/when-action-beats-prediction/

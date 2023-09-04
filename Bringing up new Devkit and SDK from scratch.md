@@ -1,10 +1,13 @@
 ---
 publish: false
 review-frequency: normal
+link:
+- '[[firmware]]'
+- '[[bringup]]'
+- '[[build system]]'
+tags:
+- documentation
 ---
-Last Updated: 2022-11-11
-Type:: #documentation 
-Tags:: [[firmware]], [[bringup]], [[build system]]
 
 # Bringing up new Devkit and SDK from scratch
 - For macOS toolchain, you need to download the signed and notarized version. Install it, can copy the binary over.

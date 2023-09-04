@@ -2,10 +2,13 @@
 publish: false
 reviewed: 2023-02-12
 review-frequency: ignore
+link:
+- '[[self improvement]]'
+- '[[motivation]]'
+tags:
+- idea
 ---
 2023-02-12-Su
-Type:: #idea
-Tags:: [[self improvement]], [[motivation]]
 
 # Intrinsic Motivators
 

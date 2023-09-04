@@ -1,10 +1,16 @@
 ---
 publish: false
 review-frequency: normal
+link:
+- '[[demo]]'
+- '[[python]]'
+- '[[orbital mechanic]]'
+- '[[learning]]'
+- '[[blogging]]'
+- '[[Notes todo]]'
+tags:
+- documentation
 ---
-Last Updated: 2022-10-15
-Type:: #documentation 
-Tags:: [[demo]], [[python]], [[orbital mechanic]], [[learning]], [[blogging]], [[Notes todo]]
 
 # Building an orbital mechanic demo
 

@@ -1,10 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[thread]]'
+- '[[threadpool]]'
+tags:
+- idea
 ---
 2021-12-29-We
-Type:: #idea
-Tags:: [[thread]], [[threadpool]]
 
 # Thread Pools
 

@@ -3,13 +3,11 @@
 ![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51mN3bY0JjL._SL200_.jpg)
 
 ## Metadata
-- Author: [[Mark Manson]]
 - Full Title: The Subtle Art of Not Giving a F*ck
 - Category: #books
 
 ## Highlights
 - The desire for more positive experience is itself a negative experience. And, paradoxically, the acceptance of one’s negative experience is itself a positive experience. ([Location 302](https://readwise.io/to_kindle?action=open&asin=B019MMUA8S&location=302))
-    - Tags: [[blue]] 
 - Being open with your insecurities paradoxically makes you more confident and charismatic around others. The pain of honest confrontation is what generates the greatest trust and respect in your relationships. Suffering through your fears and anxieties is what allows you to build courage and perseverance. ([Location 326](https://readwise.io/to_kindle?action=open&asin=B019MMUA8S&location=326))
 - Everything worthwhile in life is won through surmounting the associated negative experience. ([Location 329](https://readwise.io/to_kindle?action=open&asin=B019MMUA8S&location=329))
 - Not giving a fuck does not mean being indifferent; it means being comfortable with being different. ([Location 370](https://readwise.io/to_kindle?action=open&asin=B019MMUA8S&location=370))
@@ -27,4 +25,3 @@
 - “With great responsibility comes great power.” ([Location 1403](https://readwise.io/to_kindle?action=open&asin=B019MMUA8S&location=1403))
 - A lot of people hesitate to take responsibility for their problems because they believe that to be responsible for your problems is to also be at fault for your problems. ([Location 1419](https://readwise.io/to_kindle?action=open&asin=B019MMUA8S&location=1419))
 - Certainty is the enemy of growth. Nothing is for certain until it has already happened—and even then, it’s still debatable. ([Location 1683](https://readwise.io/to_kindle?action=open&asin=B019MMUA8S&location=1683))
-    - Tags: [[blue]] 

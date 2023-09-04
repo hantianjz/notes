@@ -97,7 +97,7 @@ Last full day in China
 13605521934
 
 **2023-05-10**
-![[Pasted image 20230515111343.jpg]]
+![[BankOfChinaInfo On file.jpg]]
 
 **2023-05-04**
 Luggage lock is **909**
@@ -300,7 +300,7 @@ http://my.china-embassy.gov.cn/eng/fwzc/lsyw/202303/t20230324_11048357.htm#:~:te
 [NYC to Haikou then PVG to BOS](https://www.google.com/travel/flights/s/ynMFbN3NQPuJnQgb8)
 
 **2023-03-28**
-![[Pasted image 20230328103629.png]]
+![[GOOG Plan cost basis.png]]
 
 **2023-03-26** ••
 New contact lens day.

@@ -1,12 +1,15 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[DNA]]'
+- '[[COVID]]'
+- '[[PCR]]'
+tags:
+- notes
 ---
 2022-04-18-Mo
-Author:: Henrik's Lab
 Date published: Nov 5 2020
-Type:: #notes
-Tags:: [[DNA]], [[COVID]], [[PCR]]
 
 # PCR (Polymerase Chain Reaction)
 A method to multiple DNA segments

@@ -1,13 +1,15 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[Reading/reading]]'
+- '[[self help]]'
+- '[[productivity]]'
+- '[[creativity]]'
+- '[[non fiction]]'
 ---
 
 2022-08-28-Su
-Author:: [[Austin Kleon]]
-Originally published:: April - 2019
-Type:: #notes
-Tags:: [[Reading/reading]], [[self help]], [[productivity]], [[creativity]], [[non fiction]]
 
 # Keep Going - 10 ways to stay creative in good times and bad
 

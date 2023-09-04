@@ -1,12 +1,15 @@
 ---
 publish: true
 review-frequency: low
+link:
+- '[[non fiction]]'
+- '[[health]]'
+- '[[gut]]'
+- '[[Reading/reading]]'
+tags:
+- notes
 ---
 2021-12-29-We
-Author:: [[Giulia Enders]]
-Originally published:: February 2018
-Type:: #notes
-Tags:: [[non fiction]], [[health]], [[gut]], [[Reading/reading]]
 
 # Gut: The Inside Story of Our Body's Most Underrated Organ
 

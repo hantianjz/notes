@@ -2,10 +2,12 @@
 publish: false
 reviewed: 2023-04-29
 review-frequency: ignore
+link:
+- '[[trekking]]'
+- '[[hiking]]'
+tags:
+- list
 ---
-Last Updated: 2022-01-08
-Type:: #list 
-Tags:: [[trekking]], [[hiking]]
 
 # Treks I want to go on
 1. Mount Kilimanjaro

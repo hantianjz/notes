@@ -1,12 +1,16 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[organizational culture]]'
+- '[[social]]'
+- '[[alien]]'
+- '[[fiction]]'
+- '[[Reading/reading]]'
+tags:
+- notes
 ---
 2021-12-29-We
-Author:: [[Hank Green]]
-Originally published:: July 2020
-Type:: #notes
-Tags:: [[organizational culture]], [[social]], [[alien]], [[fiction]], [[Reading/reading]]
 
 # A beautifully foolish endeavor
 - We are not safe and our reality is broken 

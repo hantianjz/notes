@@ -1,13 +1,15 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[non fiction]]'
+- '[[world]]'
+- '[[bill gates]]'
+- '[[Reading/reading]]'
+- '[[history]]'
+tags:
+- notes
 ---
-2021-12-29-We
-Author:: [[Hans Rosling]], [[Anna Rosling Rönnlund]], [[Ola Rosling]]
-Originally published:: April 2018
-Type:: #notes
-Tags:: [[non fiction]], [[world]], [[bill gates]], [[Reading/reading]], [[history]]
-
 # Factfulness: Ten Reasons We're Wrong About the World--and Why Things Are Better Than You Think
 
 # 📒 Summary + Notes

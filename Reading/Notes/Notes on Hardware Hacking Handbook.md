@@ -2,12 +2,12 @@
 publish: true
 reviewed: 2023-03-18
 review-frequency: low
+link:
+- '[[Reading/reading]]'
+tags:
+- notes
 ---
 2023-03-18-Sa
-Author:: ?
-Originally published:: 2022
-Type:: #notes
-Tags:: [[Reading/reading]]
 
 # Notes on Hardware Hacking Handbook
 

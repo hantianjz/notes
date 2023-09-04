@@ -1,10 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[HOWTO]]'
+- '[[Linux]]'
+tags:
+- documentation
 ---
 2021-12-29-We
-Type:: #documentation 
-Tags:: [[HOWTO]], [[Linux]]
 
 # How to build&install Polybar
 

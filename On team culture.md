@@ -1,10 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[teams]]'
+- '[[culture]]'
+- '[[danluu]]'
+tags:
+- idea
 ---
 2022-01-23-Su
-Type:: #idea
-Tags:: [[teams]], [[culture]], [[danluu]]
 
 # On team culture
 

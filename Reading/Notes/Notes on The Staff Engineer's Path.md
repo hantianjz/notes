@@ -2,12 +2,14 @@
 publish: true
 reviewed: 2022-12-29
 review-frequency: normal
+link:
+- '[[Reading/reading]]'
+- '[[career]]'
+- '[[Notes todo]]'
+tags:
+- notes
 ---
 2022-12-08-Th
-Author:: Tanya Reilly
-Originally published:: 2022
-Type:: #notes
-Tags:: [[Reading/reading]], [[career]], [[Notes todo]]
 
 # Notes on The Staff Engineer's Path
 A guide for individual contributors navigating growth and change.

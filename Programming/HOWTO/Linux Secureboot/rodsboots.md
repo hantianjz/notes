@@ -1,10 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[bootloader]]'
+- '[[security]]'
+- '[[linux]]'
+tags:
+- idea
 ---
 2021-12-29-We
-Type:: #idea
-Tags:: [[bootloader]], [[security]], [[linux]]
 
 # rodsboots
 

@@ -1,12 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[teams]]'
+- '[[organizational culture]]'
+- '[[leadership]]'
+tags:
+- idea
 ---
 2021-12-29-We
-Author:: [[Will Larson]]
-Originally published::  ?
-Type:: #idea
-Tags:: [[teams]], [[organizational culture]], [[leadership]]
 
 # What is the Staff Engineer archetypes
 

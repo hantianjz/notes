@@ -1,10 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[arm]]'
+- '[[embedded]]'
+- '[[arduino]]'
+tags:
+- idea
 ---
 2021-12-29-We
-Type:: #idea
-Tags:: [[arm]],[[embedded]],[[arduino]]
 
 # Adafruit playground express
 

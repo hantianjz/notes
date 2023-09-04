@@ -1,10 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[habit]]'
+- '[[systems]]'
+tags:
+- idea
 ---
 2022-12-27-Tu
-Type:: #idea
-Tags:: [[habit]], [[systems]]
 
 # How to build systems
 

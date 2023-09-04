@@ -1,10 +1,15 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[complexity]]'
+- '[[Laws]]'
+- '[[teams]]'
+- '[[abstractions]]'
+tags:
+- idea
 ---
 2021-12-29-We
-Type:: #idea
-Tags:: [[complexity]], [[Laws]], [[teams]], [[abstractions]]
 
 # Gall's Law
 

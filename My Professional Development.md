@@ -2,10 +2,12 @@
 publish: false
 reviewed: 2023-09-03
 review-frequency: ignore
+link:
+- '[[development]]'
+- '[[career]]'
+tags:
+- idea
 ---
-Last Updated:: 2023-09-03
-Type:: #idea 
-Tags:: [[development]], [[career]]
 
 # My Professional Development
 

@@ -1,10 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[Linux]]'
+- '[[Ubuntu]]'
+- '[[cmd]]'
+tags:
+- documentation
+- list
 ---
-Last Updated: 2021-12-29
-Type:: #documentation #list 
-Tags:: [[Linux]], [[Ubuntu]], [[cmd]]
 
 # Tools
 

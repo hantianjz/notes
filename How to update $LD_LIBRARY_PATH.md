@@ -1,10 +1,12 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[Ubuntu]]'
+- '[[Linux]]'
+tags:
+- documentation
 ---
-Last Updated: 2021-12-29
-Type:: #documentation 
-Tags:: [[Ubuntu]], [[Linux]]
 
 # How to update $LD_LIBRARY_PATH
 

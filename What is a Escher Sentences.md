@@ -1,10 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[language]]'
+- '[[linguistics]]'
+- '[[escher]]'
+tags:
+- idea
 ---
 2022-02-07-Mo
-Type:: #idea
-Tags:: [[language]], [[linguistics]], [[escher]]
 
 # What is a Escher Sentences
 **AKA**: Comparative illusions (Cls)

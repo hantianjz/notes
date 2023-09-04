@@ -1,11 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[career]]'
+tags:
+- idea
 ---
 
 2022-12-03-Sa
-Type:: #idea
-Tags:: [[career]]
 
 # Forty year career
 

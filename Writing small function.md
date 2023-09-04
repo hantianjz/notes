@@ -1,10 +1,17 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[tacit knowledge]]'
+- '[[advice]]'
+- '[[best practice]]'
+- '[[C]]'
+- '[[Cpp]]'
+- '[[John Carmack]]'
+tags:
+- idea
 ---
 2022-01-30-Su
-Type:: #idea
-Tags:: [[tacit knowledge]], [[advice]], [[best practice]], [[C]], [[Cpp]], [[John Carmack]]
 
 # Writing small function
 > [!quote] 

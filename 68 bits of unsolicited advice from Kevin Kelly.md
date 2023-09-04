@@ -2,10 +2,12 @@
 publish: true
 reviewed: 2023-01-17
 review-frequency: low
+link:
+- '[[advice]]'
+tags:
+- idea
 ---
 2023-01-17-Tu
-Type:: #idea
-Tags:: [[advice]]
 
 # 68 bits of unsolicited advice from Kevin Kelly
 

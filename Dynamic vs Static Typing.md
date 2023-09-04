@@ -2,10 +2,13 @@
 publish: true
 reviewed: 2023-04-29
 review-frequency: normal
+link:
+- '[[programming]]'
+- '[[language]]'
+tags:
+- idea
 ---
 2023-04-29-Sa
-Type:: #idea
-Tags:: [[programming]], [[language]]
 
 # Dynamic vs Static Typing
 

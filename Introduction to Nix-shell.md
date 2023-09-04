@@ -1,12 +1,15 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[nix]]'
+- '[[build system]]'
+- '[[Everything]]'
+tags:
+- notes
 ---
 2022-07-04-Mo
-Author:: Gary Verhaegen
 Date published: 19 December 2021
-Type:: #notes
-Tags:: [[nix]], [[build system]], [[Everything]]
 
 # Introduction to Nix-shell
 ---

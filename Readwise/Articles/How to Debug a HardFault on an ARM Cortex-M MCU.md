@@ -3,10 +3,8 @@
 ![rw-book-cover](https://interrupt.memfault.com/img/cortex-m-fault/cortex-m-fault-gdb-debug2.png)
 
 ## Metadata
-- Author: [[Chris Coleman]]
 - Full Title: How to Debug a HardFault on an ARM Cortex-M MCU
 - Category: #articles
-- Document Tags: [[arm]] [[embedded]] [[mcu]] [[programming]] 
 - URL: https://interrupt.memfault.com/blog/cortex-m-fault-debug
 
 ## Highlights

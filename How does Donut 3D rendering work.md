@@ -1,10 +1,15 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[C]]'
+- '[[3D rendering]]'
+- '[[math]]'
+- '[[matrices]]'
+tags:
+- idea
 ---
 2021-12-29-We
-Type:: #idea
-Tags:: [[C]], [[3D rendering]], [[math]], [[matrices]]
 
 # How does Donut 3D rendering work
 

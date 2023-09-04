@@ -3,7 +3,6 @@
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/quick-passages-book-icon.2489c00a3133.png)
 
 ## Metadata
-- Author: [[Mark Manson]]
 - Full Title: Everything is fucked
 - Category: #books
 

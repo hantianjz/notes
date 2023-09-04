@@ -2,10 +2,12 @@
 publish: false
 reviewed: 2023-06-23
 review-frequency: ignore
+link:
+- '[[C]]'
+- '[[linker]]'
+tags:
+- documentation
 ---
-Last Updated: 2023-06-23
-Type:: #documentation 
-Tags:: [[C]], [[linker]]
 
 # Everything You Never Wanted to Know About Linker Script
 

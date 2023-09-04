@@ -1,10 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[programming]]'
+- '[[java]]'
+tags:
+- idea
 ---
 2022-09-29-Th
-Type:: #idea
-Tags:: [[programming]], [[java]]
 
 # Thoughts on reflective programming
 

@@ -1,10 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[bootloader]]'
+- '[[security]]'
+- '[[linux]]'
+tags:
+- documentation
 ---
-Last Updated: 2021-12-29
-Type:: #documentation 
-Tags:: [[bootloader]], [[security]], [[linux]]
 
 # Steve's note on FEDORA
 

@@ -9,8 +9,6 @@ link:
   - "[[budgetting]]"
 ---
 2023-05-25-Th
-Type:: 
-Tags:: 
 
 # All of my subscription services
 - Obsidian sync/publish (Annual)

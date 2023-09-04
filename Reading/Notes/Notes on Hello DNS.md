@@ -1,10 +1,14 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[DNS]]'
+- '[[Network Protocol]]'
+tags:
+- notes
+- idea
 ---
 2021-12-29-We
-Type:: #notes #idea 
-Tags:: [[DNS]], [[Network Protocol]]
 
 # Hello DNS
 

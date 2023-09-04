@@ -1,12 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[concurrency]]'
+- '[[semaphores]]'
+tags:
+- notes
 ---
 2021-12-29-We
-Author:: [[Allen B. Downey]]
-Originally published:: March 2009
-Type:: #notes
-Tags:: [[concurrency]], [[semaphores]]
 
 ## 5.1 The dining savage problem
 

@@ -1,10 +1,13 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[embedded]]'
+- '[[hardware]]'
+- '[[crystal]]'
+tags:
+- documentation
 ---
-Last Updated: 2022-10-06
-Type:: #documentation 
-Tags:: [[embedded]], [[hardware]], [[crystal]]
 
 # Why 32.768 kHz
 

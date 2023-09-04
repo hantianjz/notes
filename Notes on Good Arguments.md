@@ -2,12 +2,17 @@
 publish: true
 reviewed: 2023-04-29
 review-frequency: low
+link:
+- '[[Reading/reading]]'
+- '[[arguments]]'
+- '[[conflict]]'
+- '[[conversation]]'
+- '[[non fiction]]'
+- '[[biography]]'
+tags:
+- notes
 ---
 2023-04-29-Sa
-Author:: Bo Seo
-Originally published:: 2022
-Type:: #notes
-Tags:: [[Reading/reading]], [[arguments]], [[conflict]], [[conversation]], [[non fiction]], [[biography]]
 
 # Notes on Good Arguments
 

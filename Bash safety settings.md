@@ -1,12 +1,16 @@
 ---
 publish: true
 review-frequency: normal
+link:
+- '[[bash]]'
+- '[[shell]]'
+- '[[scripting]]'
+tags:
+- notes
+- documentation
 ---
 2022-07-04-Mo
-Author:: ?
 Date published: 2021-01-17
-Type:: #notes #documentation 
-Tags:: [[bash]], [[shell]], [[scripting]]
 Link: https://cuddly-octo-palm-tree.com/
 
 # Bash safety settings

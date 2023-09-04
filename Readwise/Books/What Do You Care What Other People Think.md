@@ -3,7 +3,6 @@
 ![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41kGir92wLL._SL200_.jpg)
 
 ## Metadata
-- Author: [[Richard P. Feynman]]
 - Full Title: "What Do You Care What Other People Think?"
 - Category: #books
 
