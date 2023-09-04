@@ -1,0 +1,6 @@
+{
+  "autorun": false,
+  "format": "Y-MM-DD(MMM-Do-ddd)",
+  "folder": "Journals",
+  "template": "_templates/diary"
+}

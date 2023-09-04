@@ -1,0 +1,12 @@
+{
+  "accentColor": "#d04e5b",
+  "baseFontSize": 14,
+  "theme": "moonstone",
+  "translucency": false,
+  "cssTheme": "Obsidian Nord",
+  "interfaceFontFamily": "Roboto",
+  "textFontFamily": "Hack Nerd Font",
+  "monospaceFontFamily": "Hack Nerd Font Mono",
+  "showViewHeader": false,
+  "nativeMenus": true
+}

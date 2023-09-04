@@ -1,0 +1,39 @@
+{
+  "token": "IgMUPL7Rj5dXnAYNkOUe8Zy8eI6VOG9zAG0eEGoIU1rLiqXmD7",
+  "readwiseDir": "Readwise",
+  "frequency": "60",
+  "triggerOnLoad": true,
+  "isSyncing": false,
+  "lastSyncFailed": false,
+  "lastSavedStatusID": 10280008,
+  "currentSyncStatusID": 0,
+  "refreshBooks": false,
+  "booksToRefresh": [
+    "27477017",
+    "27480538",
+    "27477026",
+    "27477010",
+    "27477014"
+  ],
+  "booksIDsMap": {
+    "Readwise/Books/What Do You Care What Other People Think.md": "27477030",
+    "Readwise/Books/Bullshit Jobs.md": "27477027",
+    "Readwise/Books/Talking to Strangers.md": "27477023",
+    "Readwise/Books/Sapiens and Homo Deus.md": "27477022",
+    "Readwise/Books/Indistractable.md": "27477016",
+    "Readwise/Books/Six Easy Pieces.md": "27495793",
+    "Readwise/Books/The Subtle Art of Not Giving a Fck.md": "27495792",
+    "Readwise/Articles/I'm Too Old for Broken Builds.md": "28203261",
+    "Readwise/Articles/Cognitive Load Developer's Handbook.md": "28210646",
+    "Readwise/Articles/ChatGPT A Mental Model.md": "28306238",
+    "Readwise/Books/Everything is fucked.md": "28211164",
+    "Readwise/Articles/On the Criteria To Be Used in Decomposing Systems into Modules D.L. Parnas Carnegie-Mellon University.md": "28658136",
+    "Readwise/Articles/How to Debug a HardFault on an ARM Cortex-M MCU.md": "28968765",
+    "Readwise/Articles/An America-Less Internet.md": "29049282",
+    "Readwise/Articles/Myopic Experiences and Distant Observers.md": "29764537",
+    "Readwise/Articles/When Action Beats Prediction.md": "29936386",
+    "Readwise/Articles/How to Do Great Work.md": "30005318",
+    "Readwise/Articles/The Ultimate Deliberate Practice Guide How to Be the Best.md": "30287257"
+  },
+  "reimportShowConfirmation": true
+}

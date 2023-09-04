@@ -1,0 +1,44 @@
+{
+  "reviewedFieldName": "reviewed",
+  "reviewFrequencyFieldName": "review-frequency",
+  "noteSets": [
+    {
+      "id": 1,
+      "displayName": "Everything",
+      "description": "matches notes that:  contain any of these tags: #notes, #documentation, #list",
+      "stats": {
+        "totalCount": 149,
+        "notRewiewedCount": 104,
+        "reviewedLastSevenDaysCount": 3,
+        "reviewedLastThirtyDaysCount": 3
+      },
+      "tags": [
+        "#notes",
+        "#documentation",
+        "#list"
+      ],
+      "name": "Everything"
+    }
+  ],
+  "currentNoteSet": {
+    "id": 1,
+    "displayName": "Everything",
+    "description": "matches notes that:  contain any of these tags: #notes, #documentation, #list",
+    "stats": {
+      "totalCount": 149,
+      "notRewiewedCount": 104,
+      "reviewedLastSevenDaysCount": 3,
+      "reviewedLastThirtyDaysCount": 3
+    },
+    "tags": [
+      "#notes",
+      "#documentation",
+      "#list"
+    ],
+    "name": "Everything"
+  },
+  "openNextNoteAfterReviewing": true,
+  "openRandomNote": false,
+  "useReviewFrequency": true,
+  "unreviewedNotesFirst": true
+}
