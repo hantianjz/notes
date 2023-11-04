@@ -7,10 +7,10 @@
       "displayName": "Everything",
       "description": "matches notes that:  contain any of these tags: #notes, #documentation, #list",
       "stats": {
-        "totalCount": 149,
-        "notRewiewedCount": 104,
-        "reviewedLastSevenDaysCount": 3,
-        "reviewedLastThirtyDaysCount": 3
+        "totalCount": 147,
+        "notRewiewedCount": 88,
+        "reviewedLastSevenDaysCount": 20,
+        "reviewedLastThirtyDaysCount": 20
       },
       "tags": [
         "#notes",
@@ -18,24 +18,37 @@
         "#list"
       ],
       "name": "Everything"
+    },
+    {
+      "id": 2,
+      "displayName": "Readwise Highlight",
+      "description": "matches notes that:  are inside any of these folders (including nested folders): \"Readwise\"",
+      "stats": {
+        "totalCount": 30,
+        "notRewiewedCount": 29,
+        "reviewedLastSevenDaysCount": 1,
+        "reviewedLastThirtyDaysCount": 1
+      },
+      "name": "Readwise Highlight",
+      "folders": [
+        "\"Readwise\""
+      ]
     }
   ],
   "currentNoteSet": {
-    "id": 1,
-    "displayName": "Everything",
-    "description": "matches notes that:  contain any of these tags: #notes, #documentation, #list",
+    "id": 2,
+    "displayName": "Readwise Highlight",
+    "description": "matches notes that:  are inside any of these folders (including nested folders): \"Readwise\"",
     "stats": {
-      "totalCount": 149,
-      "notRewiewedCount": 104,
-      "reviewedLastSevenDaysCount": 3,
-      "reviewedLastThirtyDaysCount": 3
+      "totalCount": 30,
+      "notRewiewedCount": 29,
+      "reviewedLastSevenDaysCount": 1,
+      "reviewedLastThirtyDaysCount": 1
     },
-    "tags": [
-      "#notes",
-      "#documentation",
-      "#list"
-    ],
-    "name": "Everything"
+    "name": "Readwise Highlight",
+    "folders": [
+      "\"Readwise\""
+    ]
   },
   "openNextNoteAfterReviewing": true,
   "openRandomNote": false,

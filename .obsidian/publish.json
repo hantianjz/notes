@@ -1,11 +1,10 @@
 {
-  "siteId": "9a87d5846f71bed7ec7e00fc565537a0",
-  "host": "publish-01.obsidian.md",
+  "siteId": null,
+  "host": null,
   "included": [],
   "excluded": [
     "EBC Trek Diary",
     "Work Journals",
-    "_attachments",
     "_templates",
     "Readwise"
   ]

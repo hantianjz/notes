@@ -37,21 +37,22 @@
   "showInlineTitle": true,
   "mobileQuickRibbonItem": "simple-note-review:Simple Note Review: Start Reviewing",
   "mobileToolbarCommands": [
-    "editor:toggle-checklist-status",
+    "editor:undo",
+    "editor:redo",
     "editor:toggle-bullet-list",
-    "editor:toggle-numbered-list",
     "editor:indent-list",
     "editor:unindent-list",
     "editor:toggle-bold",
     "editor:toggle-italics",
-    "editor:undo",
-    "editor:redo",
+    "editor:insert-wikilink",
+    "editor:toggle-checklist-status",
+    "editor:toggle-numbered-list",
     "editor:toggle-strikethrough",
     "editor:toggle-code",
     "editor:set-heading",
     "editor:cycle-list-checklist",
-    "insert-current-time",
     "insert-current-date",
     "editor:paste"
-  ]
+  ],
+  "focusNewTab": false
 }

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0771300aa3fd0d48",
+        "id": "ae1d12162685f5c0",
         "type": "tabs",
         "children": [
           {
-            "id": "89ef5996c03aa590",
+            "id": "c481015b3febc4fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODOs/Everything.md",
+                "file": "0 TODOs/Everything.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 348.5
   },
   "right": {
     "id": "45d80901c3a7f1f1",
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODOs/Everything.md",
+                "file": "0 TODOs/Everything.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODOs/Everything.md",
+                "file": "0 TODOs/Everything.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,80 +112,91 @@
             }
           },
           {
-            "id": "54e2d9003ed5023c",
+            "id": "753edfeda3ce099e",
             "type": "leaf",
             "state": {
               "type": "simple-note-review-sidebar-view",
               "state": {}
             }
+          },
+          {
+            "id": "b3deeb77c2922bad",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "0 TODOs/Everything.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
       "workspaces:Manage workspace layouts": false,
-      "publish:Publish changes...": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
       "simple-note-review:Simple Note Review: Open Sidebar View": false,
-      "simple-note-review:Simple Note Review: Start Reviewing": false
+      "simple-note-review:Simple Note Review: Start Reviewing": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "89ef5996c03aa590",
+  "active": "40869a6d6a1bc4b1",
   "lastOpenFiles": [
-    "Creating new GPG keys.md",
-    "LTE Power Optimization.md",
-    "68 bits of unsolicited advice from Kevin Kelly.md",
-    "Hardware/RF Standards/Notes on Cellular Network Security.md",
-    "_attachments/Screen Shot 2022-12-15 at 15.44.15.png",
-    "_attachments/Screen Shot 2022-12-15 at 15.44.59.png",
-    "_attachments/Screen Shot 2022-12-15 at 15.58.48.png",
-    "_attachments/Screen Shot 2022-12-15 at 16.08.02.png",
-    "_attachments/Screen Shot 2022-12-15 at 16.09.33.png",
-    "_attachments/Screen Shot 2022-12-15 at 18.37.10.png",
-    "_attachments/Screen Shot 2022-12-15 at 20.21.38.png",
-    "_attachments/Screen Shot 2022-12-15 at 20.32.36.png",
-    "_attachments/Screen Shot 2022-12-15 at 21.00.27.png",
-    "_attachments/Screen Shot 2022-12-15 at 21.05.21.png",
-    "Reading/Notes/Notes on Factfulness.md",
-    "Reading/Notes/Notes on Guns, germs, and Steel.md",
-    "Reading/Notes/Notes on Every tool is a hammer.md",
-    "Work on what matters.md",
-    "Huawei Interview Notes.md",
-    "What is Kaprekar's constant - 6174.md",
-    "U-Blox setting Mobile Network Operator profile.md",
-    "Complex adaptive system.md",
-    "_templates/blank.md",
-    "_templates/book notes.md",
-    "Notes on Everything is F%cked.md",
-    "Reading/Notes/Notes on Bullshit jobs.md",
-    "Think in Simplicity.md",
-    "How does Cpp resolve a function call.md",
-    "The Zen of Python (PEP-0020).md",
-    "Embedded Electricity Basics.md",
-    "Ubuntu remove old kernel from boot dir.md",
-    "Network Types.md",
-    "embedded serial buses - I2C.md",
-    "What is Hayes commands set AKA AT Commands.md",
-    "What is Gall's Law.md",
-    "U-Blox AT Command implementation.md",
-    "Hardware/SAMD21/_attachments/SAM-D21DA1-Family-Data-Sheet-DS40001882G.pdf",
-    "Hardware/RF Standards/_attachments",
-    "Life",
-    "TODOs",
+    "3 Resources/Programming/Effective Modern Cpp/Untitled",
+    "Programming/Effective Modern Cpp/_attachments",
+    "Programming/Effective Modern Cpp",
+    "Programming",
+    "Programming/HOWTO/Linux Secureboot/Steve's note on FEDORA.md",
+    "Programming/Effective Modern Cpp/3 Moving to mordern Cpp.md",
+    "Programming/Effective Modern Cpp/1 Intro.md",
+    "Programming/HOWTO/Linux Secureboot/rodsboots.md",
+    "Programming/Effective Modern Cpp/% Effective Mordern Cpp Annotation.md",
+    "Programming/The Little book of Semaphores/045 Cigarette smokers problem.md",
+    "Programming/The Little book of Semaphores/030 Basic Concurrency patterns.md",
+    "Programming/Effective Modern Cpp/0  Effective Mordern Cpp - MOC.md",
+    "Programming/Effective Modern Cpp/2 Auto.md",
+    "Programming/HOWTO/Setup Network bridge.md",
+    "Programming/HOWTO/Wifi Sniffer setup.md",
+    "Programming/C Snipits.md",
+    "Programming/Thread Pools.md",
+    "Programming/HOWTO/Linux Secureboot",
+    "Programming/HOWTO/Udev.md",
+    "Programming/Python Snipits.md",
+    "Programming/HOWTO/Oneplus Root.md",
+    "Programming/Algorithm/Fast Invert Sqrt.md",
+    "Programming/Algorithm",
+    "Programming/HOWTO/QEMU setup for rpi linux.md",
+    "Programming/Feature to avoid in Mordern Cpp.md",
+    "Programming/HOWTO/Raspberry Pi - Setup rpi ubuntu.md",
+    "Programming/HOWTO",
+    "Programming/Effective Modern Cpp/4 Smart Pointers.md",
+    "Programming/The Little book of Semaphores/043 No-Starve mutex problem.md",
+    "Programming/The Little book of Semaphores/042 Readers-writers problem.md",
+    "Programming/The Little book of Semaphores/041 Produce-consumer problem.md",
+    "Programming/The Little book of Semaphores/044 Dining philosophers problem.md",
+    "Programming/The Little book of Semaphores",
     "Readwise/Articles",
     "Readwise/Books",
     "Readwise",
-    "Hardware",
-    "Work Journals/_attachments",
-    "Journals"
+    "3 Resources/_attachments/Pasted image 20231029094214.png",
+    "_attachments/Pasted image 20230925124646.png",
+    "_attachments/Pasted image 20230925124633.png",
+    "_attachments/2024_health_benifit_summary.png",
+    "4 Archives/Work Journals/_attachments/Pasted image 20230404183746.png",
+    "4 Archives/Work Journals/_attachments/Pasted image 20230706230128.png",
+    "4 Archives/Work Journals/_attachments/Pasted image 20230720210914.png",
+    "4 Archives/Work Journals/_attachments/Sony LLE Data.png",
+    "4 Archives/Work Journals/_attachments/Sony LLE data format.png",
+    "4 Archives/Work Journals/_attachments/Pasted image 20230403222411.png"
   ]
 }

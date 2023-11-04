@@ -19,7 +19,7 @@
       "alwaysApply": false
     },
     "Mobile Homepage": {
-      "value": "TODOs/Everything",
+      "value": "0 TODOs/Everything",
       "kind": "File",
       "openOnStartup": true,
       "hasRibbonIcon": true,
@@ -33,7 +33,7 @@
       "autoScroll": false,
       "pin": false,
       "commands": [],
-      "alwaysApply": false
+      "alwaysApply": true
     }
   },
   "separateMobile": true
