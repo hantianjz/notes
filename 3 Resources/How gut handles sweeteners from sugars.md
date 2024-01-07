@@ -2,11 +2,11 @@
 publish: true
 review-frequency: normal
 link:
-- '[[gut]]'
-- '[[vagus nerve]]'
-- '[[health]]'
+  - "[[gut]]"
+  - "[[vagus nerve]]"
+  - "[[Health]]"
 tags:
-- notes
+  - notes
 ---
 2022-01-29-Sa
 Date published: Jan 23, 2022

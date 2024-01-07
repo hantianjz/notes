@@ -21,3 +21,5 @@ link:
 - Readwise (Annual)
 - Amazon Prime (Annual)
 - ACLU
+- Japanese App
+- Chess.com

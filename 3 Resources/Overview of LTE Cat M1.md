@@ -26,6 +26,8 @@ tags:
  - Enable lower power saving mode via  `+UPSV` with different modes to be selected.
  - PSM (Power Save Mode) have less periodic registration to the LTE network, but long-lasting non-reachability
 
+![[Pasted image 20231218110125.png]]
+
 ---
 # References
 - [SARA - R5 series Application development guide](https://www.u-blox.com/en/docs/UBX-20009652)

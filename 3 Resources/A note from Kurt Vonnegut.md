@@ -8,8 +8,6 @@ link:
 tags:
 - idea
 ---
-2022-08-23-Tu
-
 # A note from Kurt Vonnegut
 
 ![[Kurt_Vonnegut_note_highschool.png]]

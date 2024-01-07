@@ -28,7 +28,7 @@ tags:
 	- The ability to retain knowledge better
 	- One don't just watch a plant grow in real time, it is incremental over really long time
 
-Vimrc config
+.obsidian.vimrc config
 ```
 " Have j and k navigate visual lines rather than logical ones
 nmap j gj
@@ -50,6 +50,9 @@ exmap forward obcommand app:go-forward
 nmap <C-i> :forward
 ```
 
+.md config
+```
+```
 
 ---
 # References

@@ -12,8 +12,7 @@ tags:
 
 > [!Auto-reply]
 > Hi,
-> Thanks for reaching out. I’m always interested in hearing about what new and exciting opportunities are out there. As a software engineer I’m sure you can imagine that I get a very high volume of recruiters reaching out on LinkedIn. It is a wonderful position of privilege to be in and I’m thankful for it.  
-> It does however mean that I don’t have the time to hop on a call with everyone who reaches out. A lot of the time, incoming messages represent a very poor fit indeed.  
+> Thanks for reaching out. I’m always interested in hearing about what new and exciting opportunities are out there.
 > I would love to continue the conversation, but before I do, I’d like to level set around the level of seniority that you’re looking for.   
 > Can you send along the company name, a job description and, total compensation details for the role you’re reaching out in reference to?   
 > While I very much appreciate the fact that exceptionally talented and engaged recruiters reach out consistently, sorting serious and high quality opportunities from spam would be a full time job without an autoresponder.  
@@ -23,7 +22,20 @@ tags:
 > I look forward to hearing from you.  
 > James
 
-## Next Step
+> [!Example Reply]
+> Hi Lindsay,
+> 
+> Thanks for reaching out. I’m always interested in hearing about what new and exciting opportunities are out there.  
+> I love to continue the conversation, but before I do, I’d like to level set around the level of seniority that you’re looking for.    
+> 
+> I found a job posting for Sr Firmware Engineer on your website https://jobs.lever.co/pison/67a7fd60-306a-4020-8b17-924412becce7
+> Which I assume is what you're hiring for?
+> While the job looks interesting, the salary range is significantly lower from my current position, this is a non-starter for me.
+> Sorry to be so blunt and direct, but I would hate to waste your time.
+> 
+> So unless the compensation aspect of the position can be significantly improved, I don't think there is a need for further discussion.
+> 
+> Thanks.
 
 
 ---

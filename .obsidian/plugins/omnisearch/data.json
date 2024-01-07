@@ -12,11 +12,11 @@
   "ribbonIcon": true,
   "showExcerpt": true,
   "renderLineReturnInExcerpts": true,
-  "showCreateButton": false,
+  "showCreateButton": true,
   "highlight": true,
-  "showPreviousQueryResults": true,
+  "showPreviousQueryResults": false,
   "simpleSearch": false,
-  "fuzziness": "1",
+  "fuzziness": "0",
   "weightBasename": 3,
   "weightDirectory": 2,
   "weightH1": 1.5,
@@ -25,6 +25,7 @@
   "weightUnmarkedTags": 1.1,
   "httpApiEnabled": false,
   "httpApiPort": "51361",
+  "httpApiNotice": true,
   "welcomeMessage": "1.10.1",
   "verboseLogging": false
 }

@@ -1,13 +1,14 @@
 [
-  "table-editor-obsidian",
   "cm-editor-syntax-highlight-obsidian",
   "nldates-obsidian",
   "obsidian-smarter-md-hotkeys",
   "dataview",
-  "readwise-official",
   "obsidian-tasks-plugin",
   "homepage",
-  "simple-note-review",
+  "omnisearch",
+  "table-editor-obsidian",
+  "calendar",
+  "obsidian-tracker",
   "obsidian-vimrc-support",
-  "omnisearch"
+  "readwise-official"
 ]

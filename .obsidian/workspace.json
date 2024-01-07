@@ -4,23 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "ae1d12162685f5c0",
-        "type": "tabs",
+        "id": "24230c4f36023a03",
+        "type": "split",
         "children": [
           {
-            "id": "c481015b3febc4fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 TODOs/Everything.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+            "id": "08ead375e49a07c8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0b5979fd1c0f369d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "4 Archives/Readwise/Books/Everything is fucked.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "f22a326430d52a97",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Daily 2024 Q1.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "4a38023b924ddbf8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0c5308350a90d023",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3 Resources/Reading/Notes/Notes on Everything is F%cked.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -62,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 227.5,
+    "collapsed": true
   },
   "right": {
     "id": "45d80901c3a7f1f1",
@@ -78,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 TODOs/Everything.md",
+                "file": "3 Resources/Reading/Notes/Notes on Everything is F%cked.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 TODOs/Everything.md",
+                "file": "3 Resources/Reading/Notes/Notes on Everything is F%cked.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,16 +148,10 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
-            }
-          },
-          {
-            "id": "753edfeda3ce099e",
-            "type": "leaf",
-            "state": {
-              "type": "simple-note-review-sidebar-view",
-              "state": {}
             }
           },
           {
@@ -125,8 +160,16 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "0 TODOs/Everything.md"
+                "file": "3 Resources/Reading/Notes/Notes on Everything is F%cked.md"
               }
+            }
+          },
+          {
+            "id": "a3485a9b388d6604",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ],
@@ -139,64 +182,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "workspaces:Manage workspace layouts": false,
-      "graph:Open graph view": false,
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false,
-      "simple-note-review:Simple Note Review: Open Sidebar View": false,
-      "simple-note-review:Simple Note Review: Start Reviewing": false,
-      "omnisearch:Omnisearch": false
+      "daily-notes:Open today's daily note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "40869a6d6a1bc4b1",
+  "active": "0c5308350a90d023",
   "lastOpenFiles": [
+    "Daily 2024 Q1.md",
+    "Everything.md",
+    "4 Archives/Readwise/Books/Everything is fucked.md",
+    "3 Resources/Reading/Notes/Notes on Everything is F%cked.md",
+    "Habit Track.md",
+    "6 Database/2024-01-07.md",
+    "Fi 2024 Q1 Notes.md",
+    "4 Archives/Readwise/Books/Dopamine Nation.md",
+    "6 Database/2024-01-06.md",
+    "3 Resources/How to solve 2x2 rubik's cube.md",
+    "4 Archives/Readwise/Articles/I’ve Never Had a Goal.md",
+    "6 Database/2024-01-05.md",
+    "6 Database/2024-01-04.md",
+    "_attachments/Pasted image 20231112110613.png",
+    "_attachments/Pasted image 20231115200826.png",
+    "_attachments/Pasted image 20240103222531.png",
+    "_attachments/Pasted image 20240103183842.png",
+    "6 Database/2024-01-03.md",
+    "6 Database/2024-01-01.md",
+    "6 Database/2024-01-02.md",
+    "4 Archives/Fi 2023 Q4 Notes.md",
+    "4 Archives/Daily 2023 Q4.md",
+    "6 Database/2023-12-31.md",
+    "6 Database/2023-12-30.md",
+    "6 Database/2023-12-29.md",
+    "6 Database/2023-12-28.md",
+    "4 Archives/Readwise/Articles/Fast Times on America’s Slowest Train.md",
+    "6 Database/2023-12-27.md",
+    "6 Database/2023-12-26.md",
+    "0 TODOs/Everything.md",
+    "3 Resources/_attachments/Pasted image 20231218110125.png",
+    "3 Resources/_attachments/Pasted image 20231120134015.png",
+    "3 Resources/_attachments/Pasted image 20231120133822.png",
+    "_attachments/Pasted image 20231106200314.png",
+    "1 Projects/Writing",
+    "6 Database",
+    "3 Resources/_attachments/Pasted image 20231104214256.png",
     "3 Resources/Programming/Effective Modern Cpp/Untitled",
     "Programming/Effective Modern Cpp/_attachments",
     "Programming/Effective Modern Cpp",
     "Programming",
-    "Programming/HOWTO/Linux Secureboot/Steve's note on FEDORA.md",
-    "Programming/Effective Modern Cpp/3 Moving to mordern Cpp.md",
-    "Programming/Effective Modern Cpp/1 Intro.md",
-    "Programming/HOWTO/Linux Secureboot/rodsboots.md",
-    "Programming/Effective Modern Cpp/% Effective Mordern Cpp Annotation.md",
-    "Programming/The Little book of Semaphores/045 Cigarette smokers problem.md",
-    "Programming/The Little book of Semaphores/030 Basic Concurrency patterns.md",
-    "Programming/Effective Modern Cpp/0  Effective Mordern Cpp - MOC.md",
-    "Programming/Effective Modern Cpp/2 Auto.md",
-    "Programming/HOWTO/Setup Network bridge.md",
-    "Programming/HOWTO/Wifi Sniffer setup.md",
-    "Programming/C Snipits.md",
-    "Programming/Thread Pools.md",
     "Programming/HOWTO/Linux Secureboot",
-    "Programming/HOWTO/Udev.md",
-    "Programming/Python Snipits.md",
-    "Programming/HOWTO/Oneplus Root.md",
-    "Programming/Algorithm/Fast Invert Sqrt.md",
     "Programming/Algorithm",
-    "Programming/HOWTO/QEMU setup for rpi linux.md",
-    "Programming/Feature to avoid in Mordern Cpp.md",
-    "Programming/HOWTO/Raspberry Pi - Setup rpi ubuntu.md",
     "Programming/HOWTO",
-    "Programming/Effective Modern Cpp/4 Smart Pointers.md",
-    "Programming/The Little book of Semaphores/043 No-Starve mutex problem.md",
-    "Programming/The Little book of Semaphores/042 Readers-writers problem.md",
-    "Programming/The Little book of Semaphores/041 Produce-consumer problem.md",
-    "Programming/The Little book of Semaphores/044 Dining philosophers problem.md",
     "Programming/The Little book of Semaphores",
-    "Readwise/Articles",
-    "Readwise/Books",
-    "Readwise",
-    "3 Resources/_attachments/Pasted image 20231029094214.png",
-    "_attachments/Pasted image 20230925124646.png",
-    "_attachments/Pasted image 20230925124633.png",
-    "_attachments/2024_health_benifit_summary.png",
-    "4 Archives/Work Journals/_attachments/Pasted image 20230404183746.png",
-    "4 Archives/Work Journals/_attachments/Pasted image 20230706230128.png",
-    "4 Archives/Work Journals/_attachments/Pasted image 20230720210914.png",
-    "4 Archives/Work Journals/_attachments/Sony LLE Data.png",
-    "4 Archives/Work Journals/_attachments/Sony LLE data format.png",
-    "4 Archives/Work Journals/_attachments/Pasted image 20230403222411.png"
+    "3 Resources/_attachments/Pasted image 20231029094214.png"
   ]
 }

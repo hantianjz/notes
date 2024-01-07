@@ -1,17 +1,14 @@
 [
   "file-explorer",
   "global-search",
-  "graph",
   "backlink",
   "outgoing-link",
   "properties",
-  "page-preview",
+  "daily-notes",
   "templates",
-  "note-composer",
   "command-palette",
   "editor-status",
   "word-count",
-  "workspaces",
   "file-recovery",
   "sync"
 ]

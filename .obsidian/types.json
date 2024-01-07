@@ -5,6 +5,7 @@
     "tags": "tags",
     "type": "multitext",
     "reviewed": "date",
-    "date published": "date"
+    "date published": "date",
+    "Activity": "multitext"
   }
 }

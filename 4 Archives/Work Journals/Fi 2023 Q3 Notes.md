@@ -20,7 +20,7 @@ T: Start testing uploading wifi scanned results, debug why the new efr32 ble don
 Y: implement freelist "lock" on shared buffer memory in firmware to store uploaded wifi scan results.
 T: Working with Adam to investigate some weirdness in GNSS testing where collar in simulator doesn't show ZDA sentences, MA lunch, finally get started on uploading wifi scan results
 
-- [ ] Fix missing ZDA sentences on  efr32 dongles
+- [x] Fix missing ZDA sentences on  efr32 dongles ✅ 2023-11-07
 
 **2023-09-27**
 Y: doing some memory hunting before starting upload wifi scan results.
@@ -29,7 +29,7 @@ T: add a “lock” to LLE buffer for memory sharing, save wifi scan results and
 - [x] Verify LLE functionality after [PR](https://github.com/barkinglabs/web/pull/5571) is merged ✅ 2023-10-02
     - [x] Still able to download LLE
     - [x] at 8pm est new LLE data is downloaded ✅ 2023-10-02
-- [ ] maybe figure out CXD5605term gstp no display issue
+- [x] maybe figure out CXD5605term gstp no display issue ✅ 2023-11-07
 - [x] 4.12.3 FW up/down test ✅ 2023-09-28
 - [x] Add stdev to cxdterm gstp summary ✅ 2023-09-28
 
@@ -144,7 +144,7 @@ T: Using dataricks to see if there is any performance change in GNSS for S3 afte
 
 - [x] Base rollout ✅ 2023-09-13
 - [x] CXD5605TERM UI ✅ 2023-09-01
-- [ ] GAL enable for all?
+- [x] GAL enable for all? ✅ 2023-11-07
 - [x] lle throttle web PR, and rollout? ✅ 2023-09-01
 
 **2023-08-23**
@@ -274,7 +274,7 @@ Y: pushing out 4.11.7 fw and monitor rollout
 T: bump 4.11.7 to 50%, and address cx tickets over the weekend , continue refactoring uart to bsp.
 
 **2023-08-04**
-- [ ] Bring up discussion with stackoverflow detection
+- [x] Bring up discussion with stackoverflow detection ✅ 2023-11-07
 - [x] Refactor UART to BSP_UART
 - [x] Refactor CXD5605 backend common code
 

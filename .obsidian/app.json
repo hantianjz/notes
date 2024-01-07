@@ -6,7 +6,7 @@
   "foldHeading": true,
   "smartIndentList": true,
   "defaultViewMode": "source",
-  "showLineNumber": true,
+  "showLineNumber": false,
   "useTab": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "./_attachments",
@@ -18,7 +18,7 @@
   "showUnsupportedFiles": true,
   "newLinkFormat": "shortest",
   "vimMode": true,
-  "foldIndent": false,
+  "foldIndent": true,
   "showFrontmatter": false,
   "spellcheckDictionary": [
     "behaviours",
@@ -54,5 +54,6 @@
     "insert-current-date",
     "editor:paste"
   ],
-  "focusNewTab": false
+  "focusNewTab": true,
+  "userIgnoreFilters": null
 }

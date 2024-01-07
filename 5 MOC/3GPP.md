@@ -1,14 +1,15 @@
 ---
-publish: false
 link:
   - "[[3GPP]]"
+  - "[[protocol]]"
+  - "[[Network Protocol]]"
 tags:
   - MOC
 ---
-2022-03-23-We
-tags: [[3GPP]], [[protocol]], [[Network Protocol]]
-
 # TOC of 3GPP
+
+[specs ](https://www.3gpp.org/dynareport?code=36-series.htm) 
+
 
 ## [Access Network from 3GPP](https://en.wikipedia.org/wiki/System_Architecture_Evolution#Multiple_access_networks)
 [[GRPS]] - General Packet Radio Service

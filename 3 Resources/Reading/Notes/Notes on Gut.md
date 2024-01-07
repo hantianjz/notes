@@ -3,7 +3,7 @@ publish: true
 review-frequency: low
 link:
   - "[[non fiction]]"
-  - "[[health]]"
+  - "[[Health]]"
   - "[[gut]]"
   - "[[reading]]"
 tags:

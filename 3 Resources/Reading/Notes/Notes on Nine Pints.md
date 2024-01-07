@@ -2,7 +2,7 @@
 publish: true
 review-frequency: low
 link:
-  - "[[health]]"
+  - "[[Health]]"
   - "[[blood]]"
   - "[[reading]]"
 tags:

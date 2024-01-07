@@ -1,0 +1,58 @@
+---
+tags:
+  - articles
+  - notes
+link:
+  - "[[economic]]"
+  - "[[explainer]]"
+---
+- 3 Forces that drive the economy
+    - Productivity growth cycle
+    - Short-term debt cycle
+    - Long-term debt cycle
+- Transactions: A economy is the sum of all transactions that make it up
+    - A transaction is a buyer exchanging money/credit for good, services or, financial assets.
+    - Credit spend like money
+    - Total spending drives the economy
+    - Total spend / Quantity sold = Price
+- Market: Buyer and seller making transaction for the same thing
+    - I.E. Wheat Market, Stock Market, etc...
+- Central Bank is important to control the flow of credit
+- Lender vs Borrower
+    - Lender make more money
+    - Borrower need money for something
+    - Lender lend money to borrower, creating credit, and also debt
+    - When interest rate is high, more expensive to borrow
+    - Credit is asset to lender
+    - Debt is liability to borrower
+- Borrower increase spending power, creating more transactions and more total spend and drives economy
+- One person's increased spending increase another's income
+- A borrower can borrow money if they are credit worthy
+    - They are credit worthy if they have higher income than debt
+- Therefore increase income -> increased borrowing -> increased spending -> increase income in others -> others increase borrow.
+- This is a CYCLE
+- Productivity is important in the long run
+- Debt swings 5-8 years or long term 75-100 years
+![[Pasted image 20231112110613.png]] 
+- Without credit in economy, only way to increase economy is higher productivity.
+- Borrowing is pulling spending forward, borrowing from future self.
+- Anytime you borrow you create a cycle
+- U.S. Economy have around 50 trillion dollars in credit, but only 3 trillion without it.
+- Credit is bad when used to buy things that does not generate productivity, and can't be paid back
+- Amount of spending and income grow faster than production, price rise (due to supply and demand curve), and cause inflation
+- Central bank raise interest rate to keep inflation low
+    - people borrow less -> spending less
+- When inflation is lower, interest rate is low again
+- Over longer term period, debt raise faster than income. This is just human nature
+- Deleveraging
+    - Lower spending
+    - Income fall
+    - Credit disappears
+    - Asset price drop
+- To address deleveraging
+    - Cut spending, austerity, might lead to worse deleveraging
+    - 
+
+---
+# References
+- https://www.youtube.com/watch?v=PHe0bXAIuk0

@@ -183,7 +183,7 @@ wifi connect
 wifi_net_test http_slow
 ```
 
-- [ ] Need to understand the backend device handoff logic, sometime it's not working very well.
+- [x] Need to understand the backend device handoff logic, sometime it's not working very well. ✅ 2023-11-07
 - [-] Talk to loren about adding task to "project overview"
 - [x] How does the backend determine which constellation needs to be pushed ✅ 2023-07-05
 

@@ -3,7 +3,7 @@ publish: true
 review-frequency: normal
 link:
   - "[[non fiction]]"
-  - "[[health]]"
+  - "[[Health]]"
   - "[[medicine]]"
   - "[[death]]"
   - "[[reading]]"

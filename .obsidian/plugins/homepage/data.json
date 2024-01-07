@@ -2,7 +2,7 @@
   "version": 3,
   "homepages": {
     "Main Homepage": {
-      "value": "TODOs/Everything",
+      "value": "Everything",
       "kind": "File",
       "openOnStartup": true,
       "hasRibbonIcon": true,

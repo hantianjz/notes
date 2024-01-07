@@ -6,7 +6,7 @@ tags:
   - notes
 link:
   - "[[sleep]]"
-  - "[[health]]"
+  - "[[Health]]"
   - "[[self improvement]]"
   - "[[reading]]"
 reviewed: 2023-09-03

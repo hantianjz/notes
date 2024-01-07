@@ -8,7 +8,7 @@ link:
   - "[[Algorithm]]"
   - "[[string]]"
 ---
-# Hash of string for searching
+## Polynomial rolling hash function
 
 The good and widely used way to define the hash of a string $S$ of length $n$ is
 
@@ -34,7 +34,6 @@ $$
 = hash(s[0..j]) - hash(s[0..i-1]) \mod m
 $$
 
-# Hash of string for uniform distribution
 
 ---
 # References

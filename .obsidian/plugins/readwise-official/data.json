@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 11196789,
+  "lastSavedStatusID": 12195524,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -58,7 +58,11 @@
     "4 Archives/Readwise/Articles/Professional Development Is a Choice.md": "31831439",
     "4 Archives/Readwise/Articles/The Ultimate Deliberate Practice Guide How to Be the Best.md": "30287257",
     "4 Archives/Readwise/Articles/The Pathless Path.md": "31848562",
-    "4 Archives/Readwise/Articles/How to Do Great Work.md": "30005318"
+    "4 Archives/Readwise/Articles/How to Do Great Work.md": "30005318",
+    "4 Archives/Readwise/Articles/Does Go Have Subtyping.md": "34095764",
+    "4 Archives/Readwise/Articles/Use Strategic Thinking to Create the Life You Want.md": "35813560",
+    "4 Archives/Readwise/Articles/Projects.md": "35820261",
+    "4 Archives/Readwise/Articles/Fast Times on America’s Slowest Train.md": "35938177"
   },
   "reimportShowConfirmation": true
 }

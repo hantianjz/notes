@@ -225,7 +225,7 @@ FedEx: **925412813**
 > San Jose, CA 95112
 > 408-829-4564
 
-- [ ] Need to fix the duration been a float, that means partial seconds as input
+- [x] Need to fix the duration been a float, that means partial seconds as input ✅ 2023-11-15
 - [x] GPS FIX FAIL during LTE:idle, which is really useless and should go away ✅ 2023-07-07
 - [x] Get fast GPS merged
 - [x] Remove hardcoded timing

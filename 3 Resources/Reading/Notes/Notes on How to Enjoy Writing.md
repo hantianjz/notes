@@ -3,7 +3,7 @@ publish: true
 review-frequency: normal
 link:
   - "[[reading]]"
-  - "[[writing]]"
+  - "[[Writing]]"
   - "[[self improvement]]"
 ---
 
