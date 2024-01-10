@@ -3,6 +3,7 @@
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 
 ## Metadata
+- Author: [[xorvoid]]
 - Full Title: I'm Too Old for Broken Builds
 - Category: #articles
 - URL: https://www.xorvoid.com/broken_builds.html

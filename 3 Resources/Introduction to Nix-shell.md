@@ -2,11 +2,11 @@
 publish: true
 review-frequency: normal
 link:
-- '[[nix]]'
-- '[[build system]]'
-- '[[Everything]]'
+  - "[[nix]]"
+  - "[[build system]]"
+  - "[[Home]]"
 tags:
-- notes
+  - notes
 ---
 2022-07-04-Mo
 Date published: 19 December 2021

@@ -3,8 +3,10 @@
 ![rw-book-cover](https://www.nthbrock.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E)
 
 ## Metadata
+- Author: [[The Nth Brock.]]
 - Full Title: An America-Less Internet
 - Category: #articles
+- Document Tags: [[internet]] 
 - URL: https://www.nthbrock.com/posts/americaless-internet/
 
 ## Highlights

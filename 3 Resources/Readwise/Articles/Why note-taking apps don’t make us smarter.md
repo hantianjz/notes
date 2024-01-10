@@ -3,6 +3,7 @@
 ![rw-book-cover](https://cdn.vox-cdn.com/thumbor/f4ETlfmpKcJybLO5CIfiGvHiVbw=/0x0:2325x1550/1200x628/filters:focal(1163x775:1164x776)/cdn.vox-cdn.com/uploads/chorus_asset/file/24872830/obsidian.jpg)
 
 ## Metadata
+- Author: [[Casey Newton]]
 - Full Title: Why note-taking apps don’t make us smarter
 - Category: #articles
 - URL: https://www.theverge.com/2023/8/25/23845590/note-taking-apps-ai-chat-distractions-notion-roam-mem-obsidian

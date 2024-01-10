@@ -1,13 +1,9 @@
----
-reviewed: 2023-09-09
-review-frequency: normal
----
-
 # How First Principles Thinking Fails
 
 ![rw-book-cover](https://commoncog.com/content/images/2020/12/how_first_principles_thinking_fails.jpeg)
 
 ## Metadata
+- Author: [[Cedric Chin]]
 - Full Title: How First Principles Thinking Fails
 - Category: #articles
 - URL: https://commoncog.com/how-first-principles-thinking-fails/

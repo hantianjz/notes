@@ -2,12 +2,12 @@
 publish: false
 review-frequency: normal
 link:
-- '[[Everything]]'
-- '[[code tagging]]'
-- '[[visualization]]'
-- '[[Notes todo]]'
+  - "[[Home]]"
+  - "[[code tagging]]"
+  - "[[visualization]]"
+  - "[[Notes todo]]"
 tags:
-- idea
+  - idea
 ---
 2021-12-29-We
 

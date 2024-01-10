@@ -3,6 +3,7 @@
 ![rw-book-cover](https://media.newyorker.com/photos/649473259e87508ed764ce55/master/pass/230703_r42587.jpg)
 
 ## Metadata
+- Author: [[Nikhil Krishnan]]
 - Full Title: Aristotle’s Rules for Living Well
 - Category: #articles
 - URL: https://www.newyorker.com/magazine/2023/07/03/how-to-flourish-an-ancient-guide-to-living-well-aristotle-susan-sauve-meyer-book-review

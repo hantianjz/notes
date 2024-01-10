@@ -2,7 +2,7 @@
   "version": 3,
   "homepages": {
     "Main Homepage": {
-      "value": "Everything",
+      "value": "Home",
       "kind": "File",
       "openOnStartup": true,
       "hasRibbonIcon": true,
@@ -19,7 +19,7 @@
       "alwaysApply": false
     },
     "Mobile Homepage": {
-      "value": "0 TODOs/Everything",
+      "value": "Home",
       "kind": "File",
       "openOnStartup": true,
       "hasRibbonIcon": true,

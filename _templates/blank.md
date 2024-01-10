@@ -1,8 +1,7 @@
 ---
+id: <% tp.date.now("YYYYMMDDdddHHmmss") %>
+aliases:
 tags:
-  - unsorted
 link:
+<% await tp.file.rename(tp.date.now("YYYYMMDDdddHHmmss")) %>
 ---
-
----
-# References

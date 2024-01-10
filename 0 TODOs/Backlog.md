@@ -12,11 +12,9 @@ tags:
 - [ ] Fix dynamic DNS reporting script
 - [ ] Fix existing PDF links using obsidian builtin PDF view
 
-- [ ] When Einstein Walked with Gödel
+- [ ] When Einstein Walked with Gödel $reading
 - [ ] Storyworthy $reading
-- [x] Termination Shock $reading ✅ 2023-12-27
 - [ ] Oblivion stories $reading
-- [x] Starting strength $reading ✅ 2023-12-14
 - [/] Coders at work $reading
 - [ ] read [Programming in Lua](https://www.lua.org/pil/contents.html) $learning
 - [ ] A field guide to GLOBAL PAYMENTS $reading
@@ -35,6 +33,3 @@ tags:
 - [ ] Setup Valgrind $learning
 - [ ] Understand the dwarf format $learning
 - [ ] Learn to do fpga programming $learning
-
-- [ ] Get Wyze camera online using [addon](https://github.com/mrlt8/docker-wyze-bridge/wiki/Home-Assistant) 
-- [x] But I have to install [HA OS](https://www.home-assistant.io/installation/generic-x86-64#install-home-assistant-operating-system) first ✅ 2024-01-04

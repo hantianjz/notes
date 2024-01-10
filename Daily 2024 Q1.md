@@ -5,10 +5,14 @@ tags:
 link:
   - "[[journal]]"
 ---
+
 **2024-01-07**
+
 Found a way to write obsidan nodes from neovim
 - https://www.youtube.com/watch?v=5ht8NYkU9wQ
 - https://github.com/epwalsh/obsidian.nvim
+
+This might actually be really nice note taking method.
 
 **2024-01-05**
 - passport pages

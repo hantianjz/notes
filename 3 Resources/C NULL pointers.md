@@ -8,9 +8,6 @@ link:
 tags:
 - notes
 ---
-2022-01-03-Mo
-Date published: ?
-
 # C NULL pointers
 
 Null pointers are complicated. In C, they are a horrible compromise because not all targets used a zero bit pattern to represent null. Any integer constant expression that evaluates to zero, and any such expression cast to any pointer type, are defined to be null pointers by the C spec. The following are all null pointers (or, at least, may be depending on context):

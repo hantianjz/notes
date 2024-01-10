@@ -3,8 +3,10 @@
 ![rw-book-cover](https://cdn.vox-cdn.com/thumbor/rJHOJSTk0nWQ7r9pXblYFWLDBTU=/0x0:2040x1360/1200x628/filters:focal(1076x1303:1077x1304)/cdn.vox-cdn.com/uploads/chorus_asset/file/24390468/STK149_AI_Chatbot_K_Radtke.jpg)
 
 ## Metadata
+- Author: [[James Vincent]]
 - Full Title: AI Is Killing the Old Web, and the New Web Struggles to Be Born
 - Category: #articles
+- Document Tags: [[ai]] [[internet]] [[social]] 
 - URL: https://www.theverge.com/2023/6/26/23773914/ai-large-language-models-data-scraping-generation-remaking-web?utm_source=tldrnewsletter
 
 ## Highlights

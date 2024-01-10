@@ -12,6 +12,13 @@ short mode
 path includes TODOs/Unsorted
 sort by status.type
 ```
+# [[Backlog|Learning]]
+```tasks
+short mode
+path includes TODOs
+sort by status.type
+description includes $learning
+```
 
 # [[backlog|Reading]]
 ```tasks
@@ -31,13 +38,6 @@ sort by priority
 (due before in two weeks) OR (scheduled before in two weeks)
 ```
 
-# [[Backlog|Learning]]
-```tasks
-short mode
-path includes TODOs
-sort by status.type
-description includes $learning
-```
 # [[backlog|Dotfile]]
 ```tasks
 short mode
@@ -48,7 +48,7 @@ description includes $dotfile
 # [[backlog|Misc Else]]
 ```tasks
 short mode
-path includes TODOs
+path includes Backlog
 sort by status.type
 description does not include $
 no scheduled date

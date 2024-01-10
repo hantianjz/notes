@@ -1,8 +1,9 @@
 # The Bitter Lesson
 
-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
+![rw-book-cover](https://rdl.ink/render/http%3A%2F%2Fwww.incompleteideas.net%2FIncIdeas%2FBitterLesson.html)
 
 ## Metadata
+- Author: [[incompleteideas.net]]
 - Full Title: The Bitter Lesson
 - Category: #articles
 - URL: http://www.incompleteideas.net/IncIdeas/BitterLesson.html

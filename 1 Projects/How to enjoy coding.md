@@ -8,8 +8,6 @@ link:
 tags:
 - idea
 ---
-2022-08-19-Fr
-
 # How to enjoy coding
 - The sheer joy of creating 
 - The creative outlet is 

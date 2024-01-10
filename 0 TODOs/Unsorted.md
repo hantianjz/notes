@@ -11,4 +11,5 @@ tags:
 - [ ] Setup HSA contribution
 - [x] Setup IRA contribution ✅ 2024-01-05
 - [ ] Apply for nexus card 
-- [ ] Play with Mandelbrot set
+- [ ] Play with Mandelbrot set $learning
+- [ ] Rewrite neovim config in lua with lazy.nvim manager
