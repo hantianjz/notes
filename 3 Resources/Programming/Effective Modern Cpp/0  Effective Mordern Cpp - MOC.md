@@ -2,19 +2,16 @@
 publish: true
 reviewed: 2023-04-29
 review-frequency: ignore
-type:
 link:
-- '[[Cpp]]'
-- '[[Cpp11]]'
-- '[[Cpp14]]'
-- '[[Cpp17]]'
+  - "[[Cpp]]"
+  - "[[Cpp11]]"
+  - "[[Cpp14]]"
+  - "[[Cpp17]]"
 tags:
-- MOC
+  - MOC
 ---
-2021-12-29-We
-
 # 0  Effective Mordern Cpp - MOC
-##### [[% Effective Mordern Cpp Annotation#^01z8nlj556oy|lvalues vs rvalues]]
+##### [[Effective_Modern_C__.pdf#page=20&selection=62,0,65,64|lvalues vs rvalues]]
 A useful heuristic to determine whether an expression is an lvalue is to ask if you can take its address. If you can, it typically is. If you can’t, it’s usually an rvalue.
 Copies of rvalues are generally move constructed, while copies of lvalues are usually copy constructed.
 

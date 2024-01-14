@@ -5,7 +5,7 @@ link:
   - "[[Health]]"
   - "[[breath]]"
 author: James Nestor
-title: "Breath: The new science of a lost art"
+aliases: "Breath: The new science of a lost art"
 ---
 > [!qoute]
 > In transporting the breath, the inhalation must be full.

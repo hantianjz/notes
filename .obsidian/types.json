@@ -3,9 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "type": "multitext",
     "reviewed": "date",
-    "date published": "date",
-    "Activity": "multitext"
+    "date published": "date"
   }
 }

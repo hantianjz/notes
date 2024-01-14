@@ -127,15 +127,6 @@
       "key": "O"
     }
   ],
-  "workspace:split-horizontal": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Mod"
-      ],
-      "key": "S"
-    }
-  ],
   "workspace:split-vertical": [
     {
       "modifiers": [
@@ -201,5 +192,14 @@
       "key": "ArrowRight"
     }
   ],
-  "markdown:add-metadata-property": []
+  "markdown:add-metadata-property": [],
+  "workspace:split-horizontal": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ]
 }

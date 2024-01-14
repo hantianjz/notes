@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c4bc0674d94c5e4d",
+        "id": "f27b366dee6e8b9f",
         "type": "tabs",
         "children": [
           {
-            "id": "07d221c4d164b30a",
+            "id": "9bc2f19357800668",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:books",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -148,37 +148,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "07d221c4d164b30a",
+  "active": "9bc2f19357800668",
   "lastOpenFiles": [
-    "6 Database/2024-01-08.md",
-    "3 Resources/Readwise/Books/Indistractable.md",
-    "3 Resources/Readwise/Books/Bullshit Jobs.md",
-    "3 Resources/Readwise/Books/Everything is fucked.md",
-    "3 Resources/Readwise/Books/The Subtle Art of Not Giving a Fck.md",
-    "3 Resources/Readwise/Articles/On the Criteria To Be Used in Decomposing Systems into Modules D.L. Parnas Carnegie-Mellon University.md",
-    "3 Resources/Readwise/Articles/Cognitive Load Developer's Handbook.md",
-    "3 Resources/Readwise/Articles/The Bitter Lesson.md",
-    "3 Resources/Readwise/Articles/Elon's Decision Making An Anecdote Compilation.md",
-    "3 Resources/Readwise/Articles/How to Debug a HardFault on an ARM Cortex-M MCU.md",
-    "3 Resources/Readwise/Articles/When Action Beats Prediction.md",
-    "3 Resources/Readwise/Articles/Use Strategic Thinking to Create the Life You Want.md",
-    "3 Resources/Readwise/Articles/Projects.md",
-    "3 Resources/Readwise/Articles/Myopic Experiences and Distant Observers.md",
-    "3 Resources/Readwise/Articles/Hunter S. Thompson’s Letter on Finding Your Purpose and Living a Meaningful Life.md",
-    "3 Resources/Readwise/Articles/Software Packaging Is a Nightmare.md",
-    "3 Resources/Readwise/Articles/How to Do Great Work.md",
-    "3 Resources/Readwise/Articles/AI Is Killing the Old Web, and the New Web Struggles to Be Born.md",
     "3 Resources/Readwise/Articles/That Numbness You’re Feeling There’s a Word for It..md",
+    "3 Resources/Readwise/Books/Dopamine Nation.md",
+    "3 Resources/Readwise/Articles/I’ve Never Had a Goal.md",
+    "3 Resources/Readwise/Articles/Fast Times on America’s Slowest Train.md",
+    "3 Resources/Readwise/Articles/Projects.md",
+    "3 Resources/Readwise/Articles/Use Strategic Thinking to Create the Life You Want.md",
+    "3 Resources/Readwise/Articles/A Coder Considers the Waning Days of the Craft.md",
     "3 Resources/Readwise/Articles/What if Money Expired.md",
+    "3 Resources/Readwise/Articles/Does Go Have Subtyping.md",
     "3 Resources/Readwise/Articles/On Importance of Naming in Programming.md",
-    "3 Resources/Readwise/Articles/The Ultimate Deliberate Practice Guide How to Be the Best.md",
-    "3 Resources/Readwise/Articles/Aristotle’s Rules for Living Well.md",
-    "3 Resources/Readwise/Articles/Why note-taking apps don’t make us smarter.md",
-    "3 Resources/Readwise/Articles/Seek Ideas at the Right Level of Abstraction.md",
+    "3 Resources/Readwise/Articles/Elon's Decision Making An Anecdote Compilation.md",
     "3 Resources/Readwise/Articles/Return to Office Is Bullshit and Everyone Knows It.md",
+    "3 Resources/Readwise/Articles/Portability and the C Language.md",
+    "3 Resources/Readwise/Articles/Software Packaging Is a Nightmare.md",
+    "3 Resources/Readwise/Articles/Hunter S. Thompson’s Letter on Finding Your Purpose and Living a Meaningful Life.md",
+    "3 Resources/Readwise/Articles/The Lindy Effect.md",
+    "3 Resources/Readwise/Articles/These 38 Reading Rules Changed My Life.md",
+    "3 Resources/Readwise/Articles/Apple Is World's First $3 Trillion Company.md",
+    "3 Resources/Readwise/Articles/How to Do Great Work.md",
+    "3 Resources/Readwise/Books/The Pathless Path.md",
+    "3 Resources/Readwise/Articles/The Ultimate Deliberate Practice Guide How to Be the Best.md",
+    "3 Resources/Readwise/Articles/Professional Development Is a Choice.md",
+    "3 Resources/Readwise/Articles/Why note-taking apps don’t make us smarter.md",
+    "3 Resources/Readwise/Articles/Building Personal and Organizational Prestige.md",
+    "3 Resources/Readwise/Articles/Aristotle’s Rules for Living Well.md",
+    "3 Resources/Readwise/Articles/Cognitive Confinement in Narrative Prisons.md",
     "3 Resources/Readwise/Articles",
     "3 Resources/Readwise/Books",
     "3 Resources/Readwise",
+    "3 Resources/Programming/Effective Modern Cpp/_attachments/Effective_Modern_C__.pdf",
+    "4 Archives/Readwise/Articles",
+    "4 Archives/Readwise/Books",
+    "4 Archives/Readwise",
     "7 Fleeting",
     "_attachments/Pasted image 20231112110613.png",
     "_attachments/Pasted image 20231115200826.png",
@@ -191,10 +195,6 @@
     "1 Projects/Writing",
     "6 Database",
     "3 Resources/_attachments/Pasted image 20231104214256.png",
-    "3 Resources/Programming/Effective Modern Cpp/Untitled",
-    "Programming/Effective Modern Cpp/_attachments",
-    "Programming/Effective Modern Cpp",
-    "Programming",
     "3 Resources/_attachments/Pasted image 20231029094214.png"
   ]
 }

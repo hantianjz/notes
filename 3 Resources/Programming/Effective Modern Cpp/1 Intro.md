@@ -10,8 +10,6 @@ link:
 tags:
 - notes
 ---
-2021-12-29-We
-
 ## Effective Cpp Intro
 
 #### Item 1: Understand template type deduction

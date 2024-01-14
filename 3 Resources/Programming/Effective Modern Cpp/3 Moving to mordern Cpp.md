@@ -10,8 +10,6 @@ link:
 tags:
 - notes
 ---
-2021-12-29-We
-
 ## Moving to Modern C++
 
 #### Item 7: Distinguish between () and {} when creating objects
@@ -307,7 +305,7 @@ The compilers will ensure Constexpr object have a compile time value, while cons
 
 _const_ member function does not have the same thread safe protection from non-const member function. Hence need it's own thread safe protection.
 
-#### [[% Effective Mordern Cpp Annotation#^kv5bdk3r3le|Item 17: Understand special member function generation]]
+#### [[Effective_Modern_C__.pdf#page=127&selection=26,0,27,11|Item 17: Understand special member function generation]]
 
 C++98 has 4 special member function, generated only when needed, by default public and **inline**, non-virtual.
 
@@ -332,7 +330,7 @@ public:
 
 Types that aren't move-enabled will be 'moved' via their copy operations.
 
-Memberwise move consists of move operations on data members and base classes that support move operations, but a copy operation for those that don't.
+Member-wise move consists of move operations on data members and base classes that support move operations, but a copy operation for those that don't.
 
 The 2 move operations are not independent, user declare either will prevent compiler generate the other one.
 

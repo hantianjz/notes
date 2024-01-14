@@ -12,7 +12,7 @@ tags:
 - [ ] Fix dynamic DNS reporting script
 - [ ] Fix existing PDF links using obsidian builtin PDF view
 
-- [ ] When Einstein Walked with Gödel $reading
+- [/] When Einstein Walked with Gödel $reading
 - [ ] Storyworthy $reading
 - [ ] Oblivion stories $reading
 - [/] Coders at work $reading

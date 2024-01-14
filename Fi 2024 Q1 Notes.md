@@ -12,6 +12,47 @@ not done
 sort by created
 ```
 
+**2024-01-12**
+Y: Discussion and planning to fixing timestamping issue with sensor data collection a kennel cam, GPS failure case study meeting
+T: More GPS failure case study meeting, getting a new deployment of sensor data collection at kennel cam to start fixing timestamp issues.
+
+- [ ] Need to figure out how to update ntp on balena rpi
+- [ ] something wrong with collar when time is set
+
+Loren review 
+
+- **Knowledgeable Leadership:**
+    
+    - Loren possesses extensive knowledge in various technical domains and is able to connect different eng teams together.
+- **Approachable Team Collaboration:**
+    
+    - Loren fosters a collaborative work environment, being approachable and encouraging open discussions among team members.
+- **Technical Expertise and Holistic Architecture:**
+    
+    - Loren combines technical expertise with a holistic view of architecture, excelling in both detailed problem-solving and strategic decision-making.
+
+**Summary:** Loren is a highly knowledgeable and approachable leader, adept at navigating technical details while maintaining a holistic view of architecture. His collaborative approach and technical expertise have significantly contributed to our team's success.
+
+**2024-01-11**
+Y: looking into new bug on ble v2 causing data drops, and kennel cam module upload data with data gaps
+T: address data gap in kennel cam setup 
+
+- restart investigation at  2024-01-11 15:52:00.711731
+
+**2024-01-10**
+Y: Fixed the module offline bug, and investigating other serial ble v2 related tickets.
+T: Cut new release for new module fix, and maybe release to internal folks, and release the base FW fix
+
+Modules that have latest base FW:
+- FC33B488392
+- FC33J251635
+- FC33H159390
+
+- [x] Investigate Hal's data drop ✅ 2024-01-11
+- [x] Investigate new base FW, report drop ✅ 2024-01-11
+
+- restarted sampling at 9:46 PM host_ts 2024-01-11 02:47:11.362640
+
 **2024-01-09**
 Y: Troubleshooting a bug where module with new ble v2.1 protocol becomes offline after a while.
 T: Continue troubleshooting the module offline bug

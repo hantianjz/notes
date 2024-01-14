@@ -13,5 +13,6 @@ tags:
 
 ## Smart Pointers
 
-#### [[% Effective Mordern Cpp Annotation#^r71kad9j39|Item 18: Use std::unique_ptr for exclusive-ownership resource management]]
+#### [[Effective_Modern_C__.pdf#page=136&selection=97,0,102,20|Item 18: Use std:unique_ptr for exclusive-ownership resource management]]
+
 `std::unique_ptr` is almost as efficient as raw [[% Effective Mordern Cpp Annotation#^q6dnjukym9g|pointers]].

@@ -9,6 +9,24 @@ link:
   - "[[asset management]]"
 ---
 Some reading list [[Algo trading reading]]
+
+**2024-01-13**
+- Goal today:
+    - Figure out how to send SMS msg programmatically
+    - Track stock prices
+    - Send closing price at end of day
+    - Send opening price at start of day
+    - Send notification on sudden price jump, or delta within single day
+
+## Sending notification/SMS
+
+- Twilio, sends sms but might get expensive in the long run.
+    - But for outbound only SMS it's only 0.79 cent per sms, which might work
+    - 2 sms per day * 5 days a week = 10
+    - Set a upper limit to max 1 sms per 1 hour, market is only open for 6.5 hours seems like a okay way to start
+    - bandwidth seems to be cheaper https://www.bandwidth.com/pricing/
+- There is a Twilio recovery code
+
 # Goal
 - Track current total assets, and gain vs loss
 - View assets by sector/country/type
