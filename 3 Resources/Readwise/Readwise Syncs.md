@@ -1,4 +1,4 @@
-- [[2024-03-30]] 4:35 PM — Synced 196 highlights from 48 documents.
+- [[2024-03-30]] 4:40 PM — Synced 196 highlights from 48 documents.
     - 26 highlights from Bullshit Jobs
     - 30 highlights from Indistractable
     - 18 highlights from The Subtle Art of Not Giving a F*ck

@@ -22,14 +22,6 @@ short mode
 path includes TODOs/Unsorted
 sort by status.type
 ```
-# [[Backlog|Learning]]
-```tasks
-short mode
-path includes TODOs
-sort by status.type
-description includes $learning
-```
-
 # [[backlog|Reading]]
 ```tasks
 short mode
@@ -37,7 +29,13 @@ path includes TODOs
 sort by status.type
 description includes $reading
 ```
-
+# [[Backlog|Learning]]
+```tasks
+short mode
+path includes TODOs
+sort by status.type
+description includes $learning
+```
 # [[Backlog|Scheduled]]
 ```tasks
 short mode

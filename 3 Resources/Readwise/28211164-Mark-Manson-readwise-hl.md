@@ -16,7 +16,6 @@ aliases: Everything is fucked
 - To build and maintain hope, we need three things: a sense of control, a belief in the value of something, and a community.
 - a sustaineable, benevolent form of hope. A hope that can bring us togethe rather than tear us apart. A hope that is robust and powerful yet still grounded in reason and reality. A hope that can carry ust the end of our days with a sense of gratitude and satisfaction
 - When people prattle on about needing to find their "life's purpose," what they really mean is that it's no longer clear to them what matters, what is a worthy use of their limited time here on earth-in short, what to hope for. They are struggling to see what the before/after of their lives should be
-    - Tags: [[favorite]] 
 - We must feel as though we're following through on what we know is good and right; that we're chasing after "something better." Yet many of us struggle with the inability to control ourselves.
 - we are moved to action only by emotion. That's because action is emotion.
 - NEWTON'S FIRST LAW OF EMOTION: For Every Action, There Is an Equal and Opposite Emotional Reaction.
@@ -38,6 +37,5 @@ aliases: Everything is fucked
 - hope for nothing. Hope for what already is-because hope is ultimately empty.
 - When you attempt to barter for happiness, you destroy happiness. When you try to enforce freedom, you negate freedom When you try to create equality, you undermine equality,
 - The Formula of Humanity states, “Act that you use humanity, whether in your own person or in the person of any other, always at the same time as an end, never merely as a means
-    - Tags: [[favorite]] 
 - The quality of our lives is determined by the quality of our character, and the quality of our character is determined by our relationship to our pain.
 - The only true form of freedom, the only ethical form of freedom, is through self limitation. It is not the privilege of choosing every thing you want in your life, but rather, choosing what you will give up in your life

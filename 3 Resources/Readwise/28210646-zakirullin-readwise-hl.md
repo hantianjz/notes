@@ -13,7 +13,6 @@ aliases: Cognitive Load Developer's Handbook
 ## Highlights
 - Cognitive load is how much a developer needs to know in order to complete a task. ([View Highlight](https://read.readwise.io/read/01h1aw29w0tasjqfc686myt2mv))
 - Prefer composition over inheritance. ([View Highlight](https://read.readwise.io/read/01h1aw98s02x4tq130s0tmkank))
-    - Note: Object inheritance increase cognitive load by extending information. Composition create encapsulation allow single complex idea to be represented by a single entity.
 - **The best components are those that provide powerful functionality yet have simple interface.** 
   John K. Ousterhout ([View Highlight](https://read.readwise.io/read/01h1awgtemkem45ydt274gh395))
 - A well-crafted monolith with truly isolated modules is often much more convenient and flexible than a bunch of microservices. ([View Highlight](https://read.readwise.io/read/01h1c4p74vpqt8c2nm0k0589qm))

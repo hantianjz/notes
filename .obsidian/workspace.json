@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6b091b0e646c1a2a",
+        "id": "a54dac817973ef78",
         "type": "tabs",
         "children": [
           {
-            "id": "2064130b25a7567b",
+            "id": "8b30ef2ef26bd738",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
                 "source": false
               }
             }
@@ -157,8 +157,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2064130b25a7567b",
+  "active": "8b30ef2ef26bd738",
   "lastOpenFiles": [
+    "3 Resources/Readwise/27477016-Nir-Eyal-readwise-hl.md",
+    "Home.md",
     "3 Resources/Readwise/Readwise Syncs.md",
     "3 Resources/Readwise/39131104-John-Ousterhout-readwise-hl.md",
     "3 Resources/Readwise/36861048-readwise.io-readwise-hl.md",
@@ -183,8 +185,6 @@
     "3 Resources/Readwise/32494800-Farnam-Street-readwise-hl.md",
     "3 Resources/Readwise/32245996-Toby-Ord-readwise-hl.md",
     "3 Resources/Readwise/32245907-–Hardcover-over-paperback.-readwise-hl.md",
-    "3 Resources/Readwise/32189234-Gaurav-readwise-hl.md",
-    "3 Resources/Readwise/30005318-Paul-Graham-Essays-readwise-hl.md",
     "3 Resources/Readwise",
     "3 Resources/ELF/_attachments/Example executable file.png",
     "3 Resources/ELF/_attachments",
