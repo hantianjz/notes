@@ -1,13 +1,10 @@
 ---
-publish: false
-review-frequency: normal
 link:
-- '[[self improvement]]'
-- '[[advice]]'
-- '[[career]]'
-- '[[Notes todo]]'
+  - "[[self improvement]]"
+  - "[[advice]]"
+  - "[[career]]"
 tags:
-- idea
+  - idea
 ---
 # How to ask for help
 I believe asking for help can be art, it is something one should put some thoughts into.

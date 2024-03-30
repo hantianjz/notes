@@ -6,7 +6,6 @@ link:
 tags:
 - documentation
 ---
-
 # Common Vim tidbits
 
 ### Replace the whole buffer with output from command

@@ -527,7 +527,7 @@ We are leaving the gnss test lab now and going back to do some data analysis ove
 
 
 **2023-10-01**
-- [ ] Try out https://github.com/OutSystems/netemu/tree/master on rapi to create low latency slow network connection
+- [x] Try out https://github.com/OutSystems/netemu/tree/master on rapi to create low latency slow network connection ✅ 2024-03-18
 source: https://www.outsystems.com/blog/posts/simulate-slow-network/
 
 Y: Finished uploading wifi scan results in firmware, and some analysis of some modules not getting LLE update

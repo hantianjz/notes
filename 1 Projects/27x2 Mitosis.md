@@ -10,6 +10,44 @@ link:
   - "[[keyboard]]"
   - "[[firmware]]"
 ---
+**2024-03-02**
+- Still some pairing issue
+- but first need to fix the bootloader on the dongle
+    - https://devzone.nordicsemi.com/guides/short-range-guides/b/getting-started/posts/nrf52840-dongle-programming-tutorial
+`./nRF5_SDK_17.1.0_ddde560/examples/dfu/open_bootloader/pca10059_usb_debug/hex/open_bootloader_usb_mbr_pca10059_debug.hex`
+
+and it turns out was due to poor implementation of UICR erase.
+
+**2024-02-19**
+- Basic sanity feature is done.
+- A lot of corner cases that still needs to be ironed out mostly around the protocol stability part now
+    - Still observe frequent keys drop
+    - One side the board just goes out of sync
+    - When the dongle is unplugged, or power cycled, both keyboard unable to reconnect.
+    - I am not using gzp for pairing application on gzll protocol
+- Also my nrf dongle DFU update flow is broken, I need to fix that, or somehow use jlinking, or compile the program with a bootloader?
+
+**2024-02-01**
+Started by doing board layout, figure out the number of keys I want.
+
+I wanted a keyboard with slightly tighter layout while also being ortho linear.
+The keyboard needs to be wireless with dedicated rf that’s not Bluetooth/LE based for power and performance reasons.
+The keyboard should be able to run QMK or any dedicated FW.
+The keyboard should be low powered to live off a coin cell for few months.
+
+In theory matrix scanning should be more power intensive since it does more scanning and using gpio interrupts.
+I should test this!!!
+
+**2024-01-31**
+Components:
+- nrf51822 seed board
+- 51 ohm resistor
+- LED
+- mosfet![[592FBD16-DFF0-47D4-8CB7-FE893E0C8C8D_1_102_o.jpeg]]
+    ![[B2A12BCC-24F7-48A2-8FC9-CCC872DA72C0_1_102_o.jpeg]]
+
+**2024-01-28**
+-  Need to figure out how to get logging
 
 **2023-07-22**
 My keyboard requirement:

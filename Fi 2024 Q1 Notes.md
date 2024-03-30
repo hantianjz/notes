@@ -12,11 +12,415 @@ not done
 sort by created
 ```
 
+**2024-03-28**
+Y: More digging into 4.15 FW GPS performance data
+T: Push out 4.15.8 FW to 50%, revisit issue on aggressive retries on LTE report failures
+
+**2024-03-27**
+Y: Digging into 4.15 GPS stats understanding the lower positioning success rate.
+T: Discuss pushing 4.15.8 to more external users
+
+**2024-03-26**
+Y: Monitoring 4.15.8 rollout, Starting on GNSS continuous mode on BLE break
+T: Continue working on GNSS continuous mode on BLE break
+
+**2024-03-25**
+Y: testing yet another hot fix for 4.15 release, Pushed out location actor mega PR 
+T: More testing on location actor, maybe push out 4.15.8 hot fix to stable-rollout
+
+- Initial state: Module last backhaul that was a stable BLE or WIFI backhaul, where more than more than **Y** success report.
+- Ble/Wifi break, force enter into LTE backhaul, enable LDM and later sent LTE report. (If from firmware trigger LDM LED pattern?)
+- Next report, module inform backend LDM is on, server decide if continue LDM or disable it in next response.
+    - Module connected to mobile/base/wifi with more than **x** count of success report in safe zone.
+    - Module connected to mobile with more than **x** minutes/success report of continues connection, disable LDM.
+- If LTE registration fails, and in backoff disable LDM?
+
+**2024-03-19**
+Y: Pushing 4.15.6 to 10K external users, and more location actor testing, and slightly refactor for brain.
+T: Continue monitor 4.15.6 and continue testing location actor.
+
+Test plan:
+- Boot window delay 70 sec
+Repeat w/ and w/o Live tracking:
+- BLE -> Wifi
+- BLE -> Wifi bad -> LTE
+- Wifi good -> Wifi retry
+- Wifi bad -> LTE
+- Wifi good -> BLE
+- LTE -> Wifi
+- LTE -> BLE
+
+- LTE -> live tracking LTE
+- Live tracking LTE -> LTE
+- LTE NO REG start backoff
+
+**2024-03-18**
+Y: location actor changes
+T: investigating 4.15.6 releases and deciding to push to more external users
+
+- [x] Fix `../../src/libgnss_cxd5605/fi_cxd5605_gnss_server.c:94` ✅ 2024-03-25
+
+/filog 3/18/2024 'Pushed S3 FW 4.15.6 to stable-rollout channel for 11K users'
+
+
+**2024-03-15**
+Y: pushing 4.15.6 to 1000 external users, and pushing new brain changes
+T: Getting location actor changes tested, and PRed. And start getting various location performance changes that was pending pushed and tested.
+
+**2024-03-14**
+
+Y: releasing 4.15.6 to 100 external users, analyzing the release metrics 
+T: getting location actor ready for pr
+
+- [x] Update team on status of 4.15.6 rollout
+- [x] Need to figure out why CXD5605 FW erased crash
+
+**2024-03-13**
+Y: Analyzing 4.15 release and preparing for external release, fixing some test rack flakiness 
+T: Release 4.15 for 100 external users, continue work with location actor
+
+```
+zQIKygJYsJQEYP2YvyByLG9MeDRnRldHc3lyUzdiWmI5WXcyYUE1MFlaeG40djV1bDIvdFBLOVpabkU9mgEAsgEdCMMBEMMBIKAfKPcBMPsBOPsBQMT//////////wG4AQTAAQfKASEKCQjoDxADGA0wAxIJCOgPEAMYDTADGgkI6A8QAxgNMAOSAmIQRBjhHiBdKAMwqgE4+gFFAOA4RUioAVDa//////////8BWPkBYOj+/////////wFonnlyEAgJCw0LCgsLCwwNEBo0xwF4qAGAAagBiAH4AZAB+QGYAUSgAUSoAYkCsAHvB5oCXgodCAQQDxgGIhUzMjE2ZmYyMjktZmMzX2YzLXByb2QSIAgEEA8YAyIYZWI0NDg1ODM5LWZjM19mMy1wcm9kLWJsGhcIAhgDIhFtZndfbnJmOTE2MF8xLjMuMSICEEUCWgCmASqjAQi4DyABKAIwBzhNQN4+SAJ4A4ABRogBvgWQATGYAQOgAQOwAZCKBLgBogTIAey4AtABsWbYAQOIAvMFoAKLHcACy/VMyAKIvRTYAvOWQ+gClQPwAuRZ+AL7NYADlU6gA8UJyAMD4AMDqASsxQSwBNCwA7gEhk/ABIO6A8gE0GrQBOID2ASqXOAEl6ICoAUB2AUU4AUF6AX1BvAFWYAGtgKYBmgCYgD2BFLzBBC5Ch0O9CJCJQ34k8ItZmZmP1ABWgcIBBA+GN0BWgcIBxAOGKoCWgcICBAhGLoBWgcICRAsGKkCWgYIEBBCGCRaBggSEAcYOloGCBoQIxg7WgcIGxA6GI4BWgQIHBhxWgYIHxAYGGliBwhBEBwYvgJiBwhHEBMYxAFiBwhIEC8Y9gFiBghJEB8YO2IJCEsQHRidAiAGYgYIUhADGA1iBghTEBkYMWIGCFQQGBh3agcIAhBLGKoCagcIAxApGLIBagcIBxAUGL0CagcICBA9GIsCagYIGRApGDRqBwgeEBoY+gFqBggkEAQYfXIOKgwAAAAAAAAAAAAAAAB6DioMAAAAAAAAAAAAAAAAggEOKgwAAAAAAAAAAAAAAACNAQAAgL+iAQkI6A8QAxgNMAOqAQkI6A8QAxgNMAOyAQkI6A8QAxgNMAO4AQHAAZTOxq8G0AGJAeABAfIBHhCwCh0O9CJCJQ34k8ItAACAvzgBTQAAQEBVAABAQPIBEhCxCh0O9CJCJQ34k8ItAACAv/IBHhCyCh0O9CJCJQ34k8ItAACAvzgBTQAAsEFVAACwQfIBHhCzCh0O9CJCJQ34k8ItAACAvzgBTQAAYEFVAABgQfIBHhC0Ch0O9CJCJQ34k8ItAACAvzgBTQAA4EBVAADgQPIBHhC1Ch0O9CJCJQ34k8ItAACAvzgCTQAAIEFVAABQQfIBHhC2Ch0O9CJCJQ34k8ItAACAvzgCTQAAMEFVAABAQfIBHhC3Ch0O9CJCJQ34k8ItAACAvzgBTQAAmEFVAACYQfIBHhC4Ch0O9CJCJQ34k8ItAACAvzgDTQAAEEFVAAAwQRBCDgoMCgpBbmNob3JEb3du
+```
+
+**2024-03-11**
+Y: fixing corner cases and testing for new location actor to fix lte reporting interval
+T: adding some timeout and safety check into location actor, also create corresponding flow diagram for the complex state machines
+
+- LTE one-shot cycle every 1 minute
+- LTE one-shot cycle every 5 mins
+- LTE live tracking
+- LTE registration FAIL
+- 
+
+**2024-03-06**
+- Still need a timeout mechanism 
+- And a lot more unit test in brain
+- also complete the flow chart diagrams
+- Fix system when AGNSS is needed but FAILS or throttled
+- Also report due during live tracking may still NOT be working
+- Force LTE report needs to be fixed
+
+With mobile ble:
+1. While the module is connected to base/Wifi, start LDM
+2. Go take a walk around, with the mobile app Bluetooth enabled
+3. Come home, disable LDM
+
+Without mobile ble:
+1. Leave the house with mobile app bluetooth disabled.
+2. enable LDM, walk around
+3. come home, and disable LDM
+```mermaid
+---
+title: HSM
+---
+stateDiagram-v2
+
+[*] --> WIFI_Scan: if elapse 70 sec without BLE
+[*] --> BLE_establishing: BLE PAIRED
+
+state BLE {
+    BLE_establishing --> BLE_submit_report: negotiated params
+    BLE_submit_report --> BLE_idle
+    BLE_idle --> BLE_submit_report: if report is due since last sent
+}
+
+WIFI_Scan --> WIFI_connecting: found AP
+WIFI_Scan --> no_connection: NO AP
+
+state WIFI {
+    WIFI_connecting --> WIFI_connected: after ws connect and cool down
+    WIFI_connected --> WIFI_send_report
+    WIFI_idle --> WIFI_send_report: if report is due since last sent
+    WIFI_send_report --> WIFI_idle
+}
+
+WIFI --> no_connection: WIFI_DISCONNECT
+
+state LTE {
+    LTE_idle --> LTE_net_ready: DATA_FOR_LTE_REPORT
+    LTE_net_ready --> LTE_send_report
+    LTE_send_report --> LTE_idle
+    LTE_net_ready --> no_connection: NET_REG_FAIL
+}
+
+LTE_idle --> no_connection: gnss NOT runing
+LTE_idle --> BLE_establishing: BLE PAIRED
+LTE_idle --> WIFI_Scan: TRY_WIFI_CONNECT
+
+no_connection --> WIFI_Scan: TRY_WIFI_CONNECT
+no_connection --> LTE_idle: SEND_LTE_REPORT
+no_connection --> BLE_establishing: BLE PAIRED
+
+note left of no_connection
+HSM main loop:
+    if brain_next_scheduled_report_ts() < now():
+        NEXT_BACKHAUL = check_next_backhual()
+        if NEXT_BACKHAUL == LTE
+            START_GPS()
+        elif NEXT_BACKHAUL == WIFI
+            TRY_WIFI_CONNECT()
+end note
+
+note left of LTE
+    Conditions to send LTE report:
+    - Location Actor have published FIX
+    - Wifi scan result exist, but location actor unlikely get a fix
+    - live tracking and report due
+    - Pending agnss, NOT positioning
+end note
+```
+
+```mermaid
+---
+title: Location Actor
+---
+stateDiagram-v2
+
+IDLE --> STARTING_POSITION: LIVE_TRACKING || ONE_SHOT
+STARTING_POSITION --> GNSS_POSITIONING: BREADCRUMBS FIX
+STARTING_POSITION --> GNSS_WAITING_LLE: AGNSS_NEEDED
+GNSS_WAITING_LLE --> GNSS_STOP: GPS_STOP(AGNSS_FAILED, issued from HSM)
+GNSS_POSITIONING --> STARTING_POSITION: New ONE_SHOT
+GNSS_POSITIONING --> GNSS_STOP: ONE_SHOT COMPLETE && !LIVE_TRACKING
+GNSS_STOP --> GNSS_STOPPING
+GNSS_STOPPING --> PUBLISH_FIX: CXD5605 DISABLED
+PUBLISH_FIX --> IDLE
+
+note left of IDLE
+bool fi_location_actor_is_live_tracking();
+bool fi_location_actor_is_pending_agnss();
+fi_submission_server_gnss_report_state_t fi_location_actor_get_report_state();
+bool fi_location_actor_likely_geting_fix();
+void fi_location_actor_get_location_info();
+end note
+```
+
+
+- Need a check before actually sending lte report that we should send it
+- Shutdown gnss if lte registration fails?
+- Need to make sure the fix report type don’t get messed up when dispatched 
+
+Y: Got a proof of concept location server in module FW working, that will handle a lot of module reporting interval during LTE
+T: More work on fixing module reporting intervals
+
+**location server**:
+```
+    main loop
+        Is current backhaul NOT BLE or WIFI? And is there a report scheduled soon?
+            S1: If so turn on CXD5605 and start positioning
+                S1.1 LLE or UTC is needed from CXD5605, position can't start
+                    S1.1.1 Shutdown CXD5605, we have a failed CXD5605, go to S1.3
+                S1.2 CXD5605 position start one shot
+                    S1.2.1 Found fix, go to S1.3
+                    S1.2.2 Timed out no fix found, go to S1.3
+                S1.3 CXD5605 is stopped
+                    Go back to idle
+            S2: Else do nothing
+        Is live tracking turned on:
+            S3: turn on CXD5605 and start positioning
+                S3.1 LLE or UTC is needed from CXD5605, position can't start
+                    Wait until LLE is complete
+```
+Query for location server:
+- Get latest fix report
+    - May return:
+        - Invalid report (positioning never started)
+        - Latest report with invalid fix
+        - Latest report with valid fix
+- Is positioning still running?
+- Is live tracking right now?
+
+**HSM**:
+```
+no-connection:
+    have a report scheduled to be sent now.
+        S1: Is positioning running and is there an valid fix?
+          . Is there wifi scan data?
+            If not do nothing
+```
+
+**Brain**:
+- check 
+
+**2024-03-05**
+- location server
+- If the module did not start CXD5605 for some reason, we should still send up report at expected interval
+
+- Start GNSS 20 seconds before needing to send a report
+    - GNSS start positioning
+        - LLE is needed
+            - Signal new report to be send
+        - LLE is downloaded
+            - Location server have been waiting, we should start positioning
+        - Position starts
+            - Getting reports
+            - A valid fix is found
+                - Signal new report to be send
+            - Timed waiting for a valid fix
+                - signal new report to be send
+        - Reporter wish to send a report, get the current position and breadcrumb infos and send report
+- When NOT live tracking, and backhaul is NOT LTE or NONE shutdown GPS
+
+HSM:
+- Should try to send GPS packet
+- Ask LS for GNSS fix, if there a fix get it, if not also send it
+    - Get the next burst from breadcrumb pretty much
+- Send the scheduled report....
+- If GNSS timeout or get a fix later, send up another report
+
+**2024-03-04**
+- Start GPS position fix
+    - Send Wifi scan info early
+    - GPS fix found
+    - GPS fix fail timeout after 2mins
+- LTE Net ready
+    - Get neighbor cell (a few seconds)
+- Generate report
+- Send report
+- Get report response (Maybe also LLE data)
+- Inject LLE (8 seconds to inject, a few seconds to download LLE)
+
+**2024-02-28**
+Y: more work on getting lte submission report retry
+T: monitor 4.15.5 rollout and continue debugging a pubsub crash in new lte state machine 
+
+nrf52 Bootloader update flow
+1. Update Internal Fi users to latest 4.15 App FW
+2. Update Internal Fi users to latest 4.15 BL FW
+3. Rollback Internal Fi users from 4.15 App FW to 4.13 FW
+Ensure all users running older nrf52 App with latest BL FW are running okay and start general fleet rollout.
+
+Rollout flow for the general fleet:
+1. New test channel of 1000 users update to latest 4.15 BL+App FW
+2. Rollback 1000 users back to older 4.13 App FW
+3. New FW channel user get latest 4.15 BL+App FW, go through standard rollout flow of 100->1000->10000, etc units
+
+Thinking through how re-transmitting submission reports a few wrinkles comes up:
+- If the report submission fails during upload, re-transmission make sense, since backend haven't got a new report yet
+- But if the report submission fails during downloading response data should we immediately re-transmit?
+    - Leaning towards yes?
+    - LLE data download will be throttled, so it shouldn't cause too many large data re-transmission
+    - But backend would have 2 copy of the duplicated report, will need to somehow discard the repeated one?
+- If we are re-transmitting should try to send the exact same data again? or re-create the submission report, since various stats counters will have changed after the first report.
+    - If we recreate the submission report, and mark it as a re-transmission package, maybe that will allow backend to better handle the duplicate report?
+    - Does this mean "central actor" need to be the one issuing the re-transmission logic?
+
+**2024-02-27**
+Y: Adding early LTE report during gps fix, and fixing a few 4.15 release bugs, and tuning timeout for neighbor cell scan
+T: Cutting a new 4.15 release and continue on LTE state machine work
+
+**2024-02-26**
+Y: push out lte state machine extraction
+T: work on early send lte report during gps fixing, and lte report resend on failure
+
+**2024-02-23**
+LTE State machine TODO:
+- [ ] Fix OTA finalize step
+- [x] Fix ncell fetch, and timeout ✅ 2024-02-28
+- [ ] Also still getting pubsub crashes for some reason
+
+**2024-02-22**
+Y: another 4.15.x release and testing bootloader changes, and working on lte state machine extraction 
+T: more lte state machine work, look into accel data sample rate issue from kennel cam data
+
+**2024-02-20**
+Y: debugging the bootloader update in the backend with FW version flapping
+T: Cut a new FW release with application + bootloader, and test bootloader FW update
+
+4.15 App FW change log
+- Upload firmware version via device manifest struct in basic info
+- Upload total 10 neighbor cell tower info on lte report, up from 5.
+- Breadcrumb data as part of gnss data
+- Live tracking use CXD5605 collect gnss data even while in BLE/Wifi mode
+- Sample + upload BLE RSSI data
+4.15 BL FW change log
+- Delay bootloader startup with 100ms for power rail to settle
+- Fix DFU update
+
+**2024-02-19**
+- [x] Investigate into accel sample rate ✅ 2024-02-23
+
+**2024-02-14**
+Y: Continue migrating LTE state machine into modem server and discussion on the design
+T: hopefully finished up the lte state machine migration 
+
+For some reason LLE download takes a long time, like we are not polling the socket?
+
+**2024-02-12**
+Y: Some adjustment to how bootoader update is triggered via mobile, and revising FW and backend changes
+T: get web backend for bootloader changes finalized and continue working on extracting LTE state machine into modem server
+
+**2024-02-09**
+Y: follow up discussion on bootloader update and changing how app read fw version from module
+T: work on extracting lte sub state machine into modem server.
+
+- [x] Write up CXD5605 boot status unknown CX triage step ✅ 2024-02-14
+- [ ] Write up firmware update over mobile trigger via submission report 
+
+EOD: finished up some work for graphql q
+
+**2024-02-08**
+Y: Start extracting LTE sub state machine out of HSM, and a bit more follow up bark detection bug fixes.
+T: Follow up on backend bootloader update PR, and continue with extracting LTE sub state machine out of HSM.
+
+**2024-02-07**
+Y: wrap up bark detection work, investigate module with unknown gnss boot status
+T: continue with unknown gnss boot status investigation 
+
+**2024-02-05**
+Y: doing some code cleaning up on bark detection arduino code
+T: continue with bark detection work
+
+**2024-02-01**
+Y: Finally cleaned up bootloader update backend PR, and unit tests
+T: Doing some bootloader update test, and look to pick up new FW task
+
+
+
+**2024-01-30**
+Y: cleaned up backened bootloader update logic
+T: testing db interactions for upload and downloading bootloader firmware
+
+**2024-01-29**
+Y: traveling back from NYC
+T: continue web backend changes for bootloader update, figuring out how to upload  fw via endpoint into database 
+
+**2024-01-23**
+Y: digging into web backend on how firmware update work, and figuring out how to add bootloader update logic
+T: Continue working on bootloader update, and traveling to NYC
+
+The phone needs to get 
+
+**2024-01-22**
+Y: got new bootloader version flash section setup and uploading bootloader version
+T: cleanup the bootloader version changes and start looking into backend process for handling bootloader update 
+
+**2024-01-19**
+Y: finish write up kennel cam data streaming changes
+T: adding fw to send up bootloader fw version via device manifest
+
+4.8.22 `BL version: 1699388787 c6a2d6f7`
+4.8.11 `BL version: 1684865802 e0906b24`
+
+
+**2024-01-18**
+Y: Updating new kennel cam script to all rpi in the kennel, and writing up kennel cam data stream changes
+T: Push new lick detection feature to internal fi users, hopefully finish up writing up for kennel cam 
+
+**2024-01-17**
+Y: Fixing kennel cam BLE compatibility issue, add backend support for device manifest msg
+T: Writing up kennel cam, data stream changes, and proposed timestamp smoothing strategy.
+
+**2024-01-16**
+Y: Prior to OOO yesterday, Create a new FW and Rpi release to Kennel cam to start fixing the data timestamping issue
+T: Validate the test data uploaded for kennel cam, and start working on bootloader
+
 **2024-01-12**
 Y: Discussion and planning to fixing timestamping issue with sensor data collection a kennel cam, GPS failure case study meeting
 T: More GPS failure case study meeting, getting a new deployment of sensor data collection at kennel cam to start fixing timestamp issues.
 
-- [ ] Need to figure out how to update ntp on balena rpi
+- [x] Need to figure out how to update ntp on balena rpi ✅ 2024-02-01
 - [ ] something wrong with collar when time is set
 
 Loren review 
@@ -519,7 +923,7 @@ Dwjp574COggIDRASGAUgAQ8I8/++AjoICBIQEhgRIAEPCP//vgI6CAgSEA0YDyABDwiI/8ECOggIDRAS
 Y: work on module version manifests, pushed latest base fw to Fi internal users
 T: analyze base releases data, cut new ble v2.1 module fw to new behavior detection feature
 
-- [ ] Update LLE Throttle to 100%?
+- [x] Update LLE Throttle to 100%? ✅ 2024-03-18
 - [x] Fix fwup via base handoff not happening ✅ 2024-01-08
 
 **2024-01-04**

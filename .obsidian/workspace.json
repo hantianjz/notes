@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f27b366dee6e8b9f",
+        "id": "6b091b0e646c1a2a",
         "type": "tabs",
         "children": [
           {
-            "id": "9bc2f19357800668",
+            "id": "2064130b25a7567b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -39,7 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -62,7 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 200
   },
   "right": {
     "id": "45d80901c3a7f1f1",
@@ -130,71 +130,80 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "18819161ac260714",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 246.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
-      "omnisearch:Omnisearch": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "daily-notes:Open today's daily note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "9bc2f19357800668",
+  "active": "2064130b25a7567b",
   "lastOpenFiles": [
-    "3 Resources/Readwise/Articles/That Numbness You’re Feeling There’s a Word for It..md",
-    "3 Resources/Readwise/Books/Dopamine Nation.md",
-    "3 Resources/Readwise/Articles/I’ve Never Had a Goal.md",
-    "3 Resources/Readwise/Articles/Fast Times on America’s Slowest Train.md",
-    "3 Resources/Readwise/Articles/Projects.md",
-    "3 Resources/Readwise/Articles/Use Strategic Thinking to Create the Life You Want.md",
-    "3 Resources/Readwise/Articles/A Coder Considers the Waning Days of the Craft.md",
-    "3 Resources/Readwise/Articles/What if Money Expired.md",
-    "3 Resources/Readwise/Articles/Does Go Have Subtyping.md",
-    "3 Resources/Readwise/Articles/On Importance of Naming in Programming.md",
-    "3 Resources/Readwise/Articles/Elon's Decision Making An Anecdote Compilation.md",
-    "3 Resources/Readwise/Articles/Return to Office Is Bullshit and Everyone Knows It.md",
-    "3 Resources/Readwise/Articles/Portability and the C Language.md",
-    "3 Resources/Readwise/Articles/Software Packaging Is a Nightmare.md",
-    "3 Resources/Readwise/Articles/Hunter S. Thompson’s Letter on Finding Your Purpose and Living a Meaningful Life.md",
-    "3 Resources/Readwise/Articles/The Lindy Effect.md",
-    "3 Resources/Readwise/Articles/These 38 Reading Rules Changed My Life.md",
-    "3 Resources/Readwise/Articles/Apple Is World's First $3 Trillion Company.md",
-    "3 Resources/Readwise/Articles/How to Do Great Work.md",
-    "3 Resources/Readwise/Books/The Pathless Path.md",
-    "3 Resources/Readwise/Articles/The Ultimate Deliberate Practice Guide How to Be the Best.md",
-    "3 Resources/Readwise/Articles/Professional Development Is a Choice.md",
-    "3 Resources/Readwise/Articles/Why note-taking apps don’t make us smarter.md",
-    "3 Resources/Readwise/Articles/Building Personal and Organizational Prestige.md",
-    "3 Resources/Readwise/Articles/Aristotle’s Rules for Living Well.md",
-    "3 Resources/Readwise/Articles/Cognitive Confinement in Narrative Prisons.md",
-    "3 Resources/Readwise/Articles",
-    "3 Resources/Readwise/Books",
+    "3 Resources/Readwise/Readwise Syncs.md",
+    "3 Resources/Readwise/39131104-John-Ousterhout-readwise-hl.md",
+    "3 Resources/Readwise/36861048-readwise.io-readwise-hl.md",
+    "3 Resources/Readwise/38223234-Alexandre-Dumas-readwise-hl.md",
+    "3 Resources/Readwise/38153276-Tim-Ferriss-readwise-hl.md",
+    "3 Resources/Readwise/38009524-Cory-Doctorow-readwise-hl.md",
+    "3 Resources/Readwise/36979211-Paras-Chopra-readwise-hl.md",
+    "3 Resources/Readwise/36326684-Dr.-Anna-Lembke-readwise-hl.md",
+    "3 Resources/Readwise/36386848-httpswww.nytimes.combyadam-grant-readwise-hl.md",
+    "3 Resources/Readwise/36278470-Jason-Fried-readwise-hl.md",
+    "3 Resources/Readwise/35938177-Harrison-Scott-Key-readwise-hl.md",
+    "3 Resources/Readwise/35820261-Siddhesh-readwise-hl.md",
+    "3 Resources/Readwise/35813560-Rainer-Strack,◙Susanne-Dyrchs,◙Allison-Bailey-readwise-hl.md",
+    "3 Resources/Readwise/35755307-James-Somers-readwise-hl.md",
+    "3 Resources/Readwise/35563372-Jacob-Baynham-readwise-hl.md",
+    "3 Resources/Readwise/34095764-stuffwithstuff.com-readwise-hl.md",
+    "3 Resources/Readwise/33183300-Martin-Sosic-readwise-hl.md",
+    "3 Resources/Readwise/33181782-Jose-Luis-Ricon-readwise-hl.md",
+    "3 Resources/Readwise/32780749-Soatok-readwise-hl.md",
+    "3 Resources/Readwise/32707337-wikibooks.org-readwise-hl.md",
+    "3 Resources/Readwise/32703325-PolyWolf-on-cohost-readwise-hl.md",
+    "3 Resources/Readwise/32494800-Farnam-Street-readwise-hl.md",
+    "3 Resources/Readwise/32245996-Toby-Ord-readwise-hl.md",
+    "3 Resources/Readwise/32245907-–Hardcover-over-paperback.-readwise-hl.md",
+    "3 Resources/Readwise/32189234-Gaurav-readwise-hl.md",
+    "3 Resources/Readwise/30005318-Paul-Graham-Essays-readwise-hl.md",
     "3 Resources/Readwise",
-    "3 Resources/Programming/Effective Modern Cpp/_attachments/Effective_Modern_C__.pdf",
-    "4 Archives/Readwise/Articles",
-    "4 Archives/Readwise/Books",
-    "4 Archives/Readwise",
-    "7 Fleeting",
+    "3 Resources/ELF/_attachments/Example executable file.png",
+    "3 Resources/ELF/_attachments",
+    "2 Areas/Child Care",
+    "3 Resources/Hardware/SAMD21/_attachments/SAM-D21DA1-Family-Data-Sheet-DS40001882G.pdf",
+    "3 Resources/Hardware/nRF52/nRF52840_PS_v1.8.pdf",
+    "3 Resources/Linkers & loaders/Linkers & Loaders.pdf",
+    "3 Resources/Linkers & loaders",
+    "3 Resources/Hardware/nRF52",
+    "3 Resources/ELF",
+    "2 Areas/Cooking Receipts",
+    "_attachments/Pasted image 20240206112105.png",
+    "1 Projects/_attachments/592FBD16-DFF0-47D4-8CB7-FE893E0C8C8D_1_102_o.jpeg",
+    "1 Projects/_attachments/B2A12BCC-24F7-48A2-8FC9-CCC872DA72C0_1_102_o.jpeg",
     "_attachments/Pasted image 20231112110613.png",
     "_attachments/Pasted image 20231115200826.png",
     "_attachments/Pasted image 20240103222531.png",
     "_attachments/Pasted image 20240103183842.png",
     "3 Resources/_attachments/Pasted image 20231218110125.png",
-    "3 Resources/_attachments/Pasted image 20231120134015.png",
-    "3 Resources/_attachments/Pasted image 20231120133822.png",
-    "_attachments/Pasted image 20231106200314.png",
-    "1 Projects/Writing",
-    "6 Database",
-    "3 Resources/_attachments/Pasted image 20231104214256.png",
-    "3 Resources/_attachments/Pasted image 20231029094214.png"
+    "3 Resources/_attachments/Pasted image 20231120134015.png"
   ]
 }

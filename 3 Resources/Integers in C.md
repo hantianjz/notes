@@ -1,15 +1,11 @@
 ---
-publish: true
-review-frequency: normal
 link:
-- '[[C]]'
-- '[[integers]]'
-- '[[data structure]]'
+  - "[[C]]"
+  - "[[integers]]"
+  - "[[data structure]]"
 tags:
-- idea
+  - idea
 ---
-2021-12-29-We
-
 # Intergers in C
 
 # A Quiz About Integers in C

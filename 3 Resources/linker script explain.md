@@ -9,7 +9,6 @@ link:
 tags:
 - documentation
 ---
-
 # linker script explain
 
 ## Output Format

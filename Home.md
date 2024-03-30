@@ -6,6 +6,16 @@ link:
 ---
 [[Daily 2024 Q1]]
 [[Fi 2024 Q1 Notes]]
+
+# TODO Project Ideas
+- ELF exploration
+    - Goal: A ELF file explorer
+- Learning the bladerf system
+    - Learn how to do FPGA
+    - How the FX3 work, the protocol that interact with the host system
+    - What can the FX3 control and use
+- USB protocol
+    - Learn how to build a USB protocol analyzer
 # [[unsorted]]
 ```tasks
 short mode

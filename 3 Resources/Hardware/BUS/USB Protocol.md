@@ -1,13 +1,10 @@
 ---
-publish: true
-review-frequency: normal
 link:
-- '[[USB]]'
-- '[[Phy Protocol]]'
+  - "[[USB]]"
+  - "[[Phy Protocol]]"
 tags:
-- documentation
+  - documentation
 ---
-
 # USB Protocol
 
 # Chapter 8: Protocol Layer (USB2)

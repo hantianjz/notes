@@ -6,6 +6,52 @@ link:
   - "[[journal]]"
 ---
 
+https://www.wayfair.com/furniture/pdp/allmodern-williams-4-drawer-38-w-solid-wood-chest-w003550302.html?piid=1335958028
+
+**2024-03-27**
+16k
+
+6k mortgage 
+4k kid
+2k food
+1k misc
+
+
+
+**2024-03-23**
+500m 3:05min
+200m 2:00
+
+**2024-03-18**
+https://standardebooks.org/ebooks
+
+**2024-03-08**
+B6 25 mg 2-3x up to 100mg
+Unisome with doxykamine 
+Prune juice for constipation
+
+**2024-02-21**
+恣逸
+珠逸
+轩逸
+
+**2024-02-20**
+email: jamzhao@gmail.com
+pw: 47xc9dVrY1!
+83 Alpine st, MA, 02144
+(650) 686-8977
+
+
+![[Pasted image 20240206112105.png]]
+**2024-01-21**
+- TDAP/TD
+- Flu
+
+**Blood test**:
+- MMR IGG titter
+- hepatitis B surface AB titter
+- Varicella IGG titter 
+
 **2024-01-07**
 
 Found a way to write obsidan nodes from neovim

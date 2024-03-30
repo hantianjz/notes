@@ -47,7 +47,7 @@ view system information
 - `system_profiler <datatype>` only prints information about the given sub-system.
 - `system_profiler -listDataTypes` lists all available sub-systems to get information from.
 
-- `system_profile SPUSBDataType` ***List USB devices similar to lsusb on Linux***
+- `system_profiler SPUSBDataType` ***List USB devices similar to lsusb on Linux***
 
 - `system_profiler SPHardwareDataType` prints an overview of the hardware of the current machine, including its model name and serial number.
 - `system_profiler SPSoftwareDataType` prints an overview of the software of the current machine, including the exact macOS version number.

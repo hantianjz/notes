@@ -1,12 +1,9 @@
 ---
-publish: false
-reviewed: 2023-04-03
-review-frequency: ignore
 link:
-- '[[tax]]'
-- '[[documents]]'
+  - "[[tax]]"
+  - "[[documents]]"
 tags:
-- list
+  - list
 ---
 
 # Tax Documents Checklist

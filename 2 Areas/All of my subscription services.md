@@ -8,11 +8,8 @@ link:
   - "[[subscriptions]]"
   - "[[budgetting]]"
 ---
-2023-05-25-Th
-
 # All of my subscription services
-- Obsidian sync/publish (Annual)
-- Youtube Premium
+- Obsidian sync (Annual)
 - Lightroom adobe
 - NYT
 - Boston Globe
@@ -23,3 +20,6 @@ link:
 - ACLU
 - Japanese App
 - Chess.com
+- Apple Music
+- Apple iCloud
+- Coffee

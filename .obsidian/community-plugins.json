@@ -11,5 +11,6 @@
   "obsidian-tracker",
   "obsidian-vimrc-support",
   "readwise-official",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-linter"
 ]

@@ -10,9 +10,11 @@ tags:
 ---
 ## Main template 
 ```python
+import sys
+
 def main():
-	pass
+	return 0
 	
 if __name__ == "__main__":
-  main()
+  sys.exit(main())
 ```
