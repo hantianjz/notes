@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "reviewed": "date",
-    "date published": "date"
+    "date published": "date",
+    "link": "multitext"
   }
 }

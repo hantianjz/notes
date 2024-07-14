@@ -11,3 +11,8 @@ Shoulder（肩宽） 43cm
 Chest（胸围）:91cm
 Waist（腰围）: 90cm
 hip（臀围）: 105cm
+
+Neck: 39 cm
+Arm: 73 cm
+Shoulder 43cm
+Chest 95cm

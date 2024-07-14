@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a54dac817973ef78",
+        "id": "a3a073bdfffb704d",
         "type": "tabs",
         "children": [
           {
-            "id": "8b30ef2ef26bd738",
+            "id": "4fb5c902c038d1e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "3 Resources/Readwise/27477016-Indistractable-readwise-hl.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "3 Resources/Readwise/27477016-Indistractable-readwise-hl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "3 Resources/Readwise/27477016-Indistractable-readwise-hl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "3 Resources/Readwise/27477016-Indistractable-readwise-hl.md"
               }
             }
           },
@@ -140,11 +140,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 246.5,
+    "width": 275.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -152,41 +152,50 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "daily-notes:Open today's daily note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8b30ef2ef26bd738",
+  "active": "4fb5c902c038d1e4",
   "lastOpenFiles": [
+    "Home.md",
     "3 Resources/Readwise/Readwise Syncs.md",
-    "3 Resources/Readwise/39131104-John-Ousterhout-readwise-hl.md",
-    "3 Resources/Readwise/36861048-readwise.io-readwise-hl.md",
-    "3 Resources/Readwise/38223234-Alexandre-Dumas-readwise-hl.md",
-    "3 Resources/Readwise/38153276-Tim-Ferriss-readwise-hl.md",
-    "3 Resources/Readwise/38009524-Cory-Doctorow-readwise-hl.md",
-    "3 Resources/Readwise/36979211-Paras-Chopra-readwise-hl.md",
-    "3 Resources/Readwise/36326684-Dr.-Anna-Lembke-readwise-hl.md",
-    "3 Resources/Readwise/36386848-httpswww.nytimes.combyadam-grant-readwise-hl.md",
-    "3 Resources/Readwise/36278470-Jason-Fried-readwise-hl.md",
-    "3 Resources/Readwise/35938177-Harrison-Scott-Key-readwise-hl.md",
-    "3 Resources/Readwise/35820261-Siddhesh-readwise-hl.md",
-    "3 Resources/Readwise/35813560-Rainer-Strack,◙Susanne-Dyrchs,◙Allison-Bailey-readwise-hl.md",
-    "3 Resources/Readwise/35755307-James-Somers-readwise-hl.md",
-    "3 Resources/Readwise/35563372-Jacob-Baynham-readwise-hl.md",
-    "3 Resources/Readwise/34095764-stuffwithstuff.com-readwise-hl.md",
-    "3 Resources/Readwise/33183300-Martin-Sosic-readwise-hl.md",
-    "3 Resources/Readwise/33181782-Jose-Luis-Ricon-readwise-hl.md",
-    "3 Resources/Readwise/32780749-Soatok-readwise-hl.md",
-    "3 Resources/Readwise/32707337-wikibooks.org-readwise-hl.md",
-    "3 Resources/Readwise/32703325-PolyWolf-on-cohost-readwise-hl.md",
-    "3 Resources/Readwise/32494800-Farnam-Street-readwise-hl.md",
-    "3 Resources/Readwise/32245996-Toby-Ord-readwise-hl.md",
-    "3 Resources/Readwise/32245907-–Hardcover-over-paperback.-readwise-hl.md",
-    "3 Resources/Readwise/32189234-Gaurav-readwise-hl.md",
-    "3 Resources/Readwise/30005318-Paul-Graham-Essays-readwise-hl.md",
+    "3 Resources/Readwise/42329243-The-Great-Flattening-readwise-hl.md",
+    "3 Resources/Readwise/28210646-Cognitive-Load-Developer's-Handbook-readwise-hl.md",
+    "3 Resources/Readwise/41769367-Dangerous-Protocols-readwise-hl.md",
+    "3 Resources/Readwise/42249607-Statecharts-a-visual-formalism-for-complex-systems-readwise-hl.md",
+    "3 Resources/Readwise/41746196-The-Art-of-Doing-Science-and-Engineering-readwise-hl.md",
+    "3 Resources/Readwise/41746195-Storyworthy-readwise-hl.md",
+    "3 Resources/Readwise/41439621-How-to-Understand-Things-readwise-hl.md",
+    "3 Resources/Readwise/39131104-A-Philosophy-of-Software-Design-readwise-hl.md",
+    "3 Resources/Readwise/41320666-A-Summary-of-“Breath”-–-A-Book-by-J.-Nestor-readwise-hl.md",
+    "3 Resources/Readwise/41746197-Flash-Boys-readwise-hl.md",
+    "3 Resources/Readwise/41290947-100-Ways-To-Live-Better-readwise-hl.md",
+    "3 Resources/Readwise/41143898-The-Indispensability-of-Risk-readwise-hl.md",
+    "3 Resources/Readwise/41746198-Slow-Productivity-readwise-hl.md",
+    "3 Resources/Readwise/41746199-Taking-the-Work-Out-of-Networking-readwise-hl.md",
+    "3 Resources/Readwise/40846334-What-Nix-Will-Have-Been-readwise-hl.md",
+    "3 Resources/Readwise/40824798-What-I-Think-About-When-I-Edit-readwise-hl.md",
+    "3 Resources/Readwise/40505978-You-Are-What-You-Read,-Even-if-You-Don’t-Always-Remember-It-readwise-hl.md",
+    "3 Resources/Readwise/40215669-Advice-to-Young-People,-the-Lies-I-Tell-Myself-readwise-hl.md",
+    "3 Resources/Readwise/40152818-How-the-Navy-Seal-Fall-Asleep-Within-2-Minutes-readwise-hl.md",
+    "3 Resources/Readwise/40018711-Laws-of-Software-Evolution-readwise-hl.md",
+    "3 Resources/Readwise/39856886-The-Shirky-Principle-Institutions-Try-to-Preserve-the-Problem-to-Which-They-Are-the-Solution-readwise-hl.md",
+    "3 Resources/Readwise/39183787-Why-We-Can't-Have-Nice-Software-readwise-hl.md",
+    "3 Resources/Readwise/36861048-Elf-readwise-hl.md",
+    "3 Resources/Readwise/41746200-Starter-Villain-readwise-hl.md",
     "3 Resources/Readwise",
-    "3 Resources/ELF/_attachments/Example executable file.png",
+    "_attachments/Pasted image 20240524214517.png",
+    "_attachments/Pasted image 20240509141103.png",
+    "_attachments/Pasted image 20240428211635.png",
+    "3 Resources/_attachments/592FBD16-DFF0-47D4-8CB7-FE893E0C8C8D_1_102_o.jpeg",
+    "3 Resources/_attachments/B2A12BCC-24F7-48A2-8FC9-CCC872DA72C0_1_102_o.jpeg",
+    "2 Areas/Writing",
+    "_attachments/98a4333d5d0ee791892f992d2788b2d3.jpg",
+    "_attachments/10ed6733d7cb05554c8ad1dad6f64357.jpg",
+    "_attachments/37bc0d55bebab049c2560bcd93dca87f.jpg",
+    "_attachments/Pasted image 20240426215056.png",
+    "_attachments/Kurt_Vonnegut_note_highschool.png",
     "3 Resources/ELF/_attachments",
     "2 Areas/Child Care",
     "3 Resources/Hardware/SAMD21/_attachments/SAM-D21DA1-Family-Data-Sheet-DS40001882G.pdf",
@@ -194,16 +203,6 @@
     "3 Resources/Linkers & loaders/Linkers & Loaders.pdf",
     "3 Resources/Linkers & loaders",
     "3 Resources/Hardware/nRF52",
-    "3 Resources/ELF",
-    "2 Areas/Cooking Receipts",
-    "_attachments/Pasted image 20240206112105.png",
-    "1 Projects/_attachments/592FBD16-DFF0-47D4-8CB7-FE893E0C8C8D_1_102_o.jpeg",
-    "1 Projects/_attachments/B2A12BCC-24F7-48A2-8FC9-CCC872DA72C0_1_102_o.jpeg",
-    "_attachments/Pasted image 20231112110613.png",
-    "_attachments/Pasted image 20231115200826.png",
-    "_attachments/Pasted image 20240103222531.png",
-    "_attachments/Pasted image 20240103183842.png",
-    "3 Resources/_attachments/Pasted image 20231218110125.png",
-    "3 Resources/_attachments/Pasted image 20231120134015.png"
+    "3 Resources/ELF"
   ]
 }

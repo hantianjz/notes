@@ -4,8 +4,8 @@ tags:
 link:
   - "[[gtd]]"
 ---
-[[Daily 2024 Q1]]
-[[Fi 2024 Q1 Notes]]
+[[Daily 2024 Q2]]
+[[Fi 2024 Q2 Notes|Fi 2024 Q2 Notes]]
 
 # TODO Project Ideas
 - ELF exploration
@@ -16,6 +16,8 @@ link:
     - What can the FX3 control and use
 - USB protocol
     - Learn how to build a USB protocol analyzer
+- Investigate:
+    - [A physical layer simulator](https://github.com/BabbleSim) 
 # [[unsorted]]
 ```tasks
 short mode

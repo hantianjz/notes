@@ -11,11 +11,13 @@ tags:
 
 - [ ] Fix dynamic DNS reporting script
 
-- [ ] A philosophy of software design $reading
+
+- [x] Story worth $reading 🔺 ✅ 2024-07-11
+- [/] Cribsheet $reading
+- [/] A philosophy of software design $reading
 - [ ] Better Embedded software [Buy here](https://www.smashwords.com/books/view/1264918) $reading
-- [/] When Einstein Walked with Gödel $reading
-- [/] https://www.beyondlogic.org/usbnutshell/usb1.shtml $reading
-- [/] Oblivion stories $reading
+- [ ] https://www.beyondlogic.org/usbnutshell/usb1.shtml $reading
+
 - [ ] Basic Machine and how they work $reading
 - [ ] The Hardware hacking handbook $reading
 - [ ] Structures or why things don't fall down $reading
